@@ -113,8 +113,8 @@
             ]
           },
           "position": {
-            "x": 824,
-            "y": 664
+            "x": 760,
+            "y": 672
           }
         },
         {
@@ -139,8 +139,8 @@
             ]
           },
           "position": {
-            "x": 88,
-            "y": 696
+            "x": 24,
+            "y": 704
           }
         },
         {
@@ -158,7 +158,7 @@
             ]
           },
           "position": {
-            "x": 592,
+            "x": 536,
             "y": 800
           }
         },
@@ -178,15 +178,15 @@
             "clock": false
           },
           "position": {
-            "x": 72,
-            "y": 912
+            "x": 8,
+            "y": 832
           }
         },
         {
           "id": "3df97c68-1a07-44cd-9756-4554f99b99a2",
           "type": "basic.constant",
           "data": {
-            "name": "",
+            "name": "Initial_value",
             "value": "'b11",
             "local": false
           },
@@ -199,16 +199,16 @@
           "id": "a95f29b1-1ae1-4dfc-b3fd-a213862eaea2",
           "type": "basic.info",
           "data": {
-            "info": "## Sys-SR Register: Manual testing",
+            "info": "## Sys-SR Register: Manual testing\n\nThe data from the shif register (initially with the value 3) is  \ncaptured by two LEDOscopes",
             "readonly": true
           },
           "position": {
-            "x": 128,
-            "y": 184
+            "x": -64,
+            "y": 160
           },
           "size": {
-            "width": 448,
-            "height": 40
+            "width": 504,
+            "height": 88
           }
         },
         {
@@ -239,8 +239,8 @@
           "id": "29890758-6247-481d-b23d-eba71ca7e6be",
           "type": "f343ddae2d2d482122701507323b17ee02880898",
           "position": {
-            "x": 248,
-            "y": 896
+            "x": 184,
+            "y": 816
           },
           "size": {
             "width": 96,
@@ -251,8 +251,8 @@
           "id": "f6c34943-509a-413a-9aae-4811b18be2bc",
           "type": "c1f357d819bb0eabd75f9be6833759115bf200e6",
           "position": {
-            "x": 432,
-            "y": 680
+            "x": 368,
+            "y": 688
           },
           "size": {
             "width": 96,
@@ -263,8 +263,8 @@
           "id": "7e612576-d78e-4367-a5d4-25922c0fdde7",
           "type": "8efab2dc4a8a2ff18fbaea8e4c9ce284db0ca362",
           "position": {
-            "x": 248,
-            "y": 696
+            "x": 184,
+            "y": 704
           },
           "size": {
             "width": 96,
@@ -275,8 +275,8 @@
           "id": "843ccfed-9212-435e-86de-25514fb8c2fc",
           "type": "558f1ab82ddaacf3ee6df6fb1f7e285f64dedad8",
           "position": {
-            "x": 656,
-            "y": 664
+            "x": 592,
+            "y": 672
           },
           "size": {
             "width": 96,
@@ -293,6 +293,70 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "fd6a6847-7386-4765-8c94-4bcf4616b666",
+          "type": "basic.info",
+          "data": {
+            "info": "Sys-Shit-Right",
+            "readonly": true
+          },
+          "position": {
+            "x": 344,
+            "y": 512
+          },
+          "size": {
+            "width": 128,
+            "height": 32
+          }
+        },
+        {
+          "id": "1e08a69c-0666-4e2c-9436-b2db2205fb2d",
+          "type": "basic.info",
+          "data": {
+            "info": "LEDoscope",
+            "readonly": true
+          },
+          "position": {
+            "x": 632,
+            "y": 512
+          },
+          "size": {
+            "width": 104,
+            "height": 32
+          }
+        },
+        {
+          "id": "ecca10dc-284b-4478-8ca1-cf3a7d8334e8",
+          "type": "basic.info",
+          "data": {
+            "info": "LEDoscope-Data",
+            "readonly": true
+          },
+          "position": {
+            "x": 368,
+            "y": 800
+          },
+          "size": {
+            "width": 136,
+            "height": 32
+          }
+        },
+        {
+          "id": "fbff6514-4f4a-4602-b0cb-06fe08ec586f",
+          "type": "basic.info",
+          "data": {
+            "info": "| Cycle | 0  | 1  | 2  | 3  |\n|-------|----|----|----|----|\n| Value | 11 | 01 | 00 | 00 |\n| so    |  1 |  1 | 0  |  0 |",
+            "readonly": true
+          },
+          "position": {
+            "x": -64,
+            "y": 296
+          },
+          "size": {
+            "width": 248,
+            "height": 88
           }
         }
       ],
