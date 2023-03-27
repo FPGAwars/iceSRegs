@@ -149,7 +149,7 @@
           "id": "2ff15a7a-110b-476b-aacd-1f99014b2c99",
           "type": "basic.info",
           "data": {
-            "info": "## SR3 Register: Manual testing\n\nUnary counter shown in the LEDs",
+            "info": "## SR4 Register: Manual testing\n\nUnary counter shown in the LEDs",
             "readonly": true
           },
           "position": {
@@ -186,8 +186,8 @@
           }
         },
         {
-          "id": "0f56732e-8258-4dfd-a778-ca344e21438b",
-          "type": "5dded710e4d3b6e5194aaf0495095a516ef81a62",
+          "id": "f99e6cb8-8706-41d8-ba99-c0edc09510c7",
+          "type": "f80f2c26c553e805561c80eab27fc78b1725b2ee",
           "position": {
             "x": 592,
             "y": 504
@@ -198,8 +198,8 @@
           }
         },
         {
-          "id": "c04e2192-ab7e-4d34-a393-4fa57a72a53f",
-          "type": "ae4f601caff7ca596e4dd9ea92993595a531d30a",
+          "id": "b15e221e-4ec5-41fd-8e13-d56c83a0f9cb",
+          "type": "d490d9380a4ffb62cc3bb4a5abd5a578dea960b6",
           "position": {
             "x": 768,
             "y": 488
@@ -227,7 +227,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "0f56732e-8258-4dfd-a778-ca344e21438b",
+            "block": "f99e6cb8-8706-41d8-ba99-c0edc09510c7",
             "port": "d7dd1105-d7cd-4fcc-a6b1-7eae6282506e"
           }
         },
@@ -247,13 +247,13 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "0f56732e-8258-4dfd-a778-ca344e21438b",
+            "block": "f99e6cb8-8706-41d8-ba99-c0edc09510c7",
             "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
           }
         },
         {
           "source": {
-            "block": "c04e2192-ab7e-4d34-a393-4fa57a72a53f",
+            "block": "b15e221e-4ec5-41fd-8e13-d56c83a0f9cb",
             "port": "e0cb078e-5589-4f38-983f-ff5d02d74932"
           },
           "target": {
@@ -264,7 +264,7 @@
         },
         {
           "source": {
-            "block": "0f56732e-8258-4dfd-a778-ca344e21438b",
+            "block": "f99e6cb8-8706-41d8-ba99-c0edc09510c7",
             "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
           },
           "target": {
@@ -274,14 +274,14 @@
         },
         {
           "source": {
-            "block": "0f56732e-8258-4dfd-a778-ca344e21438b",
-            "port": "f9c51f14-9bb1-4bb3-a7fb-e17963566d5a"
+            "block": "f99e6cb8-8706-41d8-ba99-c0edc09510c7",
+            "port": "e3f01bc4-ec62-4356-b798-b3592122c909"
           },
           "target": {
-            "block": "c04e2192-ab7e-4d34-a393-4fa57a72a53f",
-            "port": "9b7ae859-16bc-4cb6-af0d-620d71078b9d"
+            "block": "b15e221e-4ec5-41fd-8e13-d56c83a0f9cb",
+            "port": "ec286ed1-a32d-45ae-bc77-cd82748b2fe8"
           },
-          "size": 3
+          "size": 4
         }
       ]
     }
@@ -10451,11 +10451,11 @@
         }
       }
     },
-    "5dded710e4d3b6e5194aaf0495095a516ef81a62": {
+    "f80f2c26c553e805561c80eab27fc78b1725b2ee": {
       "package": {
-        "name": "SR-03-verilog",
+        "name": "SR-04-verilog",
         "version": "0.4",
-        "description": "SR-03-verilog: 3-bits Shift register to the right.  Verilog implementation",
+        "description": "SR-04-verilog: 4-bits Shift register to the right.  Verilog implementation",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22286.865%22%20height=%22270.294%22%20viewBox=%220%200%2075.899794%2071.515403%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M43.907%2045.917h10.645%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M102.876%20163.95l4.552%2028.037%205.644-28.037%22%20fill=%22#ccc%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-85.712%20-15.223)%22/%3E%3Cpath%20d=%22M99.758%20149.859l2.39-28.512h-9.831v-5.462h31.86v5.462h-9.284l1.724%2028.769s7.509%201.248%209.269%206.48c1.76%205.231-.367%207.286.15%207.36l-36.077-.044s-.817-6.104%202.015-9.194c2.832-3.09%207.784-4.86%207.784-4.86z%22%20fill=%22red%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-85.712%20-15.223)%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M102.876%20163.95l4.552%2028.037%205.644-28.037%22%20fill=%22#ccc%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-69.38%20-16.16)%22/%3E%3Cpath%20d=%22M99.758%20149.859l2.39-28.512h-9.831v-5.462h31.86v5.462h-9.284l1.724%2028.769s7.509%201.248%209.269%206.48c1.76%205.231-.367%207.286.15%207.36l-36.077-.044s-.817-6.104%202.015-9.194c2.832-3.09%207.784-4.86%207.784-4.86z%22%20fill=%22red%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-69.38%20-16.16)%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M57.38%205.385h10.645M25.882%203.789c-.832%200-1.506.662-1.507%201.481%200%20.819.675%201.482%201.507%201.481h41.82c.832.001%201.507-.662%201.508-1.48%200-.82-.676-1.483-1.507-1.482z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M72.334%205.385l-6.46%203.676V1.71z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70563%200%200%20.69474%2015.592%20-128.57)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-93.518%20-25.21)%20scale(1.09073)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20cx=%22100.602%22%20cy=%2273.815%22%20r=%2214.559%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1618509859237
@@ -10476,29 +10476,12 @@
               }
             },
             {
-              "id": "f9c51f14-9bb1-4bb3-a7fb-e17963566d5a",
+              "id": "e3f01bc4-ec62-4356-b798-b3592122c909",
               "type": "basic.output",
               "data": {
                 "name": "",
-                "virtual": true,
-                "range": "[2:0]",
-                "pins": [
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "range": "[3:0]",
+                "size": 4
               },
               "position": {
                 "x": 808,
@@ -10544,15 +10527,7 @@
               "id": "2db5500c-71a6-4335-8bd0-701afda87946",
               "type": "basic.output",
               "data": {
-                "name": "nc",
-                "virtual": true,
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "name": "nc"
               },
               "position": {
                 "x": 808,
@@ -10591,8 +10566,8 @@
                   "out": [
                     {
                       "name": "q",
-                      "range": "[2:0]",
-                      "size": 3
+                      "range": "[3:0]",
+                      "size": 4
                     },
                     {
                       "name": "sout"
@@ -10604,7 +10579,7 @@
                     "name": "INI"
                   }
                 ],
-                "code": "//-- Generic Shift Right register\n//-- Number of bits\nlocalparam N = 3;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n\n  //-- Shift to the right when the\n  //-- shift iput is 1\n  if (shift == 1)\n\n    //-- Shift to the right\n    q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
+                "code": "//-- Generic Shift Right register\n//-- Number of bits\nlocalparam N = 4;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n\n  //-- Shift to the right when the\n  //-- shift iput is 1\n  if (shift == 1)\n\n    //-- Shift to the right\n    q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
               },
               "position": {
                 "x": 376,
@@ -10673,20 +10648,20 @@
                 "port": "q"
               },
               "target": {
-                "block": "f9c51f14-9bb1-4bb3-a7fb-e17963566d5a",
+                "block": "e3f01bc4-ec62-4356-b798-b3592122c909",
                 "port": "in"
               },
-              "size": 3
+              "size": 4
             }
           ]
         }
       }
     },
-    "ae4f601caff7ca596e4dd9ea92993595a531d30a": {
+    "d490d9380a4ffb62cc3bb4a5abd5a578dea960b6": {
       "package": {
-        "name": "UINT8-3bit-verilog",
+        "name": "UINT8-4bit-verilog",
         "version": "0.1",
-        "description": "UINT8-3bit-verilog:  Extend a 3-bit unsigned integer to 8-bits. Verilog implementation ",
+        "description": "UINT8-4bit-verilog:  Extend a 4-bit unsigned integer to 8-bits. Verilog implementation ",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1621785467119
@@ -10708,13 +10683,13 @@
               }
             },
             {
-              "id": "9b7ae859-16bc-4cb6-af0d-620d71078b9d",
+              "id": "ec286ed1-a32d-45ae-bc77-cd82748b2fe8",
               "type": "basic.input",
               "data": {
                 "name": "i",
-                "range": "[2:0]",
+                "range": "[3:0]",
                 "clock": false,
-                "size": 3
+                "size": 4
               },
               "position": {
                 "x": 352,
@@ -10729,8 +10704,8 @@
                   "in": [
                     {
                       "name": "i",
-                      "range": "[2:0]",
-                      "size": 3
+                      "range": "[3:0]",
+                      "size": 4
                     }
                   ],
                   "out": [
@@ -10742,7 +10717,7 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-3 0s\nassign o = { {(N-3){0}} , i};"
+                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-4 0s\nassign o = { {(N-4){0}} , i};"
               },
               "position": {
                 "x": 504,
@@ -10768,14 +10743,14 @@
             },
             {
               "source": {
-                "block": "9b7ae859-16bc-4cb6-af0d-620d71078b9d",
+                "block": "ec286ed1-a32d-45ae-bc77-cd82748b2fe8",
                 "port": "out"
               },
               "target": {
                 "block": "060b73c2-8fae-4f64-8db2-c8335f464d4c",
                 "port": "i"
               },
-              "size": 3
+              "size": 4
             }
           ]
         }
