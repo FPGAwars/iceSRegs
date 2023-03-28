@@ -25,7 +25,7 @@
           }
         },
         {
-          "id": "4aae53c3-6d2c-49b9-9b5c-d22c2dc7b080",
+          "id": "91c26c2d-f93b-4dfa-a646-c5edf71a51f7",
           "type": "basic.output",
           "data": {
             "name": "",
@@ -234,7 +234,7 @@
             "port": "q"
           },
           "target": {
-            "block": "4aae53c3-6d2c-49b9-9b5c-d22c2dc7b080",
+            "block": "91c26c2d-f93b-4dfa-a646-c5edf71a51f7",
             "port": "in"
           },
           "size": 7

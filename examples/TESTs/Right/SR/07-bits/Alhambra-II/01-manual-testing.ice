@@ -186,8 +186,8 @@
           }
         },
         {
-          "id": "94ab07c0-d935-4f21-9726-189037150f0e",
-          "type": "9e51a84be5d8d889c658fb53aaf8570c8b132c0e",
+          "id": "b5a68a0b-433d-41d7-bd45-b36b7cd42766",
+          "type": "1663245bf8e7467902c5cb816d9d55b950f41e47",
           "position": {
             "x": 592,
             "y": 504
@@ -198,8 +198,8 @@
           }
         },
         {
-          "id": "2612805c-88ff-45fa-bc9b-67a432270857",
-          "type": "a2d8ef00cb7e3a58cb88548d56c4c3eae5165309",
+          "id": "08ec06a7-b725-4545-b6bb-f2e9849a104f",
+          "type": "4dcf09c1638f482e0a09f566cf2d75ddb3aa5e9f",
           "position": {
             "x": 768,
             "y": 488
@@ -227,7 +227,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "94ab07c0-d935-4f21-9726-189037150f0e",
+            "block": "b5a68a0b-433d-41d7-bd45-b36b7cd42766",
             "port": "d7dd1105-d7cd-4fcc-a6b1-7eae6282506e"
           }
         },
@@ -247,13 +247,13 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "94ab07c0-d935-4f21-9726-189037150f0e",
+            "block": "b5a68a0b-433d-41d7-bd45-b36b7cd42766",
             "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
           }
         },
         {
           "source": {
-            "block": "2612805c-88ff-45fa-bc9b-67a432270857",
+            "block": "08ec06a7-b725-4545-b6bb-f2e9849a104f",
             "port": "e0cb078e-5589-4f38-983f-ff5d02d74932"
           },
           "target": {
@@ -264,7 +264,7 @@
         },
         {
           "source": {
-            "block": "94ab07c0-d935-4f21-9726-189037150f0e",
+            "block": "b5a68a0b-433d-41d7-bd45-b36b7cd42766",
             "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
           },
           "target": {
@@ -274,14 +274,14 @@
         },
         {
           "source": {
-            "block": "94ab07c0-d935-4f21-9726-189037150f0e",
-            "port": "5a251f32-ce5d-4605-83da-cc032e52c673"
+            "block": "b5a68a0b-433d-41d7-bd45-b36b7cd42766",
+            "port": "91c26c2d-f93b-4dfa-a646-c5edf71a51f7"
           },
           "target": {
-            "block": "2612805c-88ff-45fa-bc9b-67a432270857",
-            "port": "27567e1d-b58e-469b-8721-e05dc92c9de4"
+            "block": "08ec06a7-b725-4545-b6bb-f2e9849a104f",
+            "port": "30b5105d-4136-448f-96c5-f6c37b044ee0"
           },
-          "size": 6
+          "size": 7
         }
       ]
     }
@@ -10451,11 +10451,11 @@
         }
       }
     },
-    "9e51a84be5d8d889c658fb53aaf8570c8b132c0e": {
+    "1663245bf8e7467902c5cb816d9d55b950f41e47": {
       "package": {
-        "name": "SR-06-verilog",
+        "name": "SR-07-verilog",
         "version": "0.4",
-        "description": "SR-06-verilog: 6-bits Shift register to the right.  Verilog implementation",
+        "description": "SR-07-verilog: 7-bits Shift register to the right.  Verilog implementation",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22286.865%22%20height=%22270.294%22%20viewBox=%220%200%2075.899794%2071.515403%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M43.907%2045.917h10.645%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M102.876%20163.95l4.552%2028.037%205.644-28.037%22%20fill=%22#ccc%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-85.712%20-15.223)%22/%3E%3Cpath%20d=%22M99.758%20149.859l2.39-28.512h-9.831v-5.462h31.86v5.462h-9.284l1.724%2028.769s7.509%201.248%209.269%206.48c1.76%205.231-.367%207.286.15%207.36l-36.077-.044s-.817-6.104%202.015-9.194c2.832-3.09%207.784-4.86%207.784-4.86z%22%20fill=%22red%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-85.712%20-15.223)%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M102.876%20163.95l4.552%2028.037%205.644-28.037%22%20fill=%22#ccc%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-69.38%20-16.16)%22/%3E%3Cpath%20d=%22M99.758%20149.859l2.39-28.512h-9.831v-5.462h31.86v5.462h-9.284l1.724%2028.769s7.509%201.248%209.269%206.48c1.76%205.231-.367%207.286.15%207.36l-36.077-.044s-.817-6.104%202.015-9.194c2.832-3.09%207.784-4.86%207.784-4.86z%22%20fill=%22red%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-69.38%20-16.16)%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M57.38%205.385h10.645M25.882%203.789c-.832%200-1.506.662-1.507%201.481%200%20.819.675%201.482%201.507%201.481h41.82c.832.001%201.507-.662%201.508-1.48%200-.82-.676-1.483-1.507-1.482z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M72.334%205.385l-6.46%203.676V1.71z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70563%200%200%20.69474%2015.592%20-128.57)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-93.518%20-25.21)%20scale(1.09073)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20cx=%22100.602%22%20cy=%2273.815%22%20r=%2214.559%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1618509859237
@@ -10476,13 +10476,18 @@
               }
             },
             {
-              "id": "5a251f32-ce5d-4605-83da-cc032e52c673",
+              "id": "91c26c2d-f93b-4dfa-a646-c5edf71a51f7",
               "type": "basic.output",
               "data": {
                 "name": "",
                 "virtual": true,
-                "range": "[5:0]",
+                "range": "[6:0]",
                 "pins": [
+                  {
+                    "index": "6",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
                   {
                     "index": "5",
                     "name": "NULL",
@@ -10598,8 +10603,8 @@
                   "out": [
                     {
                       "name": "q",
-                      "range": "[5:0]",
-                      "size": 6
+                      "range": "[6:0]",
+                      "size": 7
                     },
                     {
                       "name": "sout"
@@ -10611,7 +10616,7 @@
                     "name": "INI"
                   }
                 ],
-                "code": "//-- Generic Shift Right register\n//-- Number of bits\nlocalparam N = 6;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n\n  //-- Shift to the right when the\n  //-- shift iput is 1\n  if (shift == 1)\n\n    //-- Shift to the right\n    q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
+                "code": "//-- Generic Shift Right register\n//-- Number of bits\nlocalparam N = 7;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n\n  //-- Shift to the right when the\n  //-- shift iput is 1\n  if (shift == 1)\n\n    //-- Shift to the right\n    q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
               },
               "position": {
                 "x": 376,
@@ -10680,20 +10685,20 @@
                 "port": "q"
               },
               "target": {
-                "block": "5a251f32-ce5d-4605-83da-cc032e52c673",
+                "block": "91c26c2d-f93b-4dfa-a646-c5edf71a51f7",
                 "port": "in"
               },
-              "size": 6
+              "size": 7
             }
           ]
         }
       }
     },
-    "a2d8ef00cb7e3a58cb88548d56c4c3eae5165309": {
+    "4dcf09c1638f482e0a09f566cf2d75ddb3aa5e9f": {
       "package": {
-        "name": "UINT8-6bit-verilog",
+        "name": "UINT8-7bit-verilog",
         "version": "0.1",
-        "description": "UINT8-6bit-verilog:  Extend a 6-bit unsigned integer to 8-bits. Verilog implementation ",
+        "description": "UINT8-7bit-verilog:  Extend a 7-bit unsigned integer to 8-bits. Verilog implementation ",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1621785467119
@@ -10715,13 +10720,13 @@
               }
             },
             {
-              "id": "27567e1d-b58e-469b-8721-e05dc92c9de4",
+              "id": "30b5105d-4136-448f-96c5-f6c37b044ee0",
               "type": "basic.input",
               "data": {
                 "name": "i",
-                "range": "[5:0]",
+                "range": "[6:0]",
                 "clock": false,
-                "size": 6
+                "size": 7
               },
               "position": {
                 "x": 352,
@@ -10736,8 +10741,8 @@
                   "in": [
                     {
                       "name": "i",
-                      "range": "[5:0]",
-                      "size": 6
+                      "range": "[6:0]",
+                      "size": 7
                     }
                   ],
                   "out": [
@@ -10749,7 +10754,7 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-6 0s\nassign o = { {(N-6){0}} , i};"
+                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-7 0s\nassign o = { {(N-7){0}} , i};"
               },
               "position": {
                 "x": 504,
@@ -10775,14 +10780,14 @@
             },
             {
               "source": {
-                "block": "27567e1d-b58e-469b-8721-e05dc92c9de4",
+                "block": "30b5105d-4136-448f-96c5-f6c37b044ee0",
                 "port": "out"
               },
               "target": {
                 "block": "060b73c2-8fae-4f64-8db2-c8335f464d4c",
                 "port": "i"
               },
-              "size": 6
+              "size": 7
             }
           ]
         }
