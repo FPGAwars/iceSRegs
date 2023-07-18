@@ -92,6 +92,25 @@
           }
         },
         {
+          "id": "2ae5f929-27f2-4e23-beed-cb6a6032b081",
+          "type": "basic.output",
+          "data": {
+            "name": "SO",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "DD0",
+                "value": "114"
+              }
+            ]
+          },
+          "position": {
+            "x": 752,
+            "y": 544
+          }
+        },
+        {
           "id": "b74d0042-ede9-4672-bc99-99c61cd0caef",
           "type": "basic.output",
           "data": {
@@ -142,27 +161,8 @@
             ]
           },
           "position": {
-            "x": 944,
-            "y": 488
-          }
-        },
-        {
-          "id": "2ae5f929-27f2-4e23-beed-cb6a6032b081",
-          "type": "basic.output",
-          "data": {
-            "name": "SO",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "DD0",
-                "value": "114"
-              }
-            ]
-          },
-          "position": {
-            "x": 760,
-            "y": 704
+            "x": 936,
+            "y": 552
           }
         },
         {
@@ -274,8 +274,8 @@
           "id": "6a539564-2c91-4732-aa58-31598b2ee938",
           "type": "8364ef2d291a634ae1e8f85c18f7da0d3131fa07",
           "position": {
-            "x": 768,
-            "y": 600
+            "x": 776,
+            "y": 664
           },
           "size": {
             "width": 96,
@@ -10726,6 +10726,17 @@
         "graph": {
           "blocks": [
             {
+              "id": "f8d77e9a-1890-407c-9f05-202bb56357d1",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 824,
+                "y": -48
+              }
+            },
+            {
               "id": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
               "type": "basic.input",
               "data": {
@@ -10738,15 +10749,13 @@
               }
             },
             {
-              "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
+              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
               "type": "basic.output",
               "data": {
-                "name": "",
-                "range": "[1:0]",
-                "size": 2
+                "name": "so"
               },
               "position": {
-                "x": 808,
+                "x": 824,
                 "y": 72
               }
             },
@@ -10801,10 +10810,12 @@
               }
             },
             {
-              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+              "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
               "type": "basic.output",
               "data": {
-                "name": "so"
+                "name": "",
+                "range": "[1:0]",
+                "size": 2
               },
               "position": {
                 "x": 808,
@@ -10832,25 +10843,14 @@
               }
             },
             {
-              "id": "f8d77e9a-1890-407c-9f05-202bb56357d1",
-              "type": "basic.output",
-              "data": {
-                "name": "nc"
-              },
-              "position": {
-                "x": 832,
-                "y": 384
-              }
-            },
-            {
               "id": "2db5500c-71a6-4335-8bd0-701afda87946",
               "type": "basic.output",
               "data": {
                 "name": "nc"
               },
               "position": {
-                "x": 832,
-                "y": 464
+                "x": 808,
+                "y": 344
               }
             },
             {
@@ -10860,8 +10860,8 @@
                 "name": "nc"
               },
               "position": {
-                "x": 832,
-                "y": 536
+                "x": 808,
+                "y": 416
               }
             },
             {
@@ -10903,12 +10903,12 @@
                   ],
                   "out": [
                     {
+                      "name": "sout"
+                    },
+                    {
                       "name": "q",
                       "range": "[1:0]",
                       "size": 2
-                    },
-                    {
-                      "name": "sout"
                     }
                   ]
                 },

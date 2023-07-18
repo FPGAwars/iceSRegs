@@ -13,6 +13,17 @@
     "graph": {
       "blocks": [
         {
+          "id": "f8d77e9a-1890-407c-9f05-202bb56357d1",
+          "type": "basic.output",
+          "data": {
+            "name": "nc"
+          },
+          "position": {
+            "x": 824,
+            "y": -48
+          }
+        },
+        {
           "id": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
           "type": "basic.input",
           "data": {
@@ -25,15 +36,13 @@
           }
         },
         {
-          "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
+          "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
           "type": "basic.output",
           "data": {
-            "name": "",
-            "range": "[1:0]",
-            "size": 2
+            "name": "so"
           },
           "position": {
-            "x": 808,
+            "x": 824,
             "y": 72
           }
         },
@@ -88,10 +97,12 @@
           }
         },
         {
-          "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+          "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
           "type": "basic.output",
           "data": {
-            "name": "so"
+            "name": "",
+            "range": "[1:0]",
+            "size": 2
           },
           "position": {
             "x": 808,
@@ -119,25 +130,14 @@
           }
         },
         {
-          "id": "f8d77e9a-1890-407c-9f05-202bb56357d1",
-          "type": "basic.output",
-          "data": {
-            "name": "nc"
-          },
-          "position": {
-            "x": 832,
-            "y": 384
-          }
-        },
-        {
           "id": "2db5500c-71a6-4335-8bd0-701afda87946",
           "type": "basic.output",
           "data": {
             "name": "nc"
           },
           "position": {
-            "x": 832,
-            "y": 464
+            "x": 808,
+            "y": 344
           }
         },
         {
@@ -147,8 +147,8 @@
             "name": "nc"
           },
           "position": {
-            "x": 832,
-            "y": 536
+            "x": 808,
+            "y": 416
           }
         },
         {
@@ -190,12 +190,12 @@
               ],
               "out": [
                 {
+                  "name": "sout"
+                },
+                {
                   "name": "q",
                   "range": "[1:0]",
                   "size": 2
-                },
-                {
-                  "name": "sout"
                 }
               ]
             },
