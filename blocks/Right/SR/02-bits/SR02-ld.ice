@@ -36,26 +36,16 @@
           }
         },
         {
-          "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+          "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
           "type": "basic.output",
           "data": {
-            "name": "so"
+            "name": "",
+            "range": "[1:0]",
+            "size": 2
           },
           "position": {
-            "x": 824,
+            "x": 800,
             "y": 72
-          }
-        },
-        {
-          "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
-          "type": "basic.input",
-          "data": {
-            "name": "si",
-            "clock": false
-          },
-          "position": {
-            "x": 200,
-            "y": 96
           }
         },
         {
@@ -80,7 +70,19 @@
             "clock": false
           },
           "position": {
-            "x": 200,
+            "x": 192,
+            "y": 96
+          }
+        },
+        {
+          "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
+          "type": "basic.input",
+          "data": {
+            "name": "si",
+            "clock": false
+          },
+          "position": {
+            "x": 192,
             "y": 168
           }
         },
@@ -97,15 +99,13 @@
           }
         },
         {
-          "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
+          "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
           "type": "basic.output",
           "data": {
-            "name": "",
-            "range": "[1:0]",
-            "size": 2
+            "name": "so"
           },
           "position": {
-            "x": 808,
+            "x": 800,
             "y": 256
           }
         },
@@ -174,12 +174,12 @@
                   "name": "clk"
                 },
                 {
-                  "name": "sin"
-                },
-                {
                   "name": "din",
                   "range": "[1:0]",
                   "size": 2
+                },
+                {
+                  "name": "sin"
                 },
                 {
                   "name": "shift"
@@ -190,12 +190,12 @@
               ],
               "out": [
                 {
-                  "name": "sout"
-                },
-                {
                   "name": "q",
                   "range": "[1:0]",
                   "size": 2
+                },
+                {
+                  "name": "sout"
                 }
               ]
             },

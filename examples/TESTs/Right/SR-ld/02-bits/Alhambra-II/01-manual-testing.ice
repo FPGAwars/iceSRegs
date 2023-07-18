@@ -92,25 +92,6 @@
           }
         },
         {
-          "id": "2ae5f929-27f2-4e23-beed-cb6a6032b081",
-          "type": "basic.output",
-          "data": {
-            "name": "SO",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "DD0",
-                "value": "114"
-              }
-            ]
-          },
-          "position": {
-            "x": 752,
-            "y": 544
-          }
-        },
-        {
           "id": "b74d0042-ede9-4672-bc99-99c61cd0caef",
           "type": "basic.output",
           "data": {
@@ -181,8 +162,27 @@
             ]
           },
           "position": {
-            "x": 408,
-            "y": 744
+            "x": 416,
+            "y": 792
+          }
+        },
+        {
+          "id": "2ae5f929-27f2-4e23-beed-cb6a6032b081",
+          "type": "basic.output",
+          "data": {
+            "name": "SO",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "DD0",
+                "value": "114"
+              }
+            ]
+          },
+          "position": {
+            "x": 736,
+            "y": 824
           }
         },
         {
@@ -201,8 +201,8 @@
             ]
           },
           "position": {
-            "x": 408,
-            "y": 800
+            "x": 416,
+            "y": 848
           }
         },
         {
@@ -214,8 +214,8 @@
             "local": false
           },
           "position": {
-            "x": 272,
-            "y": 568
+            "x": 384,
+            "y": 512
           }
         },
         {
@@ -250,8 +250,8 @@
           "id": "b31797c5-1981-4ba5-92f8-5152c233ab38",
           "type": "febcfed8636b8ee9a98750b96ed9e53a165dd4a8",
           "position": {
-            "x": 400,
-            "y": 576
+            "x": 384,
+            "y": 696
           },
           "size": {
             "width": 96,
@@ -286,8 +286,8 @@
           "id": "71fbaaf8-5748-449d-bb0f-d44edb8cdf4b",
           "type": "fe570d4570ffceba45e27a38424178d59b30330d",
           "position": {
-            "x": 592,
-            "y": 616
+            "x": 584,
+            "y": 648
           },
           "size": {
             "width": 96,
@@ -298,8 +298,8 @@
           "id": "3ee72f94-96de-405a-a87b-710ce1bc8f58",
           "type": "b6461bbbcd4dde3fe466b20c80dbe98c5cea8a72",
           "position": {
-            "x": 272,
-            "y": 664
+            "x": 384,
+            "y": 608
           },
           "size": {
             "width": 96,
@@ -337,12 +337,7 @@
             "block": "71fbaaf8-5748-449d-bb0f-d44edb8cdf4b",
             "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
           },
-          "vertices": [
-            {
-              "x": 528,
-              "y": 632
-            }
-          ]
+          "vertices": []
         },
         {
           "source": {
@@ -355,8 +350,8 @@
           },
           "vertices": [
             {
-              "x": 536,
-              "y": 768
+              "x": 544,
+              "y": 816
             }
           ]
         },
@@ -444,6 +439,12 @@
             "block": "71fbaaf8-5748-449d-bb0f-d44edb8cdf4b",
             "port": "388e6e8f-caa5-4124-ab55-bb47c3eab494"
           },
+          "vertices": [
+            {
+              "x": 504,
+              "y": 672
+            }
+          ],
           "size": 2
         }
       ]
@@ -10749,26 +10750,16 @@
               }
             },
             {
-              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+              "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
               "type": "basic.output",
               "data": {
-                "name": "so"
+                "name": "",
+                "range": "[1:0]",
+                "size": 2
               },
               "position": {
-                "x": 824,
+                "x": 800,
                 "y": 72
-              }
-            },
-            {
-              "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
-              "type": "basic.input",
-              "data": {
-                "name": "si",
-                "clock": false
-              },
-              "position": {
-                "x": 200,
-                "y": 96
               }
             },
             {
@@ -10793,7 +10784,19 @@
                 "clock": false
               },
               "position": {
-                "x": 200,
+                "x": 192,
+                "y": 96
+              }
+            },
+            {
+              "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
+              "type": "basic.input",
+              "data": {
+                "name": "si",
+                "clock": false
+              },
+              "position": {
+                "x": 192,
                 "y": 168
               }
             },
@@ -10810,15 +10813,13 @@
               }
             },
             {
-              "id": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
+              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
               "type": "basic.output",
               "data": {
-                "name": "",
-                "range": "[1:0]",
-                "size": 2
+                "name": "so"
               },
               "position": {
-                "x": 808,
+                "x": 800,
                 "y": 256
               }
             },
@@ -10887,12 +10888,12 @@
                       "name": "clk"
                     },
                     {
-                      "name": "sin"
-                    },
-                    {
                       "name": "din",
                       "range": "[1:0]",
                       "size": 2
+                    },
+                    {
+                      "name": "sin"
                     },
                     {
                       "name": "shift"
@@ -10903,12 +10904,12 @@
                   ],
                   "out": [
                     {
-                      "name": "sout"
-                    },
-                    {
                       "name": "q",
                       "range": "[1:0]",
                       "size": 2
+                    },
+                    {
+                      "name": "sout"
                     }
                   ]
                 },
