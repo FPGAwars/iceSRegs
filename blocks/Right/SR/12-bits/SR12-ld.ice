@@ -36,7 +36,7 @@
           }
         },
         {
-          "id": "30a231aa-2280-4a45-b7d9-cf496a384e64",
+          "id": "5c14e05e-20a9-468f-8a06-017b0aa96bcf",
           "type": "basic.output",
           "data": {
             "name": "",
@@ -111,7 +111,7 @@
           }
         },
         {
-          "id": "96abe1cf-6840-4665-a009-0a0914794024",
+          "id": "db397615-fcde-49f7-97e4-b8755d24f2f1",
           "type": "basic.input",
           "data": {
             "name": "din",
@@ -391,7 +391,7 @@
         },
         {
           "source": {
-            "block": "96abe1cf-6840-4665-a009-0a0914794024",
+            "block": "db397615-fcde-49f7-97e4-b8755d24f2f1",
             "port": "out"
           },
           "target": {
@@ -406,7 +406,7 @@
             "port": "q"
           },
           "target": {
-            "block": "30a231aa-2280-4a45-b7d9-cf496a384e64",
+            "block": "5c14e05e-20a9-468f-8a06-017b0aa96bcf",
             "port": "in"
           },
           "size": 12
