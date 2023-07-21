@@ -13,25 +13,6 @@
     "graph": {
       "blocks": [
         {
-          "id": "f7871392-93e5-4a1f-b955-2148f9fd3acf",
-          "type": "basic.output",
-          "data": {
-            "name": "nc",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1072,
-            "y": -128
-          }
-        },
-        {
           "id": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
           "type": "basic.input",
           "data": {
@@ -44,30 +25,14 @@
           }
         },
         {
-          "id": "a638aaea-4fdb-4dc0-a81d-437e83e4bc51",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "next",
-            "range": "[3:0]",
-            "blockColor": "fuchsia",
-            "size": 4
-          },
-          "position": {
-            "x": 944,
-            "y": 0
-          }
-        },
-        {
-          "id": "c978c344-e11c-449b-b4bc-f1cd6d410e3a",
+          "id": "f7871392-93e5-4a1f-b955-2148f9fd3acf",
           "type": "basic.output",
           "data": {
-            "name": "",
-            "range": "[3:0]",
-            "size": 4
+            "name": "nc"
           },
           "position": {
-            "x": 1072,
-            "y": 0
+            "x": 1080,
+            "y": 24
           }
         },
         {
@@ -146,18 +111,37 @@
           }
         },
         {
+          "id": "a638aaea-4fdb-4dc0-a81d-437e83e4bc51",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "next",
+            "range": "[3:0]",
+            "blockColor": "fuchsia",
+            "size": 4
+          },
+          "position": {
+            "x": 952,
+            "y": 192
+          }
+        },
+        {
+          "id": "c978c344-e11c-449b-b4bc-f1cd6d410e3a",
+          "type": "basic.output",
+          "data": {
+            "name": "",
+            "range": "[3:0]",
+            "size": 4
+          },
+          "position": {
+            "x": 1080,
+            "y": 192
+          }
+        },
+        {
           "id": "d4c2af59-4fc0-46ad-b8fd-db4f0f983b94",
           "type": "basic.input",
           "data": {
             "name": "nc",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
             "clock": false
           },
           "position": {
