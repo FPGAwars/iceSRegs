@@ -67,6 +67,25 @@
           }
         },
         {
+          "id": "6022591a-bf8e-4df6-8fd1-533b37855da7",
+          "type": "basic.output",
+          "data": {
+            "name": "Sample_0",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "DD0",
+                "value": "114"
+              }
+            ]
+          },
+          "position": {
+            "x": 1032,
+            "y": 512
+          }
+        },
+        {
           "id": "bf4a0f48-c10f-4591-83dd-bf2d23432d6a",
           "type": "basic.inputLabel",
           "data": {
@@ -109,26 +128,7 @@
           },
           "position": {
             "x": 552,
-            "y": 328
-          }
-        },
-        {
-          "id": "6022591a-bf8e-4df6-8fd1-533b37855da7",
-          "type": "basic.output",
-          "data": {
-            "name": "Sample_0",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "DD0",
-                "value": "114"
-              }
-            ]
-          },
-          "position": {
-            "x": 1032,
-            "y": 512
+            "y": 520
           }
         },
         {
@@ -356,7 +356,7 @@
           },
           "position": {
             "x": 384,
-            "y": 520
+            "y": 552
           },
           "size": {
             "width": 176,
@@ -472,30 +472,6 @@
           }
         },
         {
-          "id": "d9f380ca-2274-4b12-933a-b70324e6875b",
-          "type": "e598e9274fb8ea122d3d0d03fd7eb0aa805d47cc",
-          "position": {
-            "x": 0,
-            "y": 408
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "29d9f260-79a4-4e52-b2e2-7435467f65f6",
-          "type": "d1fef94d2dafe198848154f7d96283816883a2f0",
-          "position": {
-            "x": 384,
-            "y": 408
-          },
-          "size": {
-            "width": 96,
-            "height": 96
-          }
-        },
-        {
           "id": "78a849b6-dd89-4bad-8505-f904acf84a71",
           "type": "a2d8ef00cb7e3a58cb88548d56c4c3eae5165309",
           "position": {
@@ -517,6 +493,30 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "ae6c56a9-d878-406a-86be-415bf6e313b5",
+          "type": "cdeab0e5ac217087c12cc3afd42ea45513ca1b1a",
+          "position": {
+            "x": 0,
+            "y": 408
+          },
+          "size": {
+            "width": 96,
+            "height": 96
+          }
+        },
+        {
+          "id": "039528a4-5fdb-4608-8584-81b74059541e",
+          "type": "bd2478610c1999041f2ae706a505d7718b44c3bb",
+          "position": {
+            "x": 384,
+            "y": 408
+          },
+          "size": {
+            "width": 96,
+            "height": 128
           }
         }
       ],
@@ -579,7 +579,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "d9f380ca-2274-4b12-933a-b70324e6875b",
+            "block": "ae6c56a9-d878-406a-86be-415bf6e313b5",
             "port": "9dad6350-1887-40ab-80e7-81fc57c7e5e7"
           }
         },
@@ -589,17 +589,17 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "d9f380ca-2274-4b12-933a-b70324e6875b",
+            "block": "ae6c56a9-d878-406a-86be-415bf6e313b5",
             "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
           }
         },
         {
           "source": {
-            "block": "d9f380ca-2274-4b12-933a-b70324e6875b",
+            "block": "ae6c56a9-d878-406a-86be-415bf6e313b5",
             "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
           },
           "target": {
-            "block": "29d9f260-79a4-4e52-b2e2-7435467f65f6",
+            "block": "039528a4-5fdb-4608-8584-81b74059541e",
             "port": "40bbf179-6562-4367-9907-23ba4057bc3b"
           }
         },
@@ -609,13 +609,19 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "29d9f260-79a4-4e52-b2e2-7435467f65f6",
+            "block": "039528a4-5fdb-4608-8584-81b74059541e",
             "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
-          }
+          },
+          "vertices": [
+            {
+              "x": 336,
+              "y": 512
+            }
+          ]
         },
         {
           "source": {
-            "block": "29d9f260-79a4-4e52-b2e2-7435467f65f6",
+            "block": "039528a4-5fdb-4608-8584-81b74059541e",
             "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
           },
           "target": {
@@ -629,7 +635,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "29d9f260-79a4-4e52-b2e2-7435467f65f6",
+            "block": "039528a4-5fdb-4608-8584-81b74059541e",
             "port": "9dad6350-1887-40ab-80e7-81fc57c7e5e7"
           }
         },
@@ -688,7 +694,7 @@
         },
         {
           "source": {
-            "block": "29d9f260-79a4-4e52-b2e2-7435467f65f6",
+            "block": "039528a4-5fdb-4608-8584-81b74059541e",
             "port": "2ddf5cf0-7c4b-480a-b959-aa4a9e0f929b"
           },
           "target": {
@@ -23691,414 +23697,6 @@
         }
       }
     },
-    "e598e9274fb8ea122d3d0d03fd7eb0aa805d47cc": {
-      "package": {
-        "name": "Sys-SR-06-verilog",
-        "version": "0.3",
-        "description": "Sys-SR-06-verilog: 6-bits System Shift register to the right.  Verilog implementation",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20width=%22254.803%22%20height=%22264.301%22%20viewBox=%220%200%2067.416754%2069.929686%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-72.848%20-31.874)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M98.64%2077.005h10.65%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M98.564%2084.51l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M91.18%2076.446l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.767%202.52%204.92%202.887%204.773L90.074%2089.379s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M114.904%2083.574l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M107.52%2075.51l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.069%203.584-6.092%203.518%2012.03%2018.222s5.399-2.025%208.535.74c3.137%202.766%202.52%204.92%202.887%204.773l-23.688%2013.638s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M114.727%2037.231h10.65M83.213%2035.636c-.832%200-1.507.662-1.507%201.48s.675%201.481%201.507%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M129.687%2037.231l-6.463%203.674v-7.347z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70596%200%200%20.69423%2072.918%20-96.625)%22/%3E%3C/g%3E%3C/g%3E%3Crect%20width=%2224.424%22%20height=%2213.175%22%20x=%22115.511%22%20y=%2247.442%22%20ry=%222.245%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22117.385%22%20y=%2257.038%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2210.582%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%22117.385%22%20y=%2257.038%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
-        "otid": 1618509859237
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
-              "type": "basic.input",
-              "data": {
-                "name": "",
-                "clock": true
-              },
-              "position": {
-                "x": 192,
-                "y": 56
-              }
-            },
-            {
-              "id": "fc8a1fac-b403-4a91-8c53-4641142b3a5f",
-              "type": "basic.output",
-              "data": {
-                "name": "",
-                "range": "[5:0]",
-                "size": 6
-              },
-              "position": {
-                "x": 808,
-                "y": 56
-              }
-            },
-            {
-              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
-              "type": "basic.output",
-              "data": {
-                "name": "so"
-              },
-              "position": {
-                "x": 808,
-                "y": 200
-              }
-            },
-            {
-              "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
-              "type": "basic.input",
-              "data": {
-                "name": "si",
-                "clock": false
-              },
-              "position": {
-                "x": 192,
-                "y": 200
-              }
-            },
-            {
-              "id": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
-              "type": "basic.constant",
-              "data": {
-                "name": "",
-                "value": "0",
-                "local": false
-              },
-              "position": {
-                "x": 512,
-                "y": -96
-              }
-            },
-            {
-              "id": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-              "type": "basic.code",
-              "data": {
-                "ports": {
-                  "in": [
-                    {
-                      "name": "clk"
-                    },
-                    {
-                      "name": "sin"
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "q",
-                      "range": "[5:0]",
-                      "size": 6
-                    },
-                    {
-                      "name": "sout"
-                    }
-                  ]
-                },
-                "params": [
-                  {
-                    "name": "INI"
-                  }
-                ],
-                "code": "//-- Generic Shift Right\n//-- System register\n//-- Number of bits\nlocalparam N = 6;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n  //-- Shift to the right\n  q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
-              },
-              "position": {
-                "x": 376,
-                "y": 16
-              },
-              "size": {
-                "width": 360,
-                "height": 288
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
-                "port": "out"
-              },
-              "target": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "clk"
-              }
-            },
-            {
-              "source": {
-                "block": "adb65ce3-8256-4acb-ad39-154262efb1ad",
-                "port": "out"
-              },
-              "target": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "sin"
-              }
-            },
-            {
-              "source": {
-                "block": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
-                "port": "constant-out"
-              },
-              "target": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "INI"
-              }
-            },
-            {
-              "source": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "sout"
-              },
-              "target": {
-                "block": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
-                "port": "in"
-              }
-            },
-            {
-              "source": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "q"
-              },
-              "target": {
-                "block": "fc8a1fac-b403-4a91-8c53-4641142b3a5f",
-                "port": "in"
-              },
-              "size": 6
-            }
-          ]
-        }
-      }
-    },
-    "d1fef94d2dafe198848154f7d96283816883a2f0": {
-      "package": {
-        "name": "Sys-SR-rst-06-verilog",
-        "version": "0.4",
-        "description": "Sys-SR-rst-06-verilog: 6-bits System Shift register to the right, with reset.  Verilog implementation",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20width=%22254.803%22%20height=%22264.301%22%20viewBox=%220%200%2067.416754%2069.929686%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-72.848%20-31.874)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M98.64%2077.005h10.65%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M98.564%2084.51l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M91.18%2076.446l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.767%202.52%204.92%202.887%204.773L90.074%2089.379s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M114.904%2083.574l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M107.52%2075.51l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.069%203.584-6.092%203.518%2012.03%2018.222s5.399-2.025%208.535.74c3.137%202.766%202.52%204.92%202.887%204.773l-23.688%2013.638s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M114.727%2037.231h10.65M83.213%2035.636c-.832%200-1.507.662-1.507%201.48s.675%201.481%201.507%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M129.687%2037.231l-6.463%203.674v-7.347z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70596%200%200%20.69423%2072.918%20-96.625)%22/%3E%3C/g%3E%3C/g%3E%3Crect%20width=%2224.424%22%20height=%2213.175%22%20x=%22115.511%22%20y=%2247.442%22%20ry=%222.245%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22117.385%22%20y=%2257.038%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2210.582%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%22117.385%22%20y=%2257.038%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
-        "otid": 1618509859237
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "8a60b023-c593-4b7a-a2d1-75c4778e3e95",
-              "type": "basic.output",
-              "data": {
-                "name": "nc"
-              },
-              "position": {
-                "x": 808,
-                "y": -112
-              }
-            },
-            {
-              "id": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
-              "type": "basic.input",
-              "data": {
-                "name": "",
-                "clock": true
-              },
-              "position": {
-                "x": 192,
-                "y": 48
-              }
-            },
-            {
-              "id": "2ddf5cf0-7c4b-480a-b959-aa4a9e0f929b",
-              "type": "basic.output",
-              "data": {
-                "name": "",
-                "virtual": true,
-                "range": "[5:0]",
-                "pins": [
-                  {
-                    "index": "5",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "4",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
-              },
-              "position": {
-                "x": 808,
-                "y": 80
-              }
-            },
-            {
-              "id": "40bbf179-6562-4367-9907-23ba4057bc3b",
-              "type": "basic.input",
-              "data": {
-                "name": "rst",
-                "clock": false
-              },
-              "position": {
-                "x": 192,
-                "y": 168
-              }
-            },
-            {
-              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
-              "type": "basic.output",
-              "data": {
-                "name": "so"
-              },
-              "position": {
-                "x": 800,
-                "y": 264
-              }
-            },
-            {
-              "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
-              "type": "basic.input",
-              "data": {
-                "name": "si",
-                "clock": false
-              },
-              "position": {
-                "x": 192,
-                "y": 288
-              }
-            },
-            {
-              "id": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
-              "type": "basic.constant",
-              "data": {
-                "name": "",
-                "value": "0",
-                "local": false
-              },
-              "position": {
-                "x": 512,
-                "y": -96
-              }
-            },
-            {
-              "id": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-              "type": "basic.code",
-              "data": {
-                "ports": {
-                  "in": [
-                    {
-                      "name": "clk"
-                    },
-                    {
-                      "name": "rst"
-                    },
-                    {
-                      "name": "sin"
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "q",
-                      "range": "[5:0]",
-                      "size": 6
-                    },
-                    {
-                      "name": "sout"
-                    }
-                  ]
-                },
-                "params": [
-                  {
-                    "name": "INI"
-                  }
-                ],
-                "code": "//-- Generic Shift Right\n//-- System register with reset\n//-- Number of bits\nlocalparam N = 6;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n\n  //-- Reset\n  if (rst==1)\n    //-- Capture initial value\n    q <= INI;  \n  else\n    //-- Shift to the right\n    q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
-              },
-              "position": {
-                "x": 376,
-                "y": 16
-              },
-              "size": {
-                "width": 368,
-                "height": 368
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
-                "port": "out"
-              },
-              "target": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "clk"
-              }
-            },
-            {
-              "source": {
-                "block": "adb65ce3-8256-4acb-ad39-154262efb1ad",
-                "port": "out"
-              },
-              "target": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "sin"
-              }
-            },
-            {
-              "source": {
-                "block": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
-                "port": "constant-out"
-              },
-              "target": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "INI"
-              }
-            },
-            {
-              "source": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "sout"
-              },
-              "target": {
-                "block": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
-                "port": "in"
-              }
-            },
-            {
-              "source": {
-                "block": "40bbf179-6562-4367-9907-23ba4057bc3b",
-                "port": "out"
-              },
-              "target": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "rst"
-              }
-            },
-            {
-              "source": {
-                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
-                "port": "q"
-              },
-              "target": {
-                "block": "2ddf5cf0-7c4b-480a-b959-aa4a9e0f929b",
-                "port": "in"
-              },
-              "size": 6
-            }
-          ]
-        }
-      }
-    },
     "a2d8ef00cb7e3a58cb88548d56c4c3eae5165309": {
       "package": {
         "name": "UINT8-6bit-verilog",
@@ -24317,6 +23915,468 @@
               },
               "target": {
                 "block": "73ad0fa2-214b-485e-ad1b-5d6a424328aa",
+                "port": "in"
+              },
+              "size": 6
+            }
+          ]
+        }
+      }
+    },
+    "cdeab0e5ac217087c12cc3afd42ea45513ca1b1a": {
+      "package": {
+        "name": "Sys-SR-06-verilog",
+        "version": "0.4",
+        "description": "Sys-SR-06-verilog: 6-bits System Shift register to the right.  Verilog implementation",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20width=%22254.803%22%20height=%22264.301%22%20viewBox=%220%200%2067.416754%2069.929686%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-72.848%20-31.874)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M98.64%2077.005h10.65%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M98.564%2084.51l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M91.18%2076.446l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.767%202.52%204.92%202.887%204.773L90.074%2089.379s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M114.904%2083.574l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M107.52%2075.51l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.069%203.584-6.092%203.518%2012.03%2018.222s5.399-2.025%208.535.74c3.137%202.766%202.52%204.92%202.887%204.773l-23.688%2013.638s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M114.727%2037.231h10.65M83.213%2035.636c-.832%200-1.507.662-1.507%201.48s.675%201.481%201.507%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M129.687%2037.231l-6.463%203.674v-7.347z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70596%200%200%20.69423%2072.918%20-96.625)%22/%3E%3C/g%3E%3C/g%3E%3Crect%20width=%2224.424%22%20height=%2213.175%22%20x=%22115.511%22%20y=%2247.442%22%20ry=%222.245%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22117.385%22%20y=%2257.038%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2210.582%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%22117.385%22%20y=%2257.038%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
+        "otid": 1618509859237
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "e55b2967-af31-4031-84a9-b4f182835c08",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 800,
+                "y": -56
+              }
+            },
+            {
+              "id": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "clock": true
+              },
+              "position": {
+                "x": 192,
+                "y": 56
+              }
+            },
+            {
+              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+              "type": "basic.output",
+              "data": {
+                "name": "so"
+              },
+              "position": {
+                "x": 800,
+                "y": 56
+              }
+            },
+            {
+              "id": "fc8a1fac-b403-4a91-8c53-4641142b3a5f",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[5:0]",
+                "size": 6
+              },
+              "position": {
+                "x": 808,
+                "y": 200
+              }
+            },
+            {
+              "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
+              "type": "basic.input",
+              "data": {
+                "name": "si",
+                "clock": false
+              },
+              "position": {
+                "x": 192,
+                "y": 200
+              }
+            },
+            {
+              "id": "623592cb-a787-47f8-8410-46299d733699",
+              "type": "basic.input",
+              "data": {
+                "name": "nc",
+                "clock": false
+              },
+              "position": {
+                "x": 192,
+                "y": 304
+              }
+            },
+            {
+              "id": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
+              "type": "basic.constant",
+              "data": {
+                "name": "",
+                "value": "0",
+                "local": false
+              },
+              "position": {
+                "x": 512,
+                "y": -96
+              }
+            },
+            {
+              "id": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+              "type": "basic.code",
+              "data": {
+                "ports": {
+                  "in": [
+                    {
+                      "name": "clk"
+                    },
+                    {
+                      "name": "sin"
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "sout"
+                    },
+                    {
+                      "name": "q",
+                      "range": "[5:0]",
+                      "size": 6
+                    }
+                  ]
+                },
+                "params": [
+                  {
+                    "name": "INI"
+                  }
+                ],
+                "code": "//-- Generic Shift Right\n//-- System register\n//-- Number of bits\nlocalparam N = 6;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n  //-- Shift to the right\n  q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
+              },
+              "position": {
+                "x": 376,
+                "y": 16
+              },
+              "size": {
+                "width": 360,
+                "height": 288
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
+                "port": "out"
+              },
+              "target": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "clk"
+              }
+            },
+            {
+              "source": {
+                "block": "adb65ce3-8256-4acb-ad39-154262efb1ad",
+                "port": "out"
+              },
+              "target": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "sin"
+              }
+            },
+            {
+              "source": {
+                "block": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
+                "port": "constant-out"
+              },
+              "target": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "INI"
+              }
+            },
+            {
+              "source": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "sout"
+              },
+              "target": {
+                "block": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "q"
+              },
+              "target": {
+                "block": "fc8a1fac-b403-4a91-8c53-4641142b3a5f",
+                "port": "in"
+              },
+              "size": 6
+            }
+          ]
+        }
+      }
+    },
+    "bd2478610c1999041f2ae706a505d7718b44c3bb": {
+      "package": {
+        "name": "Sys-SR-rst-06-verilog",
+        "version": "0.5",
+        "description": "Sys-SR-rst-06-verilog: 6-bits System Shift register to the right, with reset.  Verilog implementation",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20width=%22254.803%22%20height=%22264.301%22%20viewBox=%220%200%2067.416754%2069.929686%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-72.848%20-31.874)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M98.64%2077.005h10.65%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M98.564%2084.51l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M91.18%2076.446l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.767%202.52%204.92%202.887%204.773L90.074%2089.379s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M114.904%2083.574l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M107.52%2075.51l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.069%203.584-6.092%203.518%2012.03%2018.222s5.399-2.025%208.535.74c3.137%202.766%202.52%204.92%202.887%204.773l-23.688%2013.638s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M114.727%2037.231h10.65M83.213%2035.636c-.832%200-1.507.662-1.507%201.48s.675%201.481%201.507%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M129.687%2037.231l-6.463%203.674v-7.347z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70596%200%200%20.69423%2072.918%20-96.625)%22/%3E%3C/g%3E%3C/g%3E%3Crect%20width=%2224.424%22%20height=%2213.175%22%20x=%22115.511%22%20y=%2247.442%22%20ry=%222.245%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22117.385%22%20y=%2257.038%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2210.582%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%22117.385%22%20y=%2257.038%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
+        "otid": 1618509859237
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "f4879e67-6317-489d-9a28-bd9c8886bd64",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 808,
+                "y": -192
+              }
+            },
+            {
+              "id": "8a60b023-c593-4b7a-a2d1-75c4778e3e95",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 808,
+                "y": -112
+              }
+            },
+            {
+              "id": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "clock": true
+              },
+              "position": {
+                "x": 192,
+                "y": 48
+              }
+            },
+            {
+              "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+              "type": "basic.output",
+              "data": {
+                "name": "so"
+              },
+              "position": {
+                "x": 800,
+                "y": 80
+              }
+            },
+            {
+              "id": "40bbf179-6562-4367-9907-23ba4057bc3b",
+              "type": "basic.input",
+              "data": {
+                "name": "rst",
+                "clock": false
+              },
+              "position": {
+                "x": 192,
+                "y": 168
+              }
+            },
+            {
+              "id": "2ddf5cf0-7c4b-480a-b959-aa4a9e0f929b",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "virtual": true,
+                "range": "[5:0]",
+                "pins": [
+                  {
+                    "index": "5",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "4",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "3",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "2",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "1",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
+              },
+              "position": {
+                "x": 816,
+                "y": 264
+              }
+            },
+            {
+              "id": "adb65ce3-8256-4acb-ad39-154262efb1ad",
+              "type": "basic.input",
+              "data": {
+                "name": "si",
+                "clock": false
+              },
+              "position": {
+                "x": 192,
+                "y": 288
+              }
+            },
+            {
+              "id": "270d6721-c95a-4335-9713-e1831d1bd65d",
+              "type": "basic.input",
+              "data": {
+                "name": "nc",
+                "virtual": true,
+                "pins": [
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ],
+                "clock": false
+              },
+              "position": {
+                "x": 200,
+                "y": 376
+              }
+            },
+            {
+              "id": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
+              "type": "basic.constant",
+              "data": {
+                "name": "",
+                "value": "0",
+                "local": false
+              },
+              "position": {
+                "x": 512,
+                "y": -96
+              }
+            },
+            {
+              "id": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+              "type": "basic.code",
+              "data": {
+                "ports": {
+                  "in": [
+                    {
+                      "name": "clk"
+                    },
+                    {
+                      "name": "rst"
+                    },
+                    {
+                      "name": "sin"
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "sout"
+                    },
+                    {
+                      "name": "q",
+                      "range": "[5:0]",
+                      "size": 6
+                    }
+                  ]
+                },
+                "params": [
+                  {
+                    "name": "INI"
+                  }
+                ],
+                "code": "//-- Generic Shift Right\n//-- System register with reset\n//-- Number of bits\nlocalparam N = 6;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n\n  //-- Reset\n  if (rst==1)\n    //-- Capture initial value\n    q <= INI;  \n  else\n    //-- Shift to the right\n    q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
+              },
+              "position": {
+                "x": 376,
+                "y": 16
+              },
+              "size": {
+                "width": 368,
+                "height": 368
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "ca7c5f10-efb6-43f9-9364-52d751fc0bc6",
+                "port": "out"
+              },
+              "target": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "clk"
+              }
+            },
+            {
+              "source": {
+                "block": "adb65ce3-8256-4acb-ad39-154262efb1ad",
+                "port": "out"
+              },
+              "target": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "sin"
+              }
+            },
+            {
+              "source": {
+                "block": "9dad6350-1887-40ab-80e7-81fc57c7e5e7",
+                "port": "constant-out"
+              },
+              "target": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "INI"
+              }
+            },
+            {
+              "source": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "sout"
+              },
+              "target": {
+                "block": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "40bbf179-6562-4367-9907-23ba4057bc3b",
+                "port": "out"
+              },
+              "target": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "rst"
+              }
+            },
+            {
+              "source": {
+                "block": "2b116f4a-1eb0-4542-b65d-b383511a5085",
+                "port": "q"
+              },
+              "target": {
+                "block": "2ddf5cf0-7c4b-480a-b959-aa4a9e0f929b",
                 "port": "in"
               },
               "size": 6
