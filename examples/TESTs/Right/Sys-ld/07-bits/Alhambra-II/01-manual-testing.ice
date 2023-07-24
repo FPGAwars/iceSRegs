@@ -596,16 +596,6 @@
         },
         {
           "source": {
-            "block": "176b0e52-d326-43b8-a208-858be7ce8d94",
-            "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
-          },
-          "target": {
-            "block": "c6d76016-def5-405a-bfc8-0d9dc1a26392",
-            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
-          }
-        },
-        {
-          "source": {
             "block": "f598af56-6269-4bc4-af43-ac5a4fb71e29",
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
@@ -773,6 +763,22 @@
             "port": "f472595e-1cf4-4657-bcff-0c1e65747068"
           },
           "size": 7
+        },
+        {
+          "source": {
+            "block": "176b0e52-d326-43b8-a208-858be7ce8d94",
+            "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
+          },
+          "target": {
+            "block": "c6d76016-def5-405a-bfc8-0d9dc1a26392",
+            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
+          },
+          "vertices": [
+            {
+              "x": 544,
+              "y": 440
+            }
+          ]
         }
       ]
     }
@@ -24145,17 +24151,6 @@
         "graph": {
           "blocks": [
             {
-              "id": "90189d7e-a945-487b-98b7-842a30ab1952",
-              "type": "basic.output",
-              "data": {
-                "name": "nc"
-              },
-              "position": {
-                "x": 1136,
-                "y": -72
-              }
-            },
-            {
               "id": "62e00ed6-8e2d-4f7e-88a7-c707633985d4",
               "type": "basic.output",
               "data": {
@@ -24588,6 +24583,17 @@
               "position": {
                 "x": 224,
                 "y": 400
+              }
+            },
+            {
+              "id": "90189d7e-a945-487b-98b7-842a30ab1952",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 1144,
+                "y": 408
               }
             },
             {
