@@ -22381,17 +22381,6 @@
         "graph": {
           "blocks": [
             {
-              "id": "90189d7e-a945-487b-98b7-842a30ab1952",
-              "type": "basic.output",
-              "data": {
-                "name": "nc"
-              },
-              "position": {
-                "x": 1144,
-                "y": -56
-              }
-            },
-            {
               "id": "62e00ed6-8e2d-4f7e-88a7-c707633985d4",
               "type": "basic.output",
               "data": {
@@ -22875,6 +22864,17 @@
               }
             },
             {
+              "id": "90189d7e-a945-487b-98b7-842a30ab1952",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 1152,
+                "y": 400
+              }
+            },
+            {
               "id": "732b8a81-71e5-4f8e-a1b4-8d50df9c16c9",
               "type": "basic.outputLabel",
               "data": {
@@ -23110,7 +23110,8 @@
             {
               "source": {
                 "block": "065d71ce-8cdc-4298-a5fe-42613b6d5d0a",
-                "port": "q"
+                "port": "q",
+                "size": 9
               },
               "target": {
                 "block": "a32b3e6b-306d-467b-b449-0da2bcb6fabe",
@@ -23125,7 +23126,8 @@
               },
               "target": {
                 "block": "065d71ce-8cdc-4298-a5fe-42613b6d5d0a",
-                "port": "d"
+                "port": "d",
+                "size": 9
               },
               "size": 9
             },
@@ -23136,14 +23138,16 @@
               },
               "target": {
                 "block": "94f8789a-f500-44ed-9c5a-3fcdd62f3612",
-                "port": "in"
+                "port": "in",
+                "size": 9
               },
               "size": 9
             },
             {
               "source": {
                 "block": "1dc5055e-54d3-4cdb-9f6d-20fac35cbdef",
-                "port": "out"
+                "port": "out",
+                "size": 9
               },
               "target": {
                 "block": "00ca5192-cdfb-4034-9be6-6629985450db",
