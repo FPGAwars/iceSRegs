@@ -62,8 +62,8 @@
             ]
           },
           "position": {
-            "x": 840,
-            "y": 312
+            "x": 824,
+            "y": 280
           }
         },
         {
@@ -268,8 +268,8 @@
           "id": "63194df5-46d9-428c-9bba-6b0e9bdb371a",
           "type": "7610afdb6d99a80340842932334b4c874b60a1aa",
           "position": {
-            "x": 640,
-            "y": 408
+            "x": 624,
+            "y": 376
           },
           "size": {
             "width": 96,
@@ -312,8 +312,8 @@
             "readonly": true
           },
           "position": {
-            "x": 656,
-            "y": 512
+            "x": 640,
+            "y": 480
           },
           "size": {
             "width": 104,
@@ -20900,17 +20900,6 @@
         "graph": {
           "blocks": [
             {
-              "id": "90189d7e-a945-487b-98b7-842a30ab1952",
-              "type": "basic.output",
-              "data": {
-                "name": "nc"
-              },
-              "position": {
-                "x": 1136,
-                "y": -56
-              }
-            },
-            {
               "id": "62e00ed6-8e2d-4f7e-88a7-c707633985d4",
               "type": "basic.output",
               "data": {
@@ -21149,6 +21138,17 @@
               "position": {
                 "x": 816,
                 "y": 360
+              }
+            },
+            {
+              "id": "90189d7e-a945-487b-98b7-842a30ab1952",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 1128,
+                "y": 384
               }
             },
             {
