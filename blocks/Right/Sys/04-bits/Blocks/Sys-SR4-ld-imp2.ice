@@ -61,17 +61,6 @@
           }
         },
         {
-          "id": "90189d7e-a945-487b-98b7-842a30ab1952",
-          "type": "basic.output",
-          "data": {
-            "name": "nc"
-          },
-          "position": {
-            "x": 1336,
-            "y": -56
-          }
-        },
-        {
           "id": "695672f9-5032-49bf-a44d-582c7a128f4a",
           "type": "basic.outputLabel",
           "data": {
@@ -398,6 +387,17 @@
           "position": {
             "x": 408,
             "y": 416
+          }
+        },
+        {
+          "id": "90189d7e-a945-487b-98b7-842a30ab1952",
+          "type": "basic.output",
+          "data": {
+            "name": "nc"
+          },
+          "position": {
+            "x": 1344,
+            "y": 432
           }
         },
         {
