@@ -49,17 +49,6 @@
           }
         },
         {
-          "id": "62e00ed6-8e2d-4f7e-88a7-c707633985d4",
-          "type": "basic.output",
-          "data": {
-            "name": "nc"
-          },
-          "position": {
-            "x": 1208,
-            "y": 40
-          }
-        },
-        {
           "id": "e599d7d0-cfdf-4558-9ded-2355e98eb122",
           "type": "basic.outputLabel",
           "data": {
@@ -69,6 +58,17 @@
           "position": {
             "x": 544,
             "y": 64
+          }
+        },
+        {
+          "id": "60486d9a-cd90-43f8-8a9d-61ab9fc184b8",
+          "type": "basic.output",
+          "data": {
+            "name": "nc"
+          },
+          "position": {
+            "x": 1208,
+            "y": 80
           }
         },
         {
@@ -121,6 +121,17 @@
           "position": {
             "x": 896,
             "y": 160
+          }
+        },
+        {
+          "id": "62e00ed6-8e2d-4f7e-88a7-c707633985d4",
+          "type": "basic.output",
+          "data": {
+            "name": "nc"
+          },
+          "position": {
+            "x": 1208,
+            "y": 168
           }
         },
         {
