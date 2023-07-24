@@ -13,17 +13,6 @@
     "graph": {
       "blocks": [
         {
-          "id": "90189d7e-a945-487b-98b7-842a30ab1952",
-          "type": "basic.output",
-          "data": {
-            "name": "nc"
-          },
-          "position": {
-            "x": 1136,
-            "y": -56
-          }
-        },
-        {
           "id": "62e00ed6-8e2d-4f7e-88a7-c707633985d4",
           "type": "basic.output",
           "data": {
@@ -194,6 +183,17 @@
           "position": {
             "x": 816,
             "y": 360
+          }
+        },
+        {
+          "id": "90189d7e-a945-487b-98b7-842a30ab1952",
+          "type": "basic.output",
+          "data": {
+            "name": "nc"
+          },
+          "position": {
+            "x": 1136,
+            "y": 376
           }
         },
         {
