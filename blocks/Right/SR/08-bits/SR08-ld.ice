@@ -36,57 +36,13 @@
           }
         },
         {
-          "id": "b9d2a6e7-0b37-435a-94f8-7c190a4d3adc",
+          "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
           "type": "basic.output",
           "data": {
-            "name": "",
-            "virtual": true,
-            "range": "[7:0]",
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "name": "so"
           },
           "position": {
-            "x": 800,
+            "x": 808,
             "y": 72
           }
         },
@@ -179,13 +135,57 @@
           }
         },
         {
-          "id": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c",
+          "id": "b9d2a6e7-0b37-435a-94f8-7c190a4d3adc",
           "type": "basic.output",
           "data": {
-            "name": "so"
+            "name": "",
+            "virtual": true,
+            "range": "[7:0]",
+            "pins": [
+              {
+                "index": "7",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "6",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "5",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "4",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "3",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "2",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "1",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
           },
           "position": {
-            "x": 800,
+            "x": 816,
             "y": 256
           }
         },
@@ -262,12 +262,12 @@
               ],
               "out": [
                 {
+                  "name": "sout"
+                },
+                {
                   "name": "q",
                   "range": "[7:0]",
                   "size": 8
-                },
-                {
-                  "name": "sout"
                 }
               ]
             },
