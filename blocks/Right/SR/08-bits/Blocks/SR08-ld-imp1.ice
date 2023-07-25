@@ -2,7 +2,7 @@
   "version": "1.2",
   "package": {
     "name": "SR-ld-08-imp1",
-    "version": "0.4",
+    "version": "0.5",
     "description": "SR-ld-08-imp1: Shift register to the right, with load.  Block implementation 1",
     "author": "Juan González-Gómez (Obijuan)",
     "image": "%3Csvg%20width=%22286.865%22%20height=%22270.294%22%20viewBox=%220%200%2075.899794%2071.515403%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M43.907%2045.917h10.645%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M102.876%20163.95l4.552%2028.037%205.644-28.037%22%20fill=%22#ccc%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-85.712%20-15.223)%22/%3E%3Cpath%20d=%22M99.758%20149.859l2.39-28.512h-9.831v-5.462h31.86v5.462h-9.284l1.724%2028.769s7.509%201.248%209.269%206.48c1.76%205.231-.367%207.286.15%207.36l-36.077-.044s-.817-6.104%202.015-9.194c2.832-3.09%207.784-4.86%207.784-4.86z%22%20fill=%22red%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-85.712%20-15.223)%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M102.876%20163.95l4.552%2028.037%205.644-28.037%22%20fill=%22#ccc%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-69.38%20-16.16)%22/%3E%3Cpath%20d=%22M99.758%20149.859l2.39-28.512h-9.831v-5.462h31.86v5.462h-9.284l1.724%2028.769s7.509%201.248%209.269%206.48c1.76%205.231-.367%207.286.15%207.36l-36.077-.044s-.817-6.104%202.015-9.194c2.832-3.09%207.784-4.86%207.784-4.86z%22%20fill=%22red%22%20transform=%22matrix(.65581%20-.3791%20.37863%20.6566%20-69.38%20-16.16)%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M57.38%205.385h10.645M25.882%203.789c-.832%200-1.506.662-1.507%201.481%200%20.819.675%201.482%201.507%201.481h41.82c.832.001%201.507-.662%201.508-1.48%200-.82-.676-1.483-1.507-1.482z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M72.334%205.385l-6.46%203.676V1.71z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70563%200%200%20.69474%2015.592%20-128.57)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-93.518%20-25.21)%20scale(1.09073)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20cx=%22100.602%22%20cy=%2273.815%22%20r=%2214.559%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3C/svg%3E",
@@ -48,117 +48,6 @@
           }
         },
         {
-          "id": "b9d2a6e7-0b37-435a-94f8-7c190a4d3adc",
-          "type": "basic.output",
-          "data": {
-            "name": "",
-            "virtual": true,
-            "range": "[7:0]",
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1272,
-            "y": 592
-          }
-        },
-        {
-          "id": "cd5c6d24-7e22-4bcf-ac64-b65291f1147e",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "next",
-            "range": "[7:0]",
-            "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1104,
-            "y": 592
-          }
-        },
-        {
           "id": "92588618-6e30-4732-a4f9-61fe2b32ff84",
           "type": "basic.outputLabel",
           "data": {
@@ -189,165 +78,11 @@
             "name": "din",
             "range": "[7:0]",
             "blockColor": "darkgreen",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "size": 8
           },
           "position": {
             "x": 464,
             "y": 616
-          }
-        },
-        {
-          "id": "34ced718-5d52-4cdb-9dc8-e87c7dd57a06",
-          "type": "basic.input",
-          "data": {
-            "name": "din",
-            "virtual": true,
-            "range": "[7:0]",
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "clock": false
-          },
-          "position": {
-            "x": -272,
-            "y": 624
-          }
-        },
-        {
-          "id": "9d6db53d-846c-46f8-9231-ad4846b488e7",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "din",
-            "range": "[7:0]",
-            "blockColor": "darkgreen",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": -104,
-            "y": 624
           }
         },
         {
@@ -380,49 +115,7 @@
             "name": "next",
             "range": "[7:0]",
             "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "size": 8
           },
           "position": {
             "x": 40,
@@ -436,49 +129,7 @@
             "name": "next",
             "range": "[7:0]",
             "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "7",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "6",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "5",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "4",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "size": 8
           },
           "position": {
             "x": 976,
@@ -522,38 +173,58 @@
           }
         },
         {
-          "id": "d7dd1105-d7cd-4fcc-a6b1-7eae6282506e",
-          "type": "basic.input",
-          "data": {
-            "name": "shift",
-            "clock": false
-          },
-          "position": {
-            "x": -264,
-            "y": 792
-          }
-        },
-        {
-          "id": "2db5500c-71a6-4335-8bd0-701afda87946",
+          "id": "b9d2a6e7-0b37-435a-94f8-7c190a4d3adc",
           "type": "basic.output",
           "data": {
-            "name": "nc"
+            "name": "",
+            "range": "[7:0]",
+            "size": 8
           },
           "position": {
-            "x": 1264,
-            "y": 792
+            "x": 1272,
+            "y": 776
           }
         },
         {
-          "id": "8631bdf8-a54c-41a9-b524-19ea7648551c",
+          "id": "cd5c6d24-7e22-4bcf-ac64-b65291f1147e",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "next",
+            "range": "[7:0]",
+            "blockColor": "fuchsia",
+            "size": 8
+          },
+          "position": {
+            "x": 1112,
+            "y": 776
+          }
+        },
+        {
+          "id": "34ced718-5d52-4cdb-9dc8-e87c7dd57a06",
+          "type": "basic.input",
+          "data": {
+            "name": "din",
+            "range": "[7:0]",
+            "clock": false,
+            "size": 8
+          },
+          "position": {
+            "x": -272,
+            "y": 776
+          }
+        },
+        {
+          "id": "9d6db53d-846c-46f8-9231-ad4846b488e7",
           "type": "basic.inputLabel",
           "data": {
-            "name": "shift",
-            "blockColor": "navy"
+            "name": "din",
+            "range": "[7:0]",
+            "blockColor": "darkgreen",
+            "size": 8
           },
           "position": {
             "x": -104,
-            "y": 792
+            "y": 776
           }
         },
         {
@@ -581,7 +252,7 @@
           }
         },
         {
-          "id": "29a6bcbf-9feb-4f8c-b19c-8c05122413df",
+          "id": "2db5500c-71a6-4335-8bd0-701afda87946",
           "type": "basic.output",
           "data": {
             "name": "nc"
@@ -596,14 +267,6 @@
           "type": "basic.input",
           "data": {
             "name": "load",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
             "clock": false
           },
           "position": {
@@ -621,6 +284,41 @@
           "position": {
             "x": -104,
             "y": 872
+          }
+        },
+        {
+          "id": "29a6bcbf-9feb-4f8c-b19c-8c05122413df",
+          "type": "basic.output",
+          "data": {
+            "name": "nc"
+          },
+          "position": {
+            "x": 1264,
+            "y": 936
+          }
+        },
+        {
+          "id": "d7dd1105-d7cd-4fcc-a6b1-7eae6282506e",
+          "type": "basic.input",
+          "data": {
+            "name": "shift",
+            "clock": false
+          },
+          "position": {
+            "x": -264,
+            "y": 952
+          }
+        },
+        {
+          "id": "8631bdf8-a54c-41a9-b524-19ea7648551c",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "shift",
+            "blockColor": "navy"
+          },
+          "position": {
+            "x": -104,
+            "y": 952
           }
         },
         {
