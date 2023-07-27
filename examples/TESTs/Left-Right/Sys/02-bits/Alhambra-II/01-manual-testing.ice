@@ -199,7 +199,7 @@
           "id": "a95f29b1-1ae1-4dfc-b3fd-a213862eaea2",
           "type": "basic.info",
           "data": {
-            "info": "## Sys-SLR Register: Manual testing\n\nThe data from the shif register (initially with the value 3) is  \ncaptured by two LEDOscopes",
+            "info": "## Sys-SLR Register: Manual testing\n\nShift the initial value first to the right and then to the left",
             "readonly": true
           },
           "position": {
