@@ -2,6 +2,8 @@
   "name": "icesregs",
   "version": "0.1.0",
   "description": "Shift registers",
+  "header": "https://github.com/FPGAwars/iceSRegs/raw/main/wiki/Logo/iceSReg-collection-github.png",
+  "footer": "https://github.com/FPGAwars/iceRegs/raw/main/wiki/Logo/iceRegs-banner.png",
   "keywords": ["registers","shift"],
   "license": "GPL-2.0",
   "authors": [{
@@ -16,3 +18,5 @@
     "url": "https://github.com/FPGAwars/iceSRegs"
   }
 }
+
+
