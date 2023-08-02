@@ -206,7 +206,7 @@
           "id": "fbff6514-4f4a-4602-b0cb-06fe08ec586f",
           "type": "basic.info",
           "data": {
-            "info": "| Cycle | 0  | 1  | 2  | 3  |\n|-------|----|----|----|----|\n| Value | 00 | 10 | 11 | 11 |\n| so    |  0 |  0 |  1 |  1 |",
+            "info": "| Cycle    | 0  | 1  | 2  | 3  |\n|----------|----|----|----|----|\n| Register | 00 | 10 | 11 | 11 |\n",
             "readonly": true
           },
           "position": {
@@ -214,8 +214,8 @@
             "y": 128
           },
           "size": {
-            "width": 248,
-            "height": 88
+            "width": 304,
+            "height": 72
           }
         },
         {
