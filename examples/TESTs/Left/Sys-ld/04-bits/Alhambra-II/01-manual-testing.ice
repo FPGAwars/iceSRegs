@@ -275,7 +275,7 @@
           "id": "a95f29b1-1ae1-4dfc-b3fd-a213862eaea2",
           "type": "basic.info",
           "data": {
-            "info": "## Sys-SR4-ld Register: Manual testing\n\nThe data from the shift register is captured by two LEDOscopes\nThe shift register is loaded with another value after the first  \nis shifted",
+            "info": "## Sys-SL4-ld Register: Manual testing\n\nThe data from the shift register is captured by two LEDOscopes\nThe shift register is loaded with another value after the first  \nis shifted",
             "readonly": true
           },
           "position": {
