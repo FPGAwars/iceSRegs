@@ -414,7 +414,7 @@
           "id": "fbff6514-4f4a-4602-b0cb-06fe08ec586f",
           "type": "basic.info",
           "data": {
-            "info": "| Cycle | 0  | 1  | 2  | 3  | 4 | 5 |\n|-------|----|----|----|----|---|---|\n| Value | 01 | 11 | 10 | 10 | 00| 00|\n| so    |  0 |  1 | 1  |  0 | 1 |  0|",
+            "info": "| Cycle | 0  | 1  | 2  | 3  | 4 | 5 |\n|-------|----|----|----|----|---|---|\n| Value | 01 | 11 | 10 | 10 | 00| 00|\n| so    |  1 |  1 | 1  |  1 | 0 |  0|",
             "readonly": true
           },
           "position": {
@@ -22149,7 +22149,8 @@
               },
               "target": {
                 "block": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
-                "port": "in"
+                "port": "in",
+                "size": 2
               },
               "size": 2
             },
@@ -22176,7 +22177,8 @@
             {
               "source": {
                 "block": "25d7ab32-f568-4103-8f60-2624ef11dbbd",
-                "port": "out"
+                "port": "out",
+                "size": 2
               },
               "target": {
                 "block": "982c8adf-490e-4eae-a41b-34c237b412d6",
@@ -22238,7 +22240,8 @@
             {
               "source": {
                 "block": "065d71ce-8cdc-4298-a5fe-42613b6d5d0a",
-                "port": "q"
+                "port": "q",
+                "size": 2
               },
               "target": {
                 "block": "b2b69b92-2fd7-413c-8536-57e10918ad3e",
@@ -22263,7 +22266,8 @@
               },
               "target": {
                 "block": "065d71ce-8cdc-4298-a5fe-42613b6d5d0a",
-                "port": "d"
+                "port": "d",
+                "size": 2
               },
               "size": 2
             },
