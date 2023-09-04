@@ -27314,14 +27314,16 @@
               },
               "target": {
                 "block": "f57e8bf0-326b-401c-90fe-627580931034",
-                "port": "in"
+                "port": "in",
+                "size": 11
               },
               "size": 11
             },
             {
               "source": {
                 "block": "065d71ce-8cdc-4298-a5fe-42613b6d5d0a",
-                "port": "q"
+                "port": "q",
+                "size": 11
               },
               "target": {
                 "block": "c7dce033-8a90-48de-9d7d-1eb6423ae2c8",
@@ -27336,14 +27338,16 @@
               },
               "target": {
                 "block": "065d71ce-8cdc-4298-a5fe-42613b6d5d0a",
-                "port": "d"
+                "port": "d",
+                "size": 11
               },
               "size": 11
             },
             {
               "source": {
                 "block": "41c3bfbb-e2c3-41a2-9496-14973db13e90",
-                "port": "out"
+                "port": "out",
+                "size": 11
               },
               "target": {
                 "block": "d54fc834-7f0c-4518-91d0-6a4025d8126e",
