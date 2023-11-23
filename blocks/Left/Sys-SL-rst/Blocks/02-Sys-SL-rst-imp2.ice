@@ -1,9 +1,9 @@
 {
   "version": "1.2",
   "package": {
-    "name": "Sys-SL-rst-02-imp2",
-    "version": "0.5",
-    "description": "Sys-SL-rst-02-imp2: 2-bits System Shift register to the left, with reset.  Block implementation 2",
+    "name": "02-Sys-SL-rst-imp2",
+    "version": "0.6",
+    "description": "02-Sys-SL-rst-imp2: 2-bits System Shift register to the left, with reset.  Block implementation 2",
     "author": "Juan González-Gómez (Obijuan)",
     "image": "%3Csvg%20width=%22254.803%22%20height=%22264.301%22%20viewBox=%220%200%2067.416754%2069.929686%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-72.848%20-31.874)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M98.64%2077.005h10.65%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M98.564%2084.51l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M91.18%2076.446l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.767%202.52%204.92%202.887%204.773L90.074%2089.379s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M114.904%2083.574l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M107.52%2075.51l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.069%203.584-6.092%203.518%2012.03%2018.222s5.399-2.025%208.535.74c3.137%202.766%202.52%204.92%202.887%204.773l-23.688%2013.638s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M94.7%2037.231H84.05M126.213%2035.636c.832%200%201.507.662%201.508%201.48%200%20.818-.676%201.481-1.508%201.48h-41.84a1.494%201.494%200%200%201-1.508-1.48c0-.818.675-1.48%201.507-1.48z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M79.739%2037.231l6.463%203.674v-7.347z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(-.70596%200%200%20.69423%20136.508%20-96.625)%22/%3E%3C/g%3E%3C/g%3E%3Crect%20width=%2224.424%22%20height=%2213.175%22%20x=%22115.511%22%20y=%2247.442%22%20ry=%222.245%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22117.385%22%20y=%2257.038%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2210.582%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%22117.385%22%20y=%2257.038%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
     "otid": 1618509859237
@@ -318,10 +318,10 @@
           }
         },
         {
-          "id": "abf8bca3-d39b-493c-af56-e1fd5275f777",
-          "type": "d37e46dd8089ab3ede1ac0a142e4f45cc7b68299",
+          "id": "e61a0b97-d1ee-4884-ac1d-f50de0a17b19",
+          "type": "c9c71c00cda9f469c15b40a02e78b0d3f6ac04c0",
           "position": {
-            "x": 440,
+            "x": -24,
             "y": 776
           },
           "size": {
@@ -330,10 +330,10 @@
           }
         },
         {
-          "id": "87072cd2-7a85-4eec-90cc-27b9b1f364b9",
-          "type": "d37e46dd8089ab3ede1ac0a142e4f45cc7b68299",
+          "id": "2144f94e-2758-4337-84be-9ad4196b8775",
+          "type": "c9c71c00cda9f469c15b40a02e78b0d3f6ac04c0",
           "position": {
-            "x": -24,
+            "x": 440,
             "y": 776
           },
           "size": {
@@ -391,7 +391,7 @@
         },
         {
           "source": {
-            "block": "87072cd2-7a85-4eec-90cc-27b9b1f364b9",
+            "block": "e61a0b97-d1ee-4884-ac1d-f50de0a17b19",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
@@ -402,7 +402,7 @@
         },
         {
           "source": {
-            "block": "87072cd2-7a85-4eec-90cc-27b9b1f364b9",
+            "block": "e61a0b97-d1ee-4884-ac1d-f50de0a17b19",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
@@ -417,7 +417,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "87072cd2-7a85-4eec-90cc-27b9b1f364b9",
+            "block": "e61a0b97-d1ee-4884-ac1d-f50de0a17b19",
             "port": "e5f6cfba-f822-4d53-a924-926407bc4e3f"
           },
           "vertices": []
@@ -428,7 +428,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "abf8bca3-d39b-493c-af56-e1fd5275f777",
+            "block": "2144f94e-2758-4337-84be-9ad4196b8775",
             "port": "e5f6cfba-f822-4d53-a924-926407bc4e3f"
           },
           "vertices": []
@@ -470,7 +470,7 @@
         },
         {
           "source": {
-            "block": "abf8bca3-d39b-493c-af56-e1fd5275f777",
+            "block": "2144f94e-2758-4337-84be-9ad4196b8775",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
@@ -484,7 +484,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "abf8bca3-d39b-493c-af56-e1fd5275f777",
+            "block": "2144f94e-2758-4337-84be-9ad4196b8775",
             "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
           }
         },
@@ -494,7 +494,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "87072cd2-7a85-4eec-90cc-27b9b1f364b9",
+            "block": "e61a0b97-d1ee-4884-ac1d-f50de0a17b19",
             "port": "0da42cdc-7d03-494b-acec-9b2095f8d663"
           }
         },
@@ -504,7 +504,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "87072cd2-7a85-4eec-90cc-27b9b1f364b9",
+            "block": "e61a0b97-d1ee-4884-ac1d-f50de0a17b19",
             "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
           }
         },
@@ -514,7 +514,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "87072cd2-7a85-4eec-90cc-27b9b1f364b9",
+            "block": "e61a0b97-d1ee-4884-ac1d-f50de0a17b19",
             "port": "63e9825a-4f37-4c3c-b118-e2bbd28d5ac7"
           },
           "vertices": []
@@ -525,7 +525,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "abf8bca3-d39b-493c-af56-e1fd5275f777",
+            "block": "2144f94e-2758-4337-84be-9ad4196b8775",
             "port": "63e9825a-4f37-4c3c-b118-e2bbd28d5ac7"
           },
           "vertices": []
@@ -536,7 +536,7 @@
             "port": "out"
           },
           "target": {
-            "block": "abf8bca3-d39b-493c-af56-e1fd5275f777",
+            "block": "2144f94e-2758-4337-84be-9ad4196b8775",
             "port": "0da42cdc-7d03-494b-acec-9b2095f8d663"
           }
         }
@@ -662,10 +662,10 @@
         }
       }
     },
-    "d37e46dd8089ab3ede1ac0a142e4f45cc7b68299": {
+    "c9c71c00cda9f469c15b40a02e78b0d3f6ac04c0": {
       "package": {
         "name": "Sys-DFF-rst-verilog",
-        "version": "0.4",
+        "version": "0.5",
         "description": "Sys-DFF-rst: D Flip flop with reset input. When rst=1, the DFF is set to it initial value. Verilog implementation",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22196.313%22%20height=%22216.83%22%20viewBox=%220%200%2051.941051%2057.369679%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22translate(-52.22%20-48.028)%22%3E%3Crect%20width=%2224.412%22%20height=%2213.185%22%20x=%2279.352%22%20y=%2253.67%22%20ry=%222.247%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M77.902%2088.18l13.607%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M70.517%2080.116l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.766%202.52%204.92%202.887%204.773L69.412%2093.049s-2.848-3.696-2.16-6.796c.687-3.1%203.265-6.137%203.265-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2281.296%22%20y=%2263.239%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2281.296%22%20y=%2263.239%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
@@ -694,7 +694,7 @@
               },
               "position": {
                 "x": 296,
-                "y": -232
+                "y": -224
               }
             },
             {
@@ -717,7 +717,7 @@
               },
               "position": {
                 "x": 296,
-                "y": -128
+                "y": -104
               }
             },
             {
@@ -728,7 +728,7 @@
               },
               "position": {
                 "x": 1008,
-                "y": -128
+                "y": -104
               }
             },
             {
@@ -740,7 +740,7 @@
               },
               "position": {
                 "x": 296,
-                "y": -32
+                "y": 8
               }
             },
             {
@@ -765,7 +765,7 @@
               },
               "position": {
                 "x": 312,
-                "y": -48
+                "y": -8
               },
               "size": {
                 "width": 104,
@@ -781,7 +781,7 @@
               },
               "position": {
                 "x": 304,
-                "y": -256
+                "y": -248
               },
               "size": {
                 "width": 144,
@@ -813,7 +813,7 @@
               },
               "position": {
                 "x": 304,
-                "y": -144
+                "y": -120
               },
               "size": {
                 "width": 104,
@@ -847,7 +847,7 @@
                     "name": "INI"
                   }
                 ],
-                "code": "//-- Initial value\nreg q = INI;\n\nalways @(posedge clk)\nbegin\n \n //-- The priority is for\n //-- the reset input\n if (rst == 1'b1)\n   q <= INI;\n   \n //-- If reset is not active,\n //-- then capture the input data\n else\n   q <= d;\n \nend"
+                "code": "//-- Initial value\nreg qi = INI;\n\nalways @(posedge clk)\nbegin\n \n //-- The priority is for\n //-- the reset input\n if (rst == 1'b1)\n   qi <= INI;\n   \n //-- If reset is not active,\n //-- then capture the input data\n else\n   qi <= d;\n \nend\n\n//-- Connect the register with the\n//-- output\nassign q = qi;"
               },
               "position": {
                 "x": 456,
@@ -855,7 +855,7 @@
               },
               "size": {
                 "width": 376,
-                "height": 296
+                "height": 344
               }
             }
           ],
