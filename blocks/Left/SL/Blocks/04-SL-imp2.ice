@@ -61,6 +61,17 @@
           }
         },
         {
+          "id": "5cb5c97a-d138-410f-968d-3ee44f113da7",
+          "type": "basic.output",
+          "data": {
+            "name": "nc"
+          },
+          "position": {
+            "x": 1080,
+            "y": -272
+          }
+        },
+        {
           "id": "8b48183d-9ed2-4659-a2c6-6eede17a6777",
           "type": "basic.input",
           "data": {
@@ -85,14 +96,26 @@
           }
         },
         {
-          "id": "5cb5c97a-d138-410f-968d-3ee44f113da7",
+          "id": "20dc236d-bccb-4009-81ae-63ea848d56db",
           "type": "basic.output",
           "data": {
-            "name": "nc"
+            "name": "so"
           },
           "position": {
-            "x": 1072,
-            "y": -112
+            "x": 1080,
+            "y": -184
+          }
+        },
+        {
+          "id": "7073c0b3-7566-4793-9730-6abd9941ff18",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "so",
+            "blockColor": "fuchsia"
+          },
+          "position": {
+            "x": 952,
+            "y": -184
           }
         },
         {
@@ -100,15 +123,7 @@
           "type": "basic.outputLabel",
           "data": {
             "name": "bit3",
-            "blockColor": "deepskyblue",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "blockColor": "deepskyblue"
           },
           "position": {
             "x": 626,
@@ -120,15 +135,7 @@
           "type": "basic.outputLabel",
           "data": {
             "name": "bit2",
-            "blockColor": "deepskyblue",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "blockColor": "deepskyblue"
           },
           "position": {
             "x": 624,
@@ -142,29 +149,7 @@
             "name": "next",
             "range": "[3:0]",
             "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "size": 4
           },
           "position": {
             "x": 952,
@@ -260,30 +245,8 @@
           "type": "basic.output",
           "data": {
             "name": "",
-            "virtual": true,
             "range": "[3:0]",
-            "pins": [
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "size": 4
           },
           "position": {
             "x": 1072,
@@ -297,29 +260,7 @@
             "name": "next",
             "range": "[3:0]",
             "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "3",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "2",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "1",
-                "name": "NULL",
-                "value": "NULL"
-              },
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "size": 4
           },
           "position": {
             "x": 944,
@@ -331,15 +272,7 @@
           "type": "basic.outputLabel",
           "data": {
             "name": "bit2",
-            "blockColor": "deepskyblue",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "blockColor": "deepskyblue"
           },
           "position": {
             "x": -1032,
@@ -363,15 +296,7 @@
           "type": "basic.inputLabel",
           "data": {
             "name": "bit2",
-            "blockColor": "deepskyblue",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "blockColor": "deepskyblue"
           },
           "position": {
             "x": -352,
@@ -419,42 +344,11 @@
           "type": "basic.inputLabel",
           "data": {
             "name": "bit3",
-            "blockColor": "deepskyblue",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
+            "blockColor": "deepskyblue"
           },
           "position": {
             "x": -760,
             "y": 184
-          }
-        },
-        {
-          "id": "20dc236d-bccb-4009-81ae-63ea848d56db",
-          "type": "basic.output",
-          "data": {
-            "name": "so"
-          },
-          "position": {
-            "x": 1080,
-            "y": 192
-          }
-        },
-        {
-          "id": "7073c0b3-7566-4793-9730-6abd9941ff18",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "so",
-            "blockColor": "fuchsia"
-          },
-          "position": {
-            "x": 952,
-            "y": 192
           }
         },
         {
