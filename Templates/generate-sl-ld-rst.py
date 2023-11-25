@@ -1,8 +1,8 @@
 from icestudio import generate_block_from_template
 
-BLOCK_ID = "SL-ld"
+BLOCK_ID = "SL-ld-rst"
 VERSION = "0.6"
-DESCRIPTION = "shift left register with load. "\
+DESCRIPTION = "shift left register with load and reset. "\
               "Verilog implementation"
 TARGET_PATH = f"../blocks/Left/{BLOCK_ID}"
 
