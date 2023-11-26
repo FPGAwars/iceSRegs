@@ -157,7 +157,7 @@
                 "name": "INI"
               }
             ],
-            "code": "//-- Generic Shift Left/Right\n//-- System register\n//-- Number of bits\nlocalparam N = 2;\n\n//-- Initial value\nreg [N-1:0] qi = INI;\n\nalways @(posedge clk)\nbegin\n\n  if (lr == 0)\n    //-- Shift to the right\n    qi <= {MSB_i,qi[N-1]};\n\n  //-- lr == 1    \n  else\n    //-- Shift to the left\n    qi <= {qi[N-2:0], lsb_i};\nend\n\n//-- Serial out: \n//-- Least significant bit\nassign lsb_o = qi[0];\n\n//-- most significant bit\nassign MSB_o = qi[N-1];\n\n//-- Paralell out\nassign q = qi;\n"
+            "code": "//-- Generic Shift Left/Right\n//-- System register\n//-- Number of bits\nlocalparam N = 2;\n\n//-- Initial value\nreg [N-1:0] qi = INI;\n\nalways @(posedge clk)\nbegin\n\n  if (lr == 0)\n    //-- Shift to the right\n    qi <= {MSB_i,qi[N-1:1]};\n\n  //-- lr == 1    \n  else\n    //-- Shift to the left\n    qi <= {qi[N-2:0], lsb_i};\nend\n\n//-- Serial out: \n//-- Least significant bit\nassign lsb_o = qi[0];\n\n//-- most significant bit\nassign MSB_o = qi[N-1];\n\n//-- Paralell out\nassign q = qi;\n"
           },
           "position": {
             "x": 376,

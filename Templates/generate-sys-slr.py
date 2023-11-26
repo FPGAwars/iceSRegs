@@ -1,7 +1,7 @@
 from icestudio import generate_block_from_template
 
 BLOCK_ID = "Sys-SLR"
-VERSION = "0.6"
+VERSION = "0.7"
 DESCRIPTION = "system shift left right register"\
               ". Verilog implementation"
 TARGET_PATH = f"../blocks/Left-Right/{BLOCK_ID}"
