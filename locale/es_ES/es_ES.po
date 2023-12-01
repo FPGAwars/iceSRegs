@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-01 10:19+0100\n"
+"POT-Creation-Date: 2023-12-01 10:26+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -53,43 +53,43 @@ msgstr "Sys-SL-ld"
 
 #: translation.js:19
 msgid "Sys-SL-ld-rst"
-msgstr ""
+msgstr "Sys-SL-ld-rst"
 
 #: translation.js:20
 msgid "Sys-SL-rst"
-msgstr ""
+msgstr "Sys-SL-rst"
 
 #: translation.js:21
 msgid "SLR"
-msgstr ""
+msgstr "SLR"
 
 #: translation.js:22
 msgid "SLR-ld"
-msgstr ""
+msgstr "SLR-ld"
 
 #: translation.js:23
 msgid "SLR-ld-rst"
-msgstr ""
+msgstr "SLR-ld-rst"
 
 #: translation.js:24
 msgid "SLR-rst"
-msgstr ""
+msgstr "SLR-rst"
 
 #: translation.js:25
 msgid "Sys-SLR"
-msgstr ""
+msgstr "Sys-SLR"
 
 #: translation.js:26
 msgid "Sys-SLR-ld"
-msgstr ""
+msgstr "Sys-SLR-ld"
 
 #: translation.js:27
 msgid "Sys-SLR-ld-rst"
-msgstr ""
+msgstr "Sys-SLR-ld-rst"
 
 #: translation.js:28
 msgid "Sys-SLR-rst"
-msgstr ""
+msgstr "Sys-SLR-rst"
 
 #: translation.js:29 translation.js:92 translation.js:155 translation.js:239
 #: translation.js:310 translation.js:373 translation.js:436 translation.js:520
@@ -99,35 +99,41 @@ msgstr ""
 #: translation.js:1346 translation.js:1419 translation.js:1513
 #: translation.js:1576 translation.js:1639 translation.js:1730
 msgid "Blocks"
-msgstr ""
+msgstr "Bloques"
 
 #: translation.js:30
 msgid "02-SLR"
-msgstr ""
+msgstr "02-SLR"
 
 #: translation.js:31
 msgid "02-SLR: 2 bits shift left right register. Verilog implementation"
 msgstr ""
+"02-SLR: Registro de desplazamiento izquierda-derecha de 2 bits. Implementac "
+"ión en verilog"
 
 #: translation.js:32
 msgid "03-SLR"
-msgstr ""
+msgstr "03-SLR"
 
 #: translation.js:33
 msgid "03-SLR: 3 bits shift left right register. Verilog implementation"
 msgstr ""
+"03-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. Implementac "
+"ión en verilog"
 
 #: translation.js:34
 msgid "04-SLR"
-msgstr ""
+msgstr "04-SLR"
 
 #: translation.js:35
 msgid "04-SLR: 4 bits shift left right register. Verilog implementation"
 msgstr ""
+"04-SLR: Registro de desplazamiento izquierda-derecha de 4 bits. Implementac "
+"ión en verilog"
 
 #: translation.js:36
 msgid "05-SLR"
-msgstr ""
+msgstr "05-SLR"
 
 #: translation.js:37
 msgid "05-SLR: 5 bits shift left right register. Verilog implementation"
@@ -135,7 +141,7 @@ msgstr ""
 
 #: translation.js:38
 msgid "06-SLR"
-msgstr ""
+msgstr "06-SLR"
 
 #: translation.js:39
 msgid "06-SLR: 6 bits shift left right register. Verilog implementation"
@@ -143,7 +149,7 @@ msgstr ""
 
 #: translation.js:40
 msgid "07-SLR"
-msgstr ""
+msgstr "07-SLR"
 
 #: translation.js:41
 msgid "07-SLR: 7 bits shift left right register. Verilog implementation"
@@ -151,7 +157,7 @@ msgstr ""
 
 #: translation.js:42
 msgid "08-SLR"
-msgstr ""
+msgstr "08-SLR"
 
 #: translation.js:43
 msgid "08-SLR: 8 bits shift left right register. Verilog implementation"
@@ -159,7 +165,7 @@ msgstr ""
 
 #: translation.js:44
 msgid "09-SLR"
-msgstr ""
+msgstr "09-SLR"
 
 #: translation.js:45
 msgid "09-SLR: 9 bits shift left right register. Verilog implementation"
@@ -167,7 +173,7 @@ msgstr ""
 
 #: translation.js:46
 msgid "10-SLR"
-msgstr ""
+msgstr "10-SLR"
 
 #: translation.js:47
 msgid "10-SLR: 10 bits shift left right register. Verilog implementation"
@@ -175,7 +181,7 @@ msgstr ""
 
 #: translation.js:48
 msgid "11-SLR"
-msgstr ""
+msgstr "11-SLR"
 
 #: translation.js:49
 msgid "11-SLR: 11 bits shift left right register. Verilog implementation"
