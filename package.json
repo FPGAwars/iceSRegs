@@ -5,6 +5,7 @@
   "header": "https://raw.githubusercontent.com/FPGAwars/iceSRegs/main/wiki/Logo/iceSReg-collection-github.png",
   "footer": "https://raw.githubusercontent.com/FPGAwars/iceSRegs/main/wiki/Logo/iceSReg-banner.png",
   "keywords": ["registers","shift"],
+  "wiki": "https://github.com/FPGAwars/iceSRegs/wiki",
   "license": "GPL-2.0",
   "authors": [{
     "name": "Juan Gonzalez-Gomez (Obijuan)",
