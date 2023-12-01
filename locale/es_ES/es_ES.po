@@ -1,0 +1,9603 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-01 10:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: translation.js\n"
+
+#: translation.js:10
+msgid "Left"
+msgstr "Left"
+
+#: translation.js:11
+msgid "Left-Right"
+msgstr "Left-Right"
+
+#: translation.js:12
+msgid "Right"
+msgstr "Right"
+
+#: translation.js:13
+msgid "SL"
+msgstr "SL"
+
+#: translation.js:14
+msgid "SL-ld"
+msgstr "SL-ld"
+
+#: translation.js:15
+msgid "SL-ld-rst"
+msgstr "SL-ld-rst"
+
+#: translation.js:16
+msgid "SL-rst"
+msgstr "SL-rst"
+
+#: translation.js:17
+msgid "Sys-SL"
+msgstr "Sys-SL"
+
+#: translation.js:18
+msgid "Sys-SL-ld"
+msgstr "Sys-SL-ld"
+
+#: translation.js:19
+msgid "Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:20
+msgid "Sys-SL-rst"
+msgstr ""
+
+#: translation.js:21
+msgid "SLR"
+msgstr ""
+
+#: translation.js:22
+msgid "SLR-ld"
+msgstr ""
+
+#: translation.js:23
+msgid "SLR-ld-rst"
+msgstr ""
+
+#: translation.js:24
+msgid "SLR-rst"
+msgstr ""
+
+#: translation.js:25
+msgid "Sys-SLR"
+msgstr ""
+
+#: translation.js:26
+msgid "Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:27
+msgid "Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:28
+msgid "Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:29 translation.js:92 translation.js:155 translation.js:239
+#: translation.js:310 translation.js:373 translation.js:436 translation.js:520
+#: translation.js:591 translation.js:654 translation.js:717 translation.js:789
+#: translation.js:872 translation.js:935 translation.js:1001
+#: translation.js:1121 translation.js:1220 translation.js:1283
+#: translation.js:1346 translation.js:1419 translation.js:1513
+#: translation.js:1576 translation.js:1639 translation.js:1730
+msgid "Blocks"
+msgstr ""
+
+#: translation.js:30
+msgid "02-SLR"
+msgstr ""
+
+#: translation.js:31
+msgid "02-SLR: 2 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:32
+msgid "03-SLR"
+msgstr ""
+
+#: translation.js:33
+msgid "03-SLR: 3 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:34
+msgid "04-SLR"
+msgstr ""
+
+#: translation.js:35
+msgid "04-SLR: 4 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:36
+msgid "05-SLR"
+msgstr ""
+
+#: translation.js:37
+msgid "05-SLR: 5 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:38
+msgid "06-SLR"
+msgstr ""
+
+#: translation.js:39
+msgid "06-SLR: 6 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:40
+msgid "07-SLR"
+msgstr ""
+
+#: translation.js:41
+msgid "07-SLR: 7 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:42
+msgid "08-SLR"
+msgstr ""
+
+#: translation.js:43
+msgid "08-SLR: 8 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:44
+msgid "09-SLR"
+msgstr ""
+
+#: translation.js:45
+msgid "09-SLR: 9 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:46
+msgid "10-SLR"
+msgstr ""
+
+#: translation.js:47
+msgid "10-SLR: 10 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:48
+msgid "11-SLR"
+msgstr ""
+
+#: translation.js:49
+msgid "11-SLR: 11 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:50
+msgid "12-SLR"
+msgstr ""
+
+#: translation.js:51
+msgid "12-SLR: 12 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:52
+msgid "13-SLR"
+msgstr ""
+
+#: translation.js:53
+msgid "13-SLR: 13 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:54
+msgid "14-SLR"
+msgstr ""
+
+#: translation.js:55
+msgid "14-SLR: 14 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:56
+msgid "15-SLR"
+msgstr ""
+
+#: translation.js:57
+msgid "15-SLR: 15 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:58
+msgid "16-SLR"
+msgstr ""
+
+#: translation.js:59
+msgid "16-SLR: 16 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:60
+msgid "17-SLR"
+msgstr ""
+
+#: translation.js:61
+msgid "17-SLR: 17 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:62
+msgid "18-SLR"
+msgstr ""
+
+#: translation.js:63
+msgid "18-SLR: 18 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:64
+msgid "19-SLR"
+msgstr ""
+
+#: translation.js:65
+msgid "19-SLR: 19 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:66
+msgid "20-SLR"
+msgstr ""
+
+#: translation.js:67
+msgid "20-SLR: 20 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:68
+msgid "21-SLR"
+msgstr ""
+
+#: translation.js:69
+msgid "21-SLR: 21 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:70
+msgid "22-SLR"
+msgstr ""
+
+#: translation.js:71
+msgid "22-SLR: 22 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:72
+msgid "23-SLR"
+msgstr ""
+
+#: translation.js:73
+msgid "23-SLR: 23 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:74
+msgid "24-SLR"
+msgstr ""
+
+#: translation.js:75
+msgid "24-SLR: 24 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:76
+msgid "25-SLR"
+msgstr ""
+
+#: translation.js:77
+msgid "25-SLR: 25 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:78
+msgid "26-SLR"
+msgstr ""
+
+#: translation.js:79
+msgid "26-SLR: 26 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:80
+msgid "27-SLR"
+msgstr ""
+
+#: translation.js:81
+msgid "27-SLR: 27 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:82
+msgid "28-SLR"
+msgstr ""
+
+#: translation.js:83
+msgid "28-SLR: 28 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:84
+msgid "29-SLR"
+msgstr ""
+
+#: translation.js:85
+msgid "29-SLR: 29 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:86
+msgid "30-SLR"
+msgstr ""
+
+#: translation.js:87
+msgid "30-SLR: 30 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:88
+msgid "31-SLR"
+msgstr ""
+
+#: translation.js:89
+msgid "31-SLR: 31 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:90
+msgid "32-SLR"
+msgstr ""
+
+#: translation.js:91
+msgid "32-SLR: 32 bits shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:93
+msgid "02-SLR-ld"
+msgstr ""
+
+#: translation.js:94
+msgid ""
+"02-SLR-ld: 2 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:95
+msgid "03-SLR-ld"
+msgstr ""
+
+#: translation.js:96
+msgid ""
+"03-SLR-ld: 3 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:97
+msgid "04-SLR-ld"
+msgstr ""
+
+#: translation.js:98
+msgid ""
+"04-SLR-ld: 4 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:99
+msgid "05-SLR-ld"
+msgstr ""
+
+#: translation.js:100
+msgid ""
+"05-SLR-ld: 5 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:101
+msgid "06-SLR-ld"
+msgstr ""
+
+#: translation.js:102
+msgid ""
+"06-SLR-ld: 6 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:103
+msgid "07-SLR-ld"
+msgstr ""
+
+#: translation.js:104
+msgid ""
+"07-SLR-ld: 7 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:105
+msgid "08-SLR-ld"
+msgstr ""
+
+#: translation.js:106
+msgid ""
+"08-SLR-ld: 8 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:107
+msgid "09-SLR-ld"
+msgstr ""
+
+#: translation.js:108
+msgid ""
+"09-SLR-ld: 9 bits shift left right register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:109
+msgid "10-SLR-ld"
+msgstr ""
+
+#: translation.js:110
+msgid ""
+"10-SLR-ld: 10 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:111
+msgid "11-SLR-ld"
+msgstr ""
+
+#: translation.js:112
+msgid ""
+"11-SLR-ld: 11 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:113
+msgid "12-SLR-ld"
+msgstr ""
+
+#: translation.js:114
+msgid ""
+"12-SLR-ld: 12 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:115
+msgid "13-SLR-ld"
+msgstr ""
+
+#: translation.js:116
+msgid ""
+"13-SLR-ld: 13 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:117
+msgid "14-SLR-ld"
+msgstr ""
+
+#: translation.js:118
+msgid ""
+"14-SLR-ld: 14 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:119
+msgid "15-SLR-ld"
+msgstr ""
+
+#: translation.js:120
+msgid ""
+"15-SLR-ld: 15 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:121
+msgid "16-SLR-ld"
+msgstr ""
+
+#: translation.js:122
+msgid ""
+"16-SLR-ld: 16 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:123
+msgid "17-SLR-ld"
+msgstr ""
+
+#: translation.js:124
+msgid ""
+"17-SLR-ld: 17 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:125
+msgid "18-SLR-ld"
+msgstr ""
+
+#: translation.js:126
+msgid ""
+"18-SLR-ld: 18 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:127
+msgid "19-SLR-ld"
+msgstr ""
+
+#: translation.js:128
+msgid ""
+"19-SLR-ld: 19 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:129
+msgid "20-SLR-ld"
+msgstr ""
+
+#: translation.js:130
+msgid ""
+"20-SLR-ld: 20 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:131
+msgid "21-SLR-ld"
+msgstr ""
+
+#: translation.js:132
+msgid ""
+"21-SLR-ld: 21 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:133
+msgid "22-SLR-ld"
+msgstr ""
+
+#: translation.js:134
+msgid ""
+"22-SLR-ld: 22 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:135
+msgid "23-SLR-ld"
+msgstr ""
+
+#: translation.js:136
+msgid ""
+"23-SLR-ld: 23 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:137
+msgid "24-SLR-ld"
+msgstr ""
+
+#: translation.js:138
+msgid ""
+"24-SLR-ld: 24 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:139
+msgid "25-SLR-ld"
+msgstr ""
+
+#: translation.js:140
+msgid ""
+"25-SLR-ld: 25 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:141
+msgid "26-SLR-ld"
+msgstr ""
+
+#: translation.js:142
+msgid ""
+"26-SLR-ld: 26 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:143
+msgid "27-SLR-ld"
+msgstr ""
+
+#: translation.js:144
+msgid ""
+"27-SLR-ld: 27 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:145
+msgid "28-SLR-ld"
+msgstr ""
+
+#: translation.js:146
+msgid ""
+"28-SLR-ld: 28 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:147
+msgid "29-SLR-ld"
+msgstr ""
+
+#: translation.js:148
+msgid ""
+"29-SLR-ld: 29 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:149
+msgid "30-SLR-ld"
+msgstr ""
+
+#: translation.js:150
+msgid ""
+"30-SLR-ld: 30 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:151
+msgid "31-SLR-ld"
+msgstr ""
+
+#: translation.js:152
+msgid ""
+"31-SLR-ld: 31 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:153
+msgid "32-SLR-ld"
+msgstr ""
+
+#: translation.js:154
+msgid ""
+"32-SLR-ld: 32 bits shift left right register with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:156
+msgid "02-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:157
+msgid ""
+"02-SLR-ld-rst: 2 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:158
+msgid "03-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:159
+msgid ""
+"03-SLR-ld-rst: 3 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:160
+msgid "04-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:161
+msgid ""
+"04-SLR-ld-rst: 4 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:162
+msgid "05-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:163
+msgid ""
+"05-SLR-ld-rst: 5 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:164
+msgid "06-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:165
+msgid ""
+"06-SLR-ld-rst: 6 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:166
+msgid "07-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:167
+msgid ""
+"07-SLR-ld-rst: 7 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:168
+msgid "08-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:169
+msgid ""
+"08-SLR-ld-rst: 8 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:170
+msgid "09-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:171
+msgid ""
+"09-SLR-ld-rst: 9 bits shift left right register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:172
+msgid "10-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:173
+msgid ""
+"10-SLR-ld-rst: 10 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:174
+msgid "11-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:175
+msgid ""
+"11-SLR-ld-rst: 11 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:176
+msgid "12-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:177
+msgid ""
+"12-SLR-ld-rst: 12 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:178
+msgid "13-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:179
+msgid ""
+"13-SLR-ld-rst: 13 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:180
+msgid "14-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:181
+msgid ""
+"14-SLR-ld-rst: 14 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:182
+msgid "15-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:183
+msgid ""
+"15-SLR-ld-rst: 15 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:184
+msgid "16-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:185
+msgid ""
+"16-SLR-ld-rst: 16 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:186
+msgid "17-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:187
+msgid ""
+"17-SLR-ld-rst: 17 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:188
+msgid "18-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:189
+msgid ""
+"18-SLR-ld-rst: 18 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:190
+msgid "19-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:191
+msgid ""
+"19-SLR-ld-rst: 19 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:192
+msgid "20-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:193
+msgid ""
+"20-SLR-ld-rst: 20 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:194
+msgid "21-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:195
+msgid ""
+"21-SLR-ld-rst: 21 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:196
+msgid "22-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:197
+msgid ""
+"22-SLR-ld-rst: 22 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:198
+msgid "23-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:199
+msgid ""
+"23-SLR-ld-rst: 23 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:200
+msgid "24-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:201
+msgid ""
+"24-SLR-ld-rst: 24 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:202
+msgid "25-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:203
+msgid ""
+"25-SLR-ld-rst: 25 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:204
+msgid "26-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:205
+msgid ""
+"26-SLR-ld-rst: 26 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:206
+msgid "27-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:207
+msgid ""
+"27-SLR-ld-rst: 27 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:208
+msgid "28-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:209
+msgid ""
+"28-SLR-ld-rst: 28 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:210
+msgid "29-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:211
+msgid ""
+"29-SLR-ld-rst: 29 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:212
+msgid "30-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:213
+msgid ""
+"30-SLR-ld-rst: 30 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:214
+msgid "31-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:215
+msgid ""
+"31-SLR-ld-rst: 31 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:216
+msgid "32-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:217
+msgid ""
+"32-SLR-ld-rst: 32 bits shift left right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:218
+msgid "02-SLR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:219
+msgid ""
+"02-SLR-ld-rst-imp1: 2 bits shift left right register with load and reset. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:220
+msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
+msgstr ""
+
+#: translation.js:221
+msgid ""
+"SR1-2bits-verilog: Shift  a 2-bit value one bit right. MSB is filled with "
+"in. Verilog implementation"
+msgstr ""
+
+#: translation.js:222
+msgid "2-to-1 Multplexer (2-bit channels). Verilog implementation"
+msgstr ""
+
+#: translation.js:223
+msgid "SL1-2-verilog: Shift  a 2-bit value one bit left. LSB is filled with "
+msgstr ""
+
+#: translation.js:224
+msgid "OR2: Two bits input OR gate"
+msgstr ""
+
+#: translation.js:225
+msgid "02-Reg-rst: 2 bits Register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:226
+msgid "Shift to the right"
+msgstr ""
+
+#: translation.js:227
+msgid "Shift to the left"
+msgstr ""
+
+#: translation.js:228
+msgid "02-SLR-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:229
+msgid ""
+"02-SLR-ld-rst-imp2: 2 bits shift left right register with load and reset. "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:230
+msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
+msgstr ""
+
+#: translation.js:231
+msgid "2-to-1 Multplexer (1-bit channels). Verilog implementation"
+msgstr ""
+
+#: translation.js:232
+msgid "DFF-rst. D Flip-Flop with load and reset. Implemented in verilog"
+msgstr ""
+
+#: translation.js:233
+msgid "02-SLR-ld-imp1"
+msgstr ""
+
+#: translation.js:234
+msgid ""
+"02-SLR-ld-imp1: 2 bits shift left right register with load. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:235
+msgid "02-Reg: 2 bits Register. Verilog implementation"
+msgstr ""
+
+#: translation.js:236
+msgid "02-SLR-ld-imp2"
+msgstr ""
+
+#: translation.js:237
+msgid ""
+"02-SLR-ld-imp2: 2 bits shift left right register with load. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:238
+msgid "DFF. D Flip-flop. Verilog implementation"
+msgstr ""
+
+#: translation.js:240
+msgid "02-SLR-rst"
+msgstr ""
+
+#: translation.js:241
+msgid ""
+"02-SLR-rst: 2 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:242
+msgid "03-SLR-rst"
+msgstr ""
+
+#: translation.js:243
+msgid ""
+"03-SLR-rst: 3 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:244
+msgid "04-SLR-rst"
+msgstr ""
+
+#: translation.js:245
+msgid ""
+"04-SLR-rst: 4 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:246
+msgid "05-SLR-rst"
+msgstr ""
+
+#: translation.js:247
+msgid ""
+"05-SLR-rst: 5 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:248
+msgid "06-SLR-rst"
+msgstr ""
+
+#: translation.js:249
+msgid ""
+"06-SLR-rst: 6 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:250
+msgid "07-SLR-rst"
+msgstr ""
+
+#: translation.js:251
+msgid ""
+"07-SLR-rst: 7 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:252
+msgid "08-SLR-rst"
+msgstr ""
+
+#: translation.js:253
+msgid ""
+"08-SLR-rst: 8 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:254
+msgid "09-SLR-rst"
+msgstr ""
+
+#: translation.js:255
+msgid ""
+"09-SLR-rst: 9 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:256
+msgid "10-SLR-rst"
+msgstr ""
+
+#: translation.js:257
+msgid ""
+"10-SLR-rst: 10 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:258
+msgid "11-SLR-rst"
+msgstr ""
+
+#: translation.js:259
+msgid ""
+"11-SLR-rst: 11 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:260
+msgid "12-SLR-rst"
+msgstr ""
+
+#: translation.js:261
+msgid ""
+"12-SLR-rst: 12 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:262
+msgid "13-SLR-rst"
+msgstr ""
+
+#: translation.js:263
+msgid ""
+"13-SLR-rst: 13 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:264
+msgid "14-SLR-rst"
+msgstr ""
+
+#: translation.js:265
+msgid ""
+"14-SLR-rst: 14 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:266
+msgid "15-SLR-rst"
+msgstr ""
+
+#: translation.js:267
+msgid ""
+"15-SLR-rst: 15 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:268
+msgid "16-SLR-rst"
+msgstr ""
+
+#: translation.js:269
+msgid ""
+"16-SLR-rst: 16 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:270
+msgid "17-SLR-rst"
+msgstr ""
+
+#: translation.js:271
+msgid ""
+"17-SLR-rst: 17 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:272
+msgid "18-SLR-rst"
+msgstr ""
+
+#: translation.js:273
+msgid ""
+"18-SLR-rst: 18 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:274
+msgid "19-SLR-rst"
+msgstr ""
+
+#: translation.js:275
+msgid ""
+"19-SLR-rst: 19 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:276
+msgid "20-SLR-rst"
+msgstr ""
+
+#: translation.js:277
+msgid ""
+"20-SLR-rst: 20 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:278
+msgid "21-SLR-rst"
+msgstr ""
+
+#: translation.js:279
+msgid ""
+"21-SLR-rst: 21 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:280
+msgid "22-SLR-rst"
+msgstr ""
+
+#: translation.js:281
+msgid ""
+"22-SLR-rst: 22 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:282
+msgid "23-SLR-rst"
+msgstr ""
+
+#: translation.js:283
+msgid ""
+"23-SLR-rst: 23 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:284
+msgid "24-SLR-rst"
+msgstr ""
+
+#: translation.js:285
+msgid ""
+"24-SLR-rst: 24 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:286
+msgid "25-SLR-rst"
+msgstr ""
+
+#: translation.js:287
+msgid ""
+"25-SLR-rst: 25 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:288
+msgid "26-SLR-rst"
+msgstr ""
+
+#: translation.js:289
+msgid ""
+"26-SLR-rst: 26 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:290
+msgid "27-SLR-rst"
+msgstr ""
+
+#: translation.js:291
+msgid ""
+"27-SLR-rst: 27 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:292
+msgid "28-SLR-rst"
+msgstr ""
+
+#: translation.js:293
+msgid ""
+"28-SLR-rst: 28 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:294
+msgid "29-SLR-rst"
+msgstr ""
+
+#: translation.js:295
+msgid ""
+"29-SLR-rst: 29 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:296
+msgid "30-SLR-rst"
+msgstr ""
+
+#: translation.js:297
+msgid ""
+"30-SLR-rst: 30 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:298
+msgid "31-SLR-rst"
+msgstr ""
+
+#: translation.js:299
+msgid ""
+"31-SLR-rst: 31 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:300
+msgid "32-SLR-rst"
+msgstr ""
+
+#: translation.js:301
+msgid ""
+"32-SLR-rst: 32 bits shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:302
+msgid "02-SLR-rst-imp1"
+msgstr ""
+
+#: translation.js:303
+msgid ""
+"02-SLR-rst-imp1: 2 bits shift left right register with reset. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:304
+msgid "02-SLR-rst-imp2"
+msgstr ""
+
+#: translation.js:305
+msgid ""
+"02-SLR-rst-imp2: 2 bits shift left right register with reset. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:306
+msgid "02-SLR-imp1"
+msgstr ""
+
+#: translation.js:307
+msgid "02-SLR-imp1: 2 bits shift left right register. Block implementation 1"
+msgstr ""
+
+#: translation.js:308
+msgid "02-SLR-imp2"
+msgstr ""
+
+#: translation.js:309
+msgid "02-SLR-imp2: 2 bits shift left right register. Block implementation 2"
+msgstr ""
+
+#: translation.js:311
+msgid "02-Sys-SLR"
+msgstr ""
+
+#: translation.js:312
+msgid ""
+"02-Sys-SLR: 2 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:313
+msgid "03-Sys-SLR"
+msgstr ""
+
+#: translation.js:314
+msgid ""
+"03-Sys-SLR: 3 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:315
+msgid "04-Sys-SLR"
+msgstr ""
+
+#: translation.js:316
+msgid ""
+"04-Sys-SLR: 4 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:317
+msgid "05-Sys-SLR"
+msgstr ""
+
+#: translation.js:318
+msgid ""
+"05-Sys-SLR: 5 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:319
+msgid "06-Sys-SLR"
+msgstr ""
+
+#: translation.js:320
+msgid ""
+"06-Sys-SLR: 6 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:321
+msgid "07-Sys-SLR"
+msgstr ""
+
+#: translation.js:322
+msgid ""
+"07-Sys-SLR: 7 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:323
+msgid "08-Sys-SLR"
+msgstr ""
+
+#: translation.js:324
+msgid ""
+"08-Sys-SLR: 8 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:325
+msgid "09-Sys-SLR"
+msgstr ""
+
+#: translation.js:326
+msgid ""
+"09-Sys-SLR: 9 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:327
+msgid "10-Sys-SLR"
+msgstr ""
+
+#: translation.js:328
+msgid ""
+"10-Sys-SLR: 10 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:329
+msgid "11-Sys-SLR"
+msgstr ""
+
+#: translation.js:330
+msgid ""
+"11-Sys-SLR: 11 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:331
+msgid "12-Sys-SLR"
+msgstr ""
+
+#: translation.js:332
+msgid ""
+"12-Sys-SLR: 12 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:333
+msgid "13-Sys-SLR"
+msgstr ""
+
+#: translation.js:334
+msgid ""
+"13-Sys-SLR: 13 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:335
+msgid "14-Sys-SLR"
+msgstr ""
+
+#: translation.js:336
+msgid ""
+"14-Sys-SLR: 14 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:337
+msgid "15-Sys-SLR"
+msgstr ""
+
+#: translation.js:338
+msgid ""
+"15-Sys-SLR: 15 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:339
+msgid "16-Sys-SLR"
+msgstr ""
+
+#: translation.js:340
+msgid ""
+"16-Sys-SLR: 16 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:341
+msgid "17-Sys-SLR"
+msgstr ""
+
+#: translation.js:342
+msgid ""
+"17-Sys-SLR: 17 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:343
+msgid "18-Sys-SLR"
+msgstr ""
+
+#: translation.js:344
+msgid ""
+"18-Sys-SLR: 18 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:345
+msgid "19-Sys-SLR"
+msgstr ""
+
+#: translation.js:346
+msgid ""
+"19-Sys-SLR: 19 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:347
+msgid "20-Sys-SLR"
+msgstr ""
+
+#: translation.js:348
+msgid ""
+"20-Sys-SLR: 20 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:349
+msgid "21-Sys-SLR"
+msgstr ""
+
+#: translation.js:350
+msgid ""
+"21-Sys-SLR: 21 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:351
+msgid "22-Sys-SLR"
+msgstr ""
+
+#: translation.js:352
+msgid ""
+"22-Sys-SLR: 22 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:353
+msgid "23-Sys-SLR"
+msgstr ""
+
+#: translation.js:354
+msgid ""
+"23-Sys-SLR: 23 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:355
+msgid "24-Sys-SLR"
+msgstr ""
+
+#: translation.js:356
+msgid ""
+"24-Sys-SLR: 24 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:357
+msgid "25-Sys-SLR"
+msgstr ""
+
+#: translation.js:358
+msgid ""
+"25-Sys-SLR: 25 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:359
+msgid "26-Sys-SLR"
+msgstr ""
+
+#: translation.js:360
+msgid ""
+"26-Sys-SLR: 26 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:361
+msgid "27-Sys-SLR"
+msgstr ""
+
+#: translation.js:362
+msgid ""
+"27-Sys-SLR: 27 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:363
+msgid "28-Sys-SLR"
+msgstr ""
+
+#: translation.js:364
+msgid ""
+"28-Sys-SLR: 28 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:365
+msgid "29-Sys-SLR"
+msgstr ""
+
+#: translation.js:366
+msgid ""
+"29-Sys-SLR: 29 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:367
+msgid "30-Sys-SLR"
+msgstr ""
+
+#: translation.js:368
+msgid ""
+"30-Sys-SLR: 30 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:369
+msgid "31-Sys-SLR"
+msgstr ""
+
+#: translation.js:370
+msgid ""
+"31-Sys-SLR: 31 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:371
+msgid "32-Sys-SLR"
+msgstr ""
+
+#: translation.js:372
+msgid ""
+"32-Sys-SLR: 32 bits system shift left right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:374
+msgid "02-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:375
+msgid ""
+"02-Sys-SLR-ld: 2 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:376
+msgid "03-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:377
+msgid ""
+"03-Sys-SLR-ld: 3 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:378
+msgid "04-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:379
+msgid ""
+"04-Sys-SLR-ld: 4 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:380
+msgid "05-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:381
+msgid ""
+"05-Sys-SLR-ld: 5 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:382
+msgid "06-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:383
+msgid ""
+"06-Sys-SLR-ld: 6 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:384
+msgid "07-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:385
+msgid ""
+"07-Sys-SLR-ld: 7 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:386
+msgid "08-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:387
+msgid ""
+"08-Sys-SLR-ld: 8 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:388
+msgid "09-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:389
+msgid ""
+"09-Sys-SLR-ld: 9 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:390
+msgid "10-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:391
+msgid ""
+"10-Sys-SLR-ld: 10 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:392
+msgid "11-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:393
+msgid ""
+"11-Sys-SLR-ld: 11 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:394
+msgid "12-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:395
+msgid ""
+"12-Sys-SLR-ld: 12 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:396
+msgid "13-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:397
+msgid ""
+"13-Sys-SLR-ld: 13 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:398
+msgid "14-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:399
+msgid ""
+"14-Sys-SLR-ld: 14 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:400
+msgid "15-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:401
+msgid ""
+"15-Sys-SLR-ld: 15 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:402
+msgid "16-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:403
+msgid ""
+"16-Sys-SLR-ld: 16 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:404
+msgid "17-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:405
+msgid ""
+"17-Sys-SLR-ld: 17 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:406
+msgid "18-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:407
+msgid ""
+"18-Sys-SLR-ld: 18 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:408
+msgid "19-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:409
+msgid ""
+"19-Sys-SLR-ld: 19 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:410
+msgid "20-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:411
+msgid ""
+"20-Sys-SLR-ld: 20 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:412
+msgid "21-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:413
+msgid ""
+"21-Sys-SLR-ld: 21 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:414
+msgid "22-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:415
+msgid ""
+"22-Sys-SLR-ld: 22 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:416
+msgid "23-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:417
+msgid ""
+"23-Sys-SLR-ld: 23 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:418
+msgid "24-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:419
+msgid ""
+"24-Sys-SLR-ld: 24 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:420
+msgid "25-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:421
+msgid ""
+"25-Sys-SLR-ld: 25 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:422
+msgid "26-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:423
+msgid ""
+"26-Sys-SLR-ld: 26 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:424
+msgid "27-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:425
+msgid ""
+"27-Sys-SLR-ld: 27 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:426
+msgid "28-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:427
+msgid ""
+"28-Sys-SLR-ld: 28 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:428
+msgid "29-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:429
+msgid ""
+"29-Sys-SLR-ld: 29 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:430
+msgid "30-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:431
+msgid ""
+"30-Sys-SLR-ld: 30 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:432
+msgid "31-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:433
+msgid ""
+"31-Sys-SLR-ld: 31 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:434
+msgid "32-Sys-SLR-ld"
+msgstr ""
+
+#: translation.js:435
+msgid ""
+"32-Sys-SLR-ld: 32 bits system shift left right register with load input. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:437
+msgid "02-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:438
+msgid ""
+"02-Sys-SLR-ld-rst: 2 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:439
+msgid "03-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:440
+msgid ""
+"03-Sys-SLR-ld-rst: 3 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:441
+msgid "04-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:442
+msgid ""
+"04-Sys-SLR-ld-rst: 4 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:443
+msgid "05-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:444
+msgid ""
+"05-Sys-SLR-ld-rst: 5 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:445
+msgid "06-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:446
+msgid ""
+"06-Sys-SLR-ld-rst: 6 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:447
+msgid "07-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:448
+msgid ""
+"07-Sys-SLR-ld-rst: 7 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:449
+msgid "08-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:450
+msgid ""
+"08-Sys-SLR-ld-rst: 8 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:451
+msgid "09-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:452
+msgid ""
+"09-Sys-SLR-ld-rst: 9 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:453
+msgid "10-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:454
+msgid ""
+"10-Sys-SLR-ld-rst: 10 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:455
+msgid "11-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:456
+msgid ""
+"11-Sys-SLR-ld-rst: 11 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:457
+msgid "12-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:458
+msgid ""
+"12-Sys-SLR-ld-rst: 12 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:459
+msgid "13-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:460
+msgid ""
+"13-Sys-SLR-ld-rst: 13 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:461
+msgid "14-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:462
+msgid ""
+"14-Sys-SLR-ld-rst: 14 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:463
+msgid "15-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:464
+msgid ""
+"15-Sys-SLR-ld-rst: 15 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:465
+msgid "16-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:466
+msgid ""
+"16-Sys-SLR-ld-rst: 16 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:467
+msgid "17-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:468
+msgid ""
+"17-Sys-SLR-ld-rst: 17 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:469
+msgid "18-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:470
+msgid ""
+"18-Sys-SLR-ld-rst: 18 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:471
+msgid "19-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:472
+msgid ""
+"19-Sys-SLR-ld-rst: 19 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:473
+msgid "20-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:474
+msgid ""
+"20-Sys-SLR-ld-rst: 20 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:475
+msgid "21-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:476
+msgid ""
+"21-Sys-SLR-ld-rst: 21 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:477
+msgid "22-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:478
+msgid ""
+"22-Sys-SLR-ld-rst: 22 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:479
+msgid "23-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:480
+msgid ""
+"23-Sys-SLR-ld-rst: 23 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:481
+msgid "24-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:482
+msgid ""
+"24-Sys-SLR-ld-rst: 24 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:483
+msgid "25-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:484
+msgid ""
+"25-Sys-SLR-ld-rst: 25 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:485
+msgid "26-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:486
+msgid ""
+"26-Sys-SLR-ld-rst: 26 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:487
+msgid "27-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:488
+msgid ""
+"27-Sys-SLR-ld-rst: 27 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:489
+msgid "28-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:490
+msgid ""
+"28-Sys-SLR-ld-rst: 28 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:491
+msgid "29-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:492
+msgid ""
+"29-Sys-SLR-ld-rst: 29 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:493
+msgid "30-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:494
+msgid ""
+"30-Sys-SLR-ld-rst: 30 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:495
+msgid "31-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:496
+msgid ""
+"31-Sys-SLR-ld-rst: 31 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:497
+msgid "32-Sys-SLR-ld-rst"
+msgstr ""
+
+#: translation.js:498
+msgid ""
+"32-Sys-SLR-ld-rst: 32 bits system shift left right register with load and "
+"reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:499
+msgid "02-Sys-SLR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:500
+msgid ""
+"02-Sys-SLR-ld-rst-imp1: 2 bits system shift left right register with load "
+"and reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:501
+msgid ""
+"02-Sys-reg-rst: 2 bits system register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:502
+msgid "02-Sys-SLR-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:503
+msgid ""
+"02-Sys-SLR-ld-rst-imp2: 2 bits system shift left right register with load "
+"and reset. Block implementation 2"
+msgstr ""
+
+#: translation.js:504
+msgid ""
+"Sys-DFF-rst: D Flip flop with reset input. When rst=1, the DFF is set to it "
+"initial value. Verilog implementation"
+msgstr ""
+
+#: translation.js:505
+msgid "Data input"
+msgstr ""
+
+#: translation.js:506
+msgid "System clock"
+msgstr ""
+
+#: translation.js:507
+msgid ""
+"Initial default  \n"
+"value: 0"
+msgstr ""
+
+#: translation.js:508
+msgid "Reset input"
+msgstr ""
+
+#: translation.js:509
+msgid "02-Sys-SLR-ld-imp1"
+msgstr ""
+
+#: translation.js:510
+msgid ""
+"02-Sys-SLR-ld-imp1: 2 bits system shift left right register with load input. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:511
+msgid "02-Sys-reg: 2 bits system register. Verilog implementation"
+msgstr ""
+
+#: translation.js:512
+msgid "02-Sys-SLR-ld-imp2"
+msgstr ""
+
+#: translation.js:513
+msgid ""
+"02-Sys-SLR-ld-imp2: 2 bits system shift left right register with load input. "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:514
+msgid ""
+"System - D Flip-flop. Capture data every system clock cycle. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:515
+msgid "Parameter: Initial value"
+msgstr ""
+
+#: translation.js:516
+msgid "Input data"
+msgstr ""
+
+#: translation.js:517
+msgid "Output"
+msgstr ""
+
+#: translation.js:518
+msgid ""
+"# D Flip-Flop  (system)\n"
+"\n"
+"It stores the input data that arrives at cycle n  \n"
+"Its output is shown in the cycle n+1"
+msgstr ""
+
+#: translation.js:519
+msgid "Not connected"
+msgstr ""
+
+#: translation.js:521
+msgid "02-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:522
+msgid ""
+"02-Sys-SLR-rst: 2 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:523
+msgid "03-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:524
+msgid ""
+"03-Sys-SLR-rst: 3 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:525
+msgid "04-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:526
+msgid ""
+"04-Sys-SLR-rst: 4 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:527
+msgid "05-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:528
+msgid ""
+"05-Sys-SLR-rst: 5 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:529
+msgid "06-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:530
+msgid ""
+"06-Sys-SLR-rst: 6 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:531
+msgid "07-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:532
+msgid ""
+"07-Sys-SLR-rst: 7 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:533
+msgid "08-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:534
+msgid ""
+"08-Sys-SLR-rst: 8 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:535
+msgid "09-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:536
+msgid ""
+"09-Sys-SLR-rst: 9 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:537
+msgid "10-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:538
+msgid ""
+"10-Sys-SLR-rst: 10 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:539
+msgid "11-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:540
+msgid ""
+"11-Sys-SLR-rst: 11 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:541
+msgid "12-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:542
+msgid ""
+"12-Sys-SLR-rst: 12 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:543
+msgid "13-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:544
+msgid ""
+"13-Sys-SLR-rst: 13 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:545
+msgid "14-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:546
+msgid ""
+"14-Sys-SLR-rst: 14 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:547
+msgid "15-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:548
+msgid ""
+"15-Sys-SLR-rst: 15 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:549
+msgid "16-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:550
+msgid ""
+"16-Sys-SLR-rst: 16 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:551
+msgid "17-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:552
+msgid ""
+"17-Sys-SLR-rst: 17 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:553
+msgid "18-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:554
+msgid ""
+"18-Sys-SLR-rst: 18 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:555
+msgid "19-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:556
+msgid ""
+"19-Sys-SLR-rst: 19 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:557
+msgid "20-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:558
+msgid ""
+"20-Sys-SLR-rst: 20 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:559
+msgid "21-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:560
+msgid ""
+"21-Sys-SLR-rst: 21 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:561
+msgid "22-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:562
+msgid ""
+"22-Sys-SLR-rst: 22 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:563
+msgid "23-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:564
+msgid ""
+"23-Sys-SLR-rst: 23 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:565
+msgid "24-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:566
+msgid ""
+"24-Sys-SLR-rst: 24 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:567
+msgid "25-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:568
+msgid ""
+"25-Sys-SLR-rst: 25 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:569
+msgid "26-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:570
+msgid ""
+"26-Sys-SLR-rst: 26 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:571
+msgid "27-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:572
+msgid ""
+"27-Sys-SLR-rst: 27 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:573
+msgid "28-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:574
+msgid ""
+"28-Sys-SLR-rst: 28 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:575
+msgid "29-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:576
+msgid ""
+"29-Sys-SLR-rst: 29 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:577
+msgid "30-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:578
+msgid ""
+"30-Sys-SLR-rst: 30 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:579
+msgid "31-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:580
+msgid ""
+"31-Sys-SLR-rst: 31 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:581
+msgid "32-Sys-SLR-rst"
+msgstr ""
+
+#: translation.js:582
+msgid ""
+"32-Sys-SLR-rst: 32 bits system shift left right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:583 translation.js:587
+msgid "02-Sys-SLR-imp1"
+msgstr ""
+
+#: translation.js:584
+msgid ""
+"02-Sys-SLR-rst-imp1: 2 bits system shift left right register with reset. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:585 translation.js:589
+msgid "02-Sys-SLR-imp2"
+msgstr ""
+
+#: translation.js:586
+msgid ""
+"02-Sys-SLR-rst-imp2: 2 bits system shift left right register with reset. "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:588
+msgid ""
+"02-Sys-SLR-imp1: 2 bits system shift left right register. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:590
+msgid ""
+"02-Sys-SLR-imp2: 2 bits system shift left right register. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:592
+msgid "02-SL"
+msgstr ""
+
+#: translation.js:593
+msgid "02-SL: 2 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:594
+msgid "03-SL"
+msgstr ""
+
+#: translation.js:595
+msgid "03-SL: 3 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:596
+msgid "04-SL"
+msgstr ""
+
+#: translation.js:597
+msgid "04-SL: 4 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:598
+msgid "05-SL"
+msgstr ""
+
+#: translation.js:599
+msgid "05-SL: 5 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:600
+msgid "06-SL"
+msgstr ""
+
+#: translation.js:601
+msgid "06-SL: 6 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:602
+msgid "07-SL"
+msgstr ""
+
+#: translation.js:603
+msgid "07-SL: 7 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:604
+msgid "08-SL"
+msgstr ""
+
+#: translation.js:605
+msgid "08-SL: 8 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:606
+msgid "09-SL"
+msgstr ""
+
+#: translation.js:607
+msgid "09-SL: 9 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:608
+msgid "10-SL"
+msgstr ""
+
+#: translation.js:609
+msgid "10-SL: 10 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:610
+msgid "11-SL"
+msgstr ""
+
+#: translation.js:611
+msgid "11-SL: 11 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:612
+msgid "12-SL"
+msgstr ""
+
+#: translation.js:613
+msgid "12-SL: 12 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:614
+msgid "13-SL"
+msgstr ""
+
+#: translation.js:615
+msgid "13-SL: 13 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:616
+msgid "14-SL"
+msgstr ""
+
+#: translation.js:617
+msgid "14-SL: 14 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:618
+msgid "15-SL"
+msgstr ""
+
+#: translation.js:619
+msgid "15-SL: 15 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:620
+msgid "16-SL"
+msgstr ""
+
+#: translation.js:621
+msgid "16-SL: 16 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:622
+msgid "17-SL"
+msgstr ""
+
+#: translation.js:623
+msgid "17-SL: 17 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:624
+msgid "18-SL"
+msgstr ""
+
+#: translation.js:625
+msgid "18-SL: 18 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:626
+msgid "19-SL"
+msgstr ""
+
+#: translation.js:627
+msgid "19-SL: 19 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:628
+msgid "20-SL"
+msgstr ""
+
+#: translation.js:629
+msgid "20-SL: 20 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:630
+msgid "21-SL"
+msgstr ""
+
+#: translation.js:631
+msgid "21-SL: 21 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:632
+msgid "22-SL"
+msgstr ""
+
+#: translation.js:633
+msgid "22-SL: 22 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:634
+msgid "23-SL"
+msgstr ""
+
+#: translation.js:635
+msgid "23-SL: 23 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:636
+msgid "24-SL"
+msgstr ""
+
+#: translation.js:637
+msgid "24-SL: 24 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:638
+msgid "25-SL"
+msgstr ""
+
+#: translation.js:639
+msgid "25-SL: 25 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:640
+msgid "26-SL"
+msgstr ""
+
+#: translation.js:641
+msgid "26-SL: 26 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:642
+msgid "27-SL"
+msgstr ""
+
+#: translation.js:643
+msgid "27-SL: 27 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:644
+msgid "28-SL"
+msgstr ""
+
+#: translation.js:645
+msgid "28-SL: 28 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:646
+msgid "29-SL"
+msgstr ""
+
+#: translation.js:647
+msgid "29-SL: 29 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:648
+msgid "30-SL"
+msgstr ""
+
+#: translation.js:649
+msgid "30-SL: 30 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:650
+msgid "31-SL"
+msgstr ""
+
+#: translation.js:651
+msgid "31-SL: 31 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:652
+msgid "32-SL"
+msgstr ""
+
+#: translation.js:653
+msgid "32-SL: 32 bits shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:655
+msgid "02-SL-ld"
+msgstr ""
+
+#: translation.js:656
+msgid "02-SL-ld: 2 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:657
+msgid "03-SL-ld"
+msgstr ""
+
+#: translation.js:658
+msgid "03-SL-ld: 3 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:659
+msgid "04-SL-ld"
+msgstr ""
+
+#: translation.js:660
+msgid "04-SL-ld: 4 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:661
+msgid "05-SL-ld"
+msgstr ""
+
+#: translation.js:662
+msgid "05-SL-ld: 5 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:663
+msgid "06-SL-ld"
+msgstr ""
+
+#: translation.js:664
+msgid "06-SL-ld: 6 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:665
+msgid "07-SL-ld"
+msgstr ""
+
+#: translation.js:666
+msgid "07-SL-ld: 7 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:667
+msgid "08-SL-ld"
+msgstr ""
+
+#: translation.js:668
+msgid "08-SL-ld: 8 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:669
+msgid "09-SL-ld"
+msgstr ""
+
+#: translation.js:670
+msgid "09-SL-ld: 9 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:671
+msgid "10-SL-ld"
+msgstr ""
+
+#: translation.js:672
+msgid "10-SL-ld: 10 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:673
+msgid "11-SL-ld"
+msgstr ""
+
+#: translation.js:674
+msgid "11-SL-ld: 11 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:675
+msgid "12-SL-ld"
+msgstr ""
+
+#: translation.js:676
+msgid "12-SL-ld: 12 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:677
+msgid "13-SL-ld"
+msgstr ""
+
+#: translation.js:678
+msgid "13-SL-ld: 13 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:679
+msgid "14-SL-ld"
+msgstr ""
+
+#: translation.js:680
+msgid "14-SL-ld: 14 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:681
+msgid "15-SL-ld"
+msgstr ""
+
+#: translation.js:682
+msgid "15-SL-ld: 15 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:683
+msgid "16-SL-ld"
+msgstr ""
+
+#: translation.js:684
+msgid "16-SL-ld: 16 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:685
+msgid "17-SL-ld"
+msgstr ""
+
+#: translation.js:686
+msgid "17-SL-ld: 17 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:687
+msgid "18-SL-ld"
+msgstr ""
+
+#: translation.js:688
+msgid "18-SL-ld: 18 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:689
+msgid "19-SL-ld"
+msgstr ""
+
+#: translation.js:690
+msgid "19-SL-ld: 19 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:691
+msgid "20-SL-ld"
+msgstr ""
+
+#: translation.js:692
+msgid "20-SL-ld: 20 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:693
+msgid "21-SL-ld"
+msgstr ""
+
+#: translation.js:694
+msgid "21-SL-ld: 21 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:695
+msgid "22-SL-ld"
+msgstr ""
+
+#: translation.js:696
+msgid "22-SL-ld: 22 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:697
+msgid "23-SL-ld"
+msgstr ""
+
+#: translation.js:698
+msgid "23-SL-ld: 23 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:699
+msgid "24-SL-ld"
+msgstr ""
+
+#: translation.js:700
+msgid "24-SL-ld: 24 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:701
+msgid "25-SL-ld"
+msgstr ""
+
+#: translation.js:702
+msgid "25-SL-ld: 25 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:703
+msgid "26-SL-ld"
+msgstr ""
+
+#: translation.js:704
+msgid "26-SL-ld: 26 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:705
+msgid "27-SL-ld"
+msgstr ""
+
+#: translation.js:706
+msgid "27-SL-ld: 27 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:707
+msgid "28-SL-ld"
+msgstr ""
+
+#: translation.js:708
+msgid "28-SL-ld: 28 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:709
+msgid "29-SL-ld"
+msgstr ""
+
+#: translation.js:710
+msgid "29-SL-ld: 29 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:711
+msgid "30-SL-ld"
+msgstr ""
+
+#: translation.js:712
+msgid "30-SL-ld: 30 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:713
+msgid "31-SL-ld"
+msgstr ""
+
+#: translation.js:714
+msgid "31-SL-ld: 31 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:715
+msgid "32-SL-ld"
+msgstr ""
+
+#: translation.js:716
+msgid "32-SL-ld: 32 bits shift left register with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:718
+msgid "02-SL-ld-rst"
+msgstr ""
+
+#: translation.js:719
+msgid ""
+"02-SL-ld-rst: 2 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:720
+msgid "03-SL-ld-rst"
+msgstr ""
+
+#: translation.js:721
+msgid ""
+"03-SL-ld-rst: 3 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:722
+msgid "04-SL-ld-rst"
+msgstr ""
+
+#: translation.js:723
+msgid ""
+"04-SL-ld-rst: 4 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:724
+msgid "05-SL-ld-rst"
+msgstr ""
+
+#: translation.js:725
+msgid ""
+"05-SL-ld-rst: 5 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:726
+msgid "06-SL-ld-rst"
+msgstr ""
+
+#: translation.js:727
+msgid ""
+"06-SL-ld-rst: 6 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:728
+msgid "07-SL-ld-rst"
+msgstr ""
+
+#: translation.js:729
+msgid ""
+"07-SL-ld-rst: 7 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:730
+msgid "08-SL-ld-rst"
+msgstr ""
+
+#: translation.js:731
+msgid ""
+"08-SL-ld-rst: 8 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:732
+msgid "09-SL-ld-rst"
+msgstr ""
+
+#: translation.js:733
+msgid ""
+"09-SL-ld-rst: 9 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:734
+msgid "10-SL-ld-rst"
+msgstr ""
+
+#: translation.js:735
+msgid ""
+"10-SL-ld-rst: 10 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:736
+msgid "11-SL-ld-rst"
+msgstr ""
+
+#: translation.js:737
+msgid ""
+"11-SL-ld-rst: 11 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:738
+msgid "12-SL-ld-rst"
+msgstr ""
+
+#: translation.js:739
+msgid ""
+"12-SL-ld-rst: 12 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:740
+msgid "13-SL-ld-rst"
+msgstr ""
+
+#: translation.js:741
+msgid ""
+"13-SL-ld-rst: 13 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:742
+msgid "14-SL-ld-rst"
+msgstr ""
+
+#: translation.js:743
+msgid ""
+"14-SL-ld-rst: 14 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:744
+msgid "15-SL-ld-rst"
+msgstr ""
+
+#: translation.js:745
+msgid ""
+"15-SL-ld-rst: 15 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:746
+msgid "16-SL-ld-rst"
+msgstr ""
+
+#: translation.js:747
+msgid ""
+"16-SL-ld-rst: 16 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:748
+msgid "17-SL-ld-rst"
+msgstr ""
+
+#: translation.js:749
+msgid ""
+"17-SL-ld-rst: 17 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:750
+msgid "18-SL-ld-rst"
+msgstr ""
+
+#: translation.js:751
+msgid ""
+"18-SL-ld-rst: 18 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:752
+msgid "19-SL-ld-rst"
+msgstr ""
+
+#: translation.js:753
+msgid ""
+"19-SL-ld-rst: 19 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:754
+msgid "20-SL-ld-rst"
+msgstr ""
+
+#: translation.js:755
+msgid ""
+"20-SL-ld-rst: 20 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:756
+msgid "21-SL-ld-rst"
+msgstr ""
+
+#: translation.js:757
+msgid ""
+"21-SL-ld-rst: 21 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:758
+msgid "22-SL-ld-rst"
+msgstr ""
+
+#: translation.js:759
+msgid ""
+"22-SL-ld-rst: 22 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:760
+msgid "23-SL-ld-rst"
+msgstr ""
+
+#: translation.js:761
+msgid ""
+"23-SL-ld-rst: 23 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:762
+msgid "24-SL-ld-rst"
+msgstr ""
+
+#: translation.js:763
+msgid ""
+"24-SL-ld-rst: 24 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:764
+msgid "25-SL-ld-rst"
+msgstr ""
+
+#: translation.js:765
+msgid ""
+"25-SL-ld-rst: 25 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:766
+msgid "26-SL-ld-rst"
+msgstr ""
+
+#: translation.js:767
+msgid ""
+"26-SL-ld-rst: 26 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:768
+msgid "27-SL-ld-rst"
+msgstr ""
+
+#: translation.js:769
+msgid ""
+"27-SL-ld-rst: 27 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:770
+msgid "28-SL-ld-rst"
+msgstr ""
+
+#: translation.js:771
+msgid ""
+"28-SL-ld-rst: 28 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:772
+msgid "29-SL-ld-rst"
+msgstr ""
+
+#: translation.js:773
+msgid ""
+"29-SL-ld-rst: 29 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:774
+msgid "30-SL-ld-rst"
+msgstr ""
+
+#: translation.js:775
+msgid ""
+"30-SL-ld-rst: 30 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:776
+msgid "31-SL-ld-rst"
+msgstr ""
+
+#: translation.js:777
+msgid ""
+"31-SL-ld-rst: 31 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:778
+msgid "32-SL-ld-rst"
+msgstr ""
+
+#: translation.js:779
+msgid ""
+"32-SL-ld-rst: 32 bits shift left register with load and reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:780 translation.js:785
+msgid "02-SL-ld-imp1"
+msgstr ""
+
+#: translation.js:781
+msgid ""
+"02-SL-ld-rst-imp1: 2 bits shift left register with load and reset. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:782
+msgid ""
+"Combinational  \n"
+"Shift-right"
+msgstr ""
+
+#: translation.js:783 translation.js:787
+msgid "02-SL-ld-imp2"
+msgstr ""
+
+#: translation.js:784
+msgid ""
+"02-SL-ld-rst-imp2: 2 bits shift left register with load and reset. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:786
+msgid ""
+"02-SL-ld-imp1: 2 bits shift left register with load and reset. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:788
+msgid ""
+"02-SL-ld-imp2: 2 bits shift left register with load and reset. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:790
+msgid "02-SL-rst"
+msgstr ""
+
+#: translation.js:791
+msgid "02-SL-rst: 2 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:792
+msgid "03-SL-rst"
+msgstr ""
+
+#: translation.js:793
+msgid "03-SL-rst: 3 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:794
+msgid "04-SL-rst"
+msgstr ""
+
+#: translation.js:795
+msgid "04-SL-rst: 4 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:796
+msgid "05-SL-rst"
+msgstr ""
+
+#: translation.js:797
+msgid "05-SL-rst: 5 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:798
+msgid "06-SL-rst"
+msgstr ""
+
+#: translation.js:799
+msgid "06-SL-rst: 6 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:800
+msgid "07-SL-rst"
+msgstr ""
+
+#: translation.js:801
+msgid "07-SL-rst: 7 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:802
+msgid "08-SL-rst"
+msgstr ""
+
+#: translation.js:803
+msgid "08-SL-rst: 8 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:804
+msgid "09-SL-rst"
+msgstr ""
+
+#: translation.js:805
+msgid "09-SL-rst: 9 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:806
+msgid "10-SL-rst"
+msgstr ""
+
+#: translation.js:807
+msgid "10-SL-rst: 10 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:808
+msgid "11-SL-rst"
+msgstr ""
+
+#: translation.js:809
+msgid "11-SL-rst: 11 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:810
+msgid "12-SL-rst"
+msgstr ""
+
+#: translation.js:811
+msgid "12-SL-rst: 12 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:812
+msgid "13-SL-rst"
+msgstr ""
+
+#: translation.js:813
+msgid "13-SL-rst: 13 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:814
+msgid "14-SL-rst"
+msgstr ""
+
+#: translation.js:815
+msgid "14-SL-rst: 14 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:816
+msgid "15-SL-rst"
+msgstr ""
+
+#: translation.js:817
+msgid "15-SL-rst: 15 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:818
+msgid "16-SL-rst"
+msgstr ""
+
+#: translation.js:819
+msgid "16-SL-rst: 16 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:820
+msgid "17-SL-rst"
+msgstr ""
+
+#: translation.js:821
+msgid "17-SL-rst: 17 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:822
+msgid "18-SL-rst"
+msgstr ""
+
+#: translation.js:823
+msgid "18-SL-rst: 18 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:824
+msgid "19-SL-rst"
+msgstr ""
+
+#: translation.js:825
+msgid "19-SL-rst: 19 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:826
+msgid "20-SL-rst"
+msgstr ""
+
+#: translation.js:827
+msgid "20-SL-rst: 20 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:828
+msgid "21-SL-rst"
+msgstr ""
+
+#: translation.js:829
+msgid "21-SL-rst: 21 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:830
+msgid "22-SL-rst"
+msgstr ""
+
+#: translation.js:831
+msgid "22-SL-rst: 22 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:832
+msgid "23-SL-rst"
+msgstr ""
+
+#: translation.js:833
+msgid "23-SL-rst: 23 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:834
+msgid "24-SL-rst"
+msgstr ""
+
+#: translation.js:835
+msgid "24-SL-rst: 24 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:836
+msgid "25-SL-rst"
+msgstr ""
+
+#: translation.js:837
+msgid "25-SL-rst: 25 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:838
+msgid "26-SL-rst"
+msgstr ""
+
+#: translation.js:839
+msgid "26-SL-rst: 26 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:840
+msgid "27-SL-rst"
+msgstr ""
+
+#: translation.js:841
+msgid "27-SL-rst: 27 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:842
+msgid "28-SL-rst"
+msgstr ""
+
+#: translation.js:843
+msgid "28-SL-rst: 28 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:844
+msgid "29-SL-rst"
+msgstr ""
+
+#: translation.js:845
+msgid "29-SL-rst: 29 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:846
+msgid "30-SL-rst"
+msgstr ""
+
+#: translation.js:847
+msgid "30-SL-rst: 30 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:848
+msgid "31-SL-rst"
+msgstr ""
+
+#: translation.js:849
+msgid "31-SL-rst: 31 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:850
+msgid "32-SL-rst"
+msgstr ""
+
+#: translation.js:851
+msgid "32-SL-rst: 32 bits shift left register with resetVerilog implementation"
+msgstr ""
+
+#: translation.js:852
+msgid "02-SL-rst-imp1"
+msgstr ""
+
+#: translation.js:853
+msgid ""
+"02-SL-rst-imp1: 2 bits shift left register with reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:854
+msgid "02-SL-rst-imp2"
+msgstr ""
+
+#: translation.js:855
+msgid ""
+"02-SL-rst-imp2: 2 bits shift left register with reset. Block implementation 2"
+msgstr ""
+
+#: translation.js:856
+msgid "04-SL-rst-imp1"
+msgstr ""
+
+#: translation.js:857
+msgid ""
+"04-SL-rst-imp1: 4 bits shift left register with reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:858
+msgid "04-Reg-rst: 4 bits Register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:859
+msgid "SL1-4-verilog: Shift  a 4-bit value one bit left. LSB is filled with "
+msgstr ""
+
+#: translation.js:860
+msgid "04-SL-rst-imp2"
+msgstr ""
+
+#: translation.js:861
+msgid ""
+"04-SL-rst-imp2: 4 bits shift left register with reset. Block implementation 2"
+msgstr ""
+
+#: translation.js:862
+msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
+msgstr ""
+
+#: translation.js:863
+msgid "02-SL-imp1"
+msgstr ""
+
+#: translation.js:864
+msgid "02-SL-imp1: 2 bits shift left register. Block implementation 1"
+msgstr ""
+
+#: translation.js:865
+msgid "02-SL-imp2"
+msgstr ""
+
+#: translation.js:866
+msgid "02-SL-imp2: 2 bits shift left register. Block implementation 2"
+msgstr ""
+
+#: translation.js:867
+msgid "04-SL-imp1"
+msgstr ""
+
+#: translation.js:868
+msgid "04-SL-imp1: 2 bits shift left register. Block implementation 1"
+msgstr ""
+
+#: translation.js:869
+msgid "04-Reg: 4 bits Register. Verilog implementation"
+msgstr ""
+
+#: translation.js:870
+msgid "04-SL-imp2"
+msgstr ""
+
+#: translation.js:871
+msgid "04-SL-imp2: 4 bits shift left register. Block implementation 2"
+msgstr ""
+
+#: translation.js:873
+msgid "02-Sys-SL"
+msgstr ""
+
+#: translation.js:874
+msgid "02-Sys-SL: 2 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:875
+msgid "03-Sys-SL"
+msgstr ""
+
+#: translation.js:876
+msgid "03-Sys-SL: 3 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:877
+msgid "04-Sys-SL"
+msgstr ""
+
+#: translation.js:878
+msgid "04-Sys-SL: 4 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:879
+msgid "05-Sys-SL"
+msgstr ""
+
+#: translation.js:880
+msgid "05-Sys-SL: 5 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:881
+msgid "06-Sys-SL"
+msgstr ""
+
+#: translation.js:882
+msgid "06-Sys-SL: 6 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:883
+msgid "07-Sys-SL"
+msgstr ""
+
+#: translation.js:884
+msgid "07-Sys-SL: 7 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:885
+msgid "08-Sys-SL"
+msgstr ""
+
+#: translation.js:886
+msgid "08-Sys-SL: 8 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:887
+msgid "09-Sys-SL"
+msgstr ""
+
+#: translation.js:888
+msgid "09-Sys-SL: 9 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:889
+msgid "10-Sys-SL"
+msgstr ""
+
+#: translation.js:890
+msgid "10-Sys-SL: 10 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:891
+msgid "11-Sys-SL"
+msgstr ""
+
+#: translation.js:892
+msgid "11-Sys-SL: 11 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:893
+msgid "12-Sys-SL"
+msgstr ""
+
+#: translation.js:894
+msgid "12-Sys-SL: 12 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:895
+msgid "13-Sys-SL"
+msgstr ""
+
+#: translation.js:896
+msgid "13-Sys-SL: 13 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:897
+msgid "14-Sys-SL"
+msgstr ""
+
+#: translation.js:898
+msgid "14-Sys-SL: 14 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:899
+msgid "15-Sys-SL"
+msgstr ""
+
+#: translation.js:900
+msgid "15-Sys-SL: 15 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:901
+msgid "16-Sys-SL"
+msgstr ""
+
+#: translation.js:902
+msgid "16-Sys-SL: 16 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:903
+msgid "17-Sys-SL"
+msgstr ""
+
+#: translation.js:904
+msgid "17-Sys-SL: 17 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:905
+msgid "18-Sys-SL"
+msgstr ""
+
+#: translation.js:906
+msgid "18-Sys-SL: 18 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:907
+msgid "19-Sys-SL"
+msgstr ""
+
+#: translation.js:908
+msgid "19-Sys-SL: 19 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:909
+msgid "20-Sys-SL"
+msgstr ""
+
+#: translation.js:910
+msgid "20-Sys-SL: 20 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:911
+msgid "21-Sys-SL"
+msgstr ""
+
+#: translation.js:912
+msgid "21-Sys-SL: 21 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:913
+msgid "22-Sys-SL"
+msgstr ""
+
+#: translation.js:914
+msgid "22-Sys-SL: 22 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:915
+msgid "23-Sys-SL"
+msgstr ""
+
+#: translation.js:916
+msgid "23-Sys-SL: 23 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:917
+msgid "24-Sys-SL"
+msgstr ""
+
+#: translation.js:918
+msgid "24-Sys-SL: 24 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:919
+msgid "25-Sys-SL"
+msgstr ""
+
+#: translation.js:920
+msgid "25-Sys-SL: 25 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:921
+msgid "26-Sys-SL"
+msgstr ""
+
+#: translation.js:922
+msgid "26-Sys-SL: 26 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:923
+msgid "27-Sys-SL"
+msgstr ""
+
+#: translation.js:924
+msgid "27-Sys-SL: 27 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:925
+msgid "28-Sys-SL"
+msgstr ""
+
+#: translation.js:926
+msgid "28-Sys-SL: 28 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:927
+msgid "29-Sys-SL"
+msgstr ""
+
+#: translation.js:928
+msgid "29-Sys-SL: 29 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:929
+msgid "30-Sys-SL"
+msgstr ""
+
+#: translation.js:930
+msgid "30-Sys-SL: 30 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:931
+msgid "31-Sys-SL"
+msgstr ""
+
+#: translation.js:932
+msgid "31-Sys-SL: 31 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:933
+msgid "32-Sys-SL"
+msgstr ""
+
+#: translation.js:934
+msgid "32-Sys-SL: 32 bits system shift left register. Verilog implementation"
+msgstr ""
+
+#: translation.js:936
+msgid "02-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:937
+msgid ""
+"02-Sys-SL-ld: 2 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:938
+msgid "Load external data"
+msgstr ""
+
+#: translation.js:939
+msgid "External data"
+msgstr ""
+
+#: translation.js:940
+msgid "Serial input"
+msgstr ""
+
+#: translation.js:941
+msgid "03-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:942
+msgid ""
+"03-Sys-SL-ld: 3 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:943
+msgid "04-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:944
+msgid ""
+"04-Sys-SL-ld: 4 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:945
+msgid "05-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:946
+msgid ""
+"05-Sys-SL-ld: 5 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:947
+msgid "06-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:948
+msgid ""
+"06-Sys-SL-ld: 6 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:949
+msgid "07-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:950
+msgid ""
+"07-Sys-SL-ld: 7 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:951
+msgid "08-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:952
+msgid ""
+"08-Sys-SL-ld: 8 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:953
+msgid "09-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:954
+msgid ""
+"09-Sys-SL-ld: 9 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:955
+msgid "10-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:956
+msgid ""
+"10-Sys-SL-ld: 10 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:957
+msgid "11-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:958
+msgid ""
+"11-Sys-SL-ld: 11 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:959
+msgid "12-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:960
+msgid ""
+"12-Sys-SL-ld: 12 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:961
+msgid "13-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:962
+msgid ""
+"13-Sys-SL-ld: 13 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:963
+msgid "14-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:964
+msgid ""
+"14-Sys-SL-ld: 14 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:965
+msgid "15-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:966
+msgid ""
+"15-Sys-SL-ld: 15 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:967
+msgid "16-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:968
+msgid ""
+"16-Sys-SL-ld: 16 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:969
+msgid "17-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:970
+msgid ""
+"17-Sys-SL-ld: 17 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:971
+msgid "18-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:972
+msgid ""
+"18-Sys-SL-ld: 18 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:973
+msgid "19-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:974
+msgid ""
+"19-Sys-SL-ld: 19 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:975
+msgid "20-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:976
+msgid ""
+"20-Sys-SL-ld: 20 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:977
+msgid "21-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:978
+msgid ""
+"21-Sys-SL-ld: 21 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:979
+msgid "22-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:980
+msgid ""
+"22-Sys-SL-ld: 22 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:981
+msgid "23-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:982
+msgid ""
+"23-Sys-SL-ld: 23 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:983
+msgid "24-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:984
+msgid ""
+"24-Sys-SL-ld: 24 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:985
+msgid "25-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:986
+msgid ""
+"25-Sys-SL-ld: 25 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:987
+msgid "26-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:988
+msgid ""
+"26-Sys-SL-ld: 26 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:989
+msgid "27-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:990
+msgid ""
+"27-Sys-SL-ld: 27 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:991
+msgid "28-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:992
+msgid ""
+"28-Sys-SL-ld: 28 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:993
+msgid "29-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:994
+msgid ""
+"29-Sys-SL-ld: 29 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:995
+msgid "30-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:996
+msgid ""
+"30-Sys-SL-ld: 30 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:997
+msgid "31-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:998
+msgid ""
+"31-Sys-SL-ld: 31 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:999
+msgid "32-Sys-SL-ld"
+msgstr ""
+
+#: translation.js:1000
+msgid ""
+"32-Sys-SL-ld: 32 bits system shift left register, with load. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1002
+msgid "02-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1003
+msgid ""
+"02-Sys-SL-ld-rst: 2 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1004
+msgid "03-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1005
+msgid ""
+"03-Sys-SL-ld-rst: 3 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1006
+msgid "04-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1007
+msgid ""
+"04-Sys-SL-ld-rst: 4 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1008
+msgid "05-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1009
+msgid ""
+"05-Sys-SL-ld-rst: 5 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1010
+msgid "06-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1011
+msgid ""
+"06-Sys-SL-ld-rst: 6 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1012
+msgid "07-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1013
+msgid ""
+"07-Sys-SL-ld-rst: 7 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1014
+msgid "08-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1015
+msgid ""
+"08-Sys-SL-ld-rst: 8 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1016
+msgid "09-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1017
+msgid ""
+"09-Sys-SL-ld-rst: 9 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1018
+msgid "10-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1019
+msgid ""
+"10-Sys-SL-ld-rst: 10 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1020
+msgid "11-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1021
+msgid ""
+"11-Sys-SL-ld-rst: 11 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1022
+msgid "12-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1023
+msgid ""
+"12-Sys-SL-ld-rst: 12 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1024
+msgid "13-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1025
+msgid ""
+"13-Sys-SL-ld-rst: 13 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1026
+msgid "14-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1027
+msgid ""
+"14-Sys-SL-ld-rst: 14 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1028
+msgid "15-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1029
+msgid ""
+"15-Sys-SL-ld-rst: 15 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1030
+msgid "16-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1031
+msgid ""
+"16-Sys-SL-ld-rst: 16 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1032
+msgid "17-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1033
+msgid ""
+"17-Sys-SL-ld-rst: 17 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1034
+msgid "18-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1035
+msgid ""
+"18-Sys-SL-ld-rst: 18 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1036
+msgid "19-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1037
+msgid ""
+"19-Sys-SL-ld-rst: 19 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1038
+msgid "20-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1039
+msgid ""
+"20-Sys-SL-ld-rst: 20 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1040
+msgid "21-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1041
+msgid ""
+"21-Sys-SL-ld-rst: 21 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1042
+msgid "22-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1043
+msgid ""
+"22-Sys-SL-ld-rst: 22 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1044
+msgid "23-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1045
+msgid ""
+"23-Sys-SL-ld-rst: 23 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1046
+msgid "24-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1047
+msgid ""
+"24-Sys-SL-ld-rst: 24 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1048
+msgid "25-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1049
+msgid ""
+"25-Sys-SL-ld-rst: 25 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1050
+msgid "26-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1051
+msgid ""
+"26-Sys-SL-ld-rst: 26 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1052
+msgid "27-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1053
+msgid ""
+"27-Sys-SL-ld-rst: 27 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1054
+msgid "28-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1055
+msgid ""
+"28-Sys-SL-ld-rst: 28 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1056
+msgid "29-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1057
+msgid ""
+"29-Sys-SL-ld-rst: 29 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1058
+msgid "30-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1059
+msgid ""
+"30-Sys-SL-ld-rst: 30 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1060
+msgid "31-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1061
+msgid ""
+"31-Sys-SL-ld-rst: 31 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1062
+msgid "32-Sys-SL-ld-rst"
+msgstr ""
+
+#: translation.js:1063
+msgid ""
+"32-Sys-SL-ld-rst: 32 bits system shift left register, with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1064
+msgid "02-Sys-SL-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1065
+msgid ""
+"02-Sys-SL-ld-rst-imp1: 2-bits System Shift register to the left, with load "
+"and reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:1066
+msgid ""
+"Combinational  \n"
+"Shift-left"
+msgstr ""
+
+#: translation.js:1067
+msgid "Sys-reg-rst"
+msgstr ""
+
+#: translation.js:1068
+msgid ""
+"Data to load from the  \n"
+"outside"
+msgstr ""
+
+#: translation.js:1069
+msgid "Shifted internal data"
+msgstr ""
+
+#: translation.js:1070
+msgid "Mux-2-1"
+msgstr ""
+
+#: translation.js:1071
+msgid ""
+"Selects which data to load  \n"
+"into the register:  \n"
+"* load=0: Shifted data\n"
+"* load=1: External data"
+msgstr ""
+
+#: translation.js:1072
+msgid "02-Sys-SL-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:1073
+msgid ""
+"02-Sys-SL-ld-rst-imp2: 2-bits System Shift register to the left, with load "
+"and reset. Block implementation 2"
+msgstr ""
+
+#: translation.js:1074
+msgid ""
+"Sys-DFF-ld-rst-verilog. System - D Flip-flop. Capture data every system "
+"clock cycle. from input si. If load is active, the data is captured from the "
+"d input. Reset input. Verilog implementation"
+msgstr ""
+
+#: translation.js:1075
+msgid "Input data (serial)"
+msgstr ""
+
+#: translation.js:1076
+msgid ""
+"# D Flip-Flop  (system) with load and reset\n"
+"\n"
+"It stores the input data that arrives at cycle n  \n"
+"Its output is shown in the cycle n+1  \n"
+"The data is captured from input si. If load is active the  \n"
+"data is captured from input d  \n"
+"Reset input"
+msgstr ""
+
+#: translation.js:1077
+msgid "Input data (Paralell)"
+msgstr ""
+
+#: translation.js:1078
+msgid "Load control"
+msgstr ""
+
+#: translation.js:1079
+msgid "04-Sys-SL-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1080
+msgid ""
+"04-Sys-SL-ld-rst-imp1: 4-bits System Shift register to the left, with load "
+"and reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:1081
+msgid "2-to-1 Multplexer (4-bit channels). Verilog implementation"
+msgstr ""
+
+#: translation.js:1082
+msgid ""
+"04-Sys-reg-rst: 4 bits system register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1083
+msgid "04-Sys-SL-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:1084
+msgid ""
+"04-Sys-SL-ld-rst-imp2: 4-bits System Shift register to the left, with load "
+"and reset. Block implementation 2"
+msgstr ""
+
+#: translation.js:1085
+msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
+msgstr ""
+
+#: translation.js:1086
+msgid "08-Sys-SL-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1087
+msgid ""
+"08-Sys-SL-ld-rst-imp1: 8-bits System Shift register to the left, with load "
+"and reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:1088
+msgid "2-to-1 Multplexer (8-bit channels). Verilog implementation"
+msgstr ""
+
+#: translation.js:1089
+msgid "SL1-8-verilog: Shift  a 8-bit value one bit left. LSB is filled with "
+msgstr ""
+
+#: translation.js:1090
+msgid ""
+"08-Sys-reg-rst: 8 bits system register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1091
+msgid "16-Sys-SL-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1092
+msgid ""
+"16-Sys-SL-ld-rst-imp1: 16-bits System Shift register to the left, with load "
+"and reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:1093
+msgid "2-to-1 Multplexer (16-bit channels). Verilog implementation"
+msgstr ""
+
+#: translation.js:1094
+msgid "SL1-16-verilog: Shift  a 16-bit value one bit left. LSB is filled with "
+msgstr ""
+
+#: translation.js:1095
+msgid ""
+"16-Sys-reg-rst: 16 bits system register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1096
+msgid "32-Sys-SL-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1097
+msgid ""
+"32-Sys-SL-ld-rst-imp1: 32-bits System Shift register to the left, with load "
+"and reset. Block implementation 1"
+msgstr ""
+
+#: translation.js:1098
+msgid "2-to-1 Multplexer (32-bit channels). Verilog implementation"
+msgstr ""
+
+#: translation.js:1099
+msgid "SL1-32-verilog: Shift  a 32-bit value one bit left. LSB is filled with "
+msgstr ""
+
+#: translation.js:1100
+msgid ""
+"32-Sys-reg-rst: 32 bits system register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1101
+msgid "02-Sys-SL-ld-imp1"
+msgstr ""
+
+#: translation.js:1102
+msgid ""
+"02-Sys-SL-ld-imp1: 2-bits System Shift register to the left, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1103
+msgid "02-Sys-SL-ld-imp2"
+msgstr ""
+
+#: translation.js:1104
+msgid ""
+"02-Sys-SL-ld-imp2: 2-bits System Shift register to the left, with load. "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:1105
+msgid ""
+"Sys-DFF-ld-verilog. System - D Flip-flop. Capture data every system clock "
+"cycle. from input si. If load is active, the data is captured from the d "
+"input. Verilog implementation"
+msgstr ""
+
+#: translation.js:1106
+msgid ""
+"# D Flip-Flop  (system) with load\n"
+"\n"
+"It stores the input data that arrives at cycle n  \n"
+"Its output is shown in the cycle n+1  \n"
+"The data is captured from input si. If load is active the  \n"
+"data is captured from input d"
+msgstr ""
+
+#: translation.js:1107
+msgid "04-Sys-SL-ld-imp1"
+msgstr ""
+
+#: translation.js:1108
+msgid ""
+"04-Sys-SL-ld-imp1: 4-bits System Shift register to the left, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1109
+msgid "04-Sys-reg: 4 bits system register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1110
+msgid "04-Sys-SL-ld-imp2"
+msgstr ""
+
+#: translation.js:1111
+msgid ""
+"04-Sys-SL-ld-imp2: 4-bits System Shift register to the left, with load. "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:1112
+msgid "08-Sys-SL-ld-imp1"
+msgstr ""
+
+#: translation.js:1113
+msgid ""
+"08-Sys-SL-ld-imp1: 8-bits System Shift register to the left, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1114
+msgid "08-Sys-reg: 8 bits system register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1115
+msgid "16-Sys-SL-ld-imp1"
+msgstr ""
+
+#: translation.js:1116
+msgid ""
+"16-Sys-SL-ld-imp1: 16-bits System Shift register to the left, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1117
+msgid "16-Sys-reg: 16 bits system register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1118
+msgid "32-Sys-SL-ld-imp1"
+msgstr ""
+
+#: translation.js:1119
+msgid ""
+"32-Sys-SL-ld-imp1: 32-bits System Shift register to the left, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1120
+msgid "32-Sys-reg: 32 bits system register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1122
+msgid "02-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1123
+msgid ""
+"02-Sys-SL-rst: 2 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1124
+msgid "03-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1125
+msgid ""
+"03-Sys-SL-rst: 3 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1126
+msgid "04-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1127
+msgid ""
+"04-Sys-SL-rst: 4 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1128
+msgid "05-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1129
+msgid ""
+"05-Sys-SL-rst: 5 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1130
+msgid "06-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1131
+msgid ""
+"06-Sys-SL-rst: 6 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1132
+msgid "07-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1133
+msgid ""
+"07-Sys-SL-rst: 7 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1134
+msgid "08-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1135
+msgid ""
+"08-Sys-SL-rst: 8 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1136
+msgid "09-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1137
+msgid ""
+"09-Sys-SL-rst: 9 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1138
+msgid "10-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1139
+msgid ""
+"10-Sys-SL-rst: 10 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1140
+msgid "11-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1141
+msgid ""
+"11-Sys-SL-rst: 11 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1142
+msgid "12-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1143
+msgid ""
+"12-Sys-SL-rst: 12 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1144
+msgid "13-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1145
+msgid ""
+"13-Sys-SL-rst: 13 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1146
+msgid "14-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1147
+msgid ""
+"14-Sys-SL-rst: 14 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1148
+msgid "15-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1149
+msgid ""
+"15-Sys-SL-rst: 15 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1150
+msgid "16-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1151
+msgid ""
+"16-Sys-SL-rst: 16 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1152
+msgid "17-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1153
+msgid ""
+"17-Sys-SL-rst: 17 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1154
+msgid "18-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1155
+msgid ""
+"18-Sys-SL-rst: 18 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1156
+msgid "19-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1157
+msgid ""
+"19-Sys-SL-rst: 19 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1158
+msgid "20-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1159
+msgid ""
+"20-Sys-SL-rst: 20 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1160
+msgid "21-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1161
+msgid ""
+"21-Sys-SL-rst: 21 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1162
+msgid "22-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1163
+msgid ""
+"22-Sys-SL-rst: 22 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1164
+msgid "23-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1165
+msgid ""
+"23-Sys-SL-rst: 23 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1166
+msgid "24-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1167
+msgid ""
+"24-Sys-SL-rst: 24 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1168
+msgid "25-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1169
+msgid ""
+"25-Sys-SL-rst: 25 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1170
+msgid "26-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1171
+msgid ""
+"26-Sys-SL-rst: 26 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1172
+msgid "27-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1173
+msgid ""
+"27-Sys-SL-rst: 27 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1174
+msgid "28-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1175
+msgid ""
+"28-Sys-SL-rst: 28 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1176
+msgid "29-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1177
+msgid ""
+"29-Sys-SL-rst: 29 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1178
+msgid "30-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1179
+msgid ""
+"30-Sys-SL-rst: 30 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1180
+msgid "31-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1181
+msgid ""
+"31-Sys-SL-rst: 31 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1182
+msgid "32-Sys-SL-rst"
+msgstr ""
+
+#: translation.js:1183
+msgid ""
+"32-Sys-SL-rst: 32 bits system shift left register, with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1184
+msgid "02-Sys-SL-rst-imp1"
+msgstr ""
+
+#: translation.js:1185
+msgid ""
+"02-Sys-SL-rst-imp1: 2-bits System Shift register to the left, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1186
+msgid "02-Sys-SL-rst-imp2"
+msgstr ""
+
+#: translation.js:1187
+msgid ""
+"02-Sys-SL-rst-imp2: 2-bits System Shift register to the left, with reset.  "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:1188
+msgid "04-Sys-SL-rst-imp1"
+msgstr ""
+
+#: translation.js:1189
+msgid ""
+"Sys-SL-rst-04-imp1: 4-bits System Shift register to the left, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1190
+msgid "04-Sys-SL-rst-imp2"
+msgstr ""
+
+#: translation.js:1191
+msgid ""
+"Sys-SL-rst-04-imp2: 4-bits System Shift register to the left, with reset.  "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:1192
+msgid "08-Sys-SL-rst-imp1"
+msgstr ""
+
+#: translation.js:1193
+msgid ""
+"08-Sys-SL-rst-imp1: 8-bits System Shift register to the left, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1194
+msgid "16-Sys-SL-rst-imp1"
+msgstr ""
+
+#: translation.js:1195
+msgid ""
+"16-Sys-SL-rst-imp1: 16-bits System Shift register to the left, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1196
+msgid "32-Sys-SL-rst-imp1"
+msgstr ""
+
+#: translation.js:1197
+msgid ""
+"32-Sys-SL-rst-imp1: 32-bits System Shift register to the left, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1198
+msgid "02-Sys-SL-imp1"
+msgstr ""
+
+#: translation.js:1199
+msgid ""
+"02-Sys-SL-imp1: 2-bits System Shift register to the left.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1200
+msgid "02-Sys-SL-imp2"
+msgstr ""
+
+#: translation.js:1201
+msgid ""
+"02-Sys-SL-imp2: 2-bits System Shift register to the left.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1202
+msgid "04-Sys-SL-imp1"
+msgstr ""
+
+#: translation.js:1203
+msgid ""
+"Sys-SL-04-imp1: 4-bits System Shift register to the left.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1204
+msgid "04-Sys-SL-imp2"
+msgstr ""
+
+#: translation.js:1205
+msgid ""
+"04-Sys-SL-imp2: 4-bits System Shift register to the left.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1206
+msgid "08-Sys-SL-imp1"
+msgstr ""
+
+#: translation.js:1207
+msgid ""
+"08-Sys-SL-imp1: 8-bits System Shift register to the left.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1208
+msgid "16-Sys-SL-imp1"
+msgstr ""
+
+#: translation.js:1209
+msgid ""
+"16-Sys-SL-imp1: 16-bits System Shift register to the left.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1210
+msgid "32-Sys-SL-imp1"
+msgstr ""
+
+#: translation.js:1211
+msgid ""
+"32-Sys-SL-imp1: 32-bits System Shift register to the left.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1212
+msgid "SR"
+msgstr ""
+
+#: translation.js:1213
+msgid "SR-ld"
+msgstr ""
+
+#: translation.js:1214
+msgid "SR-ld-rst"
+msgstr ""
+
+#: translation.js:1215
+msgid "SR-rst"
+msgstr ""
+
+#: translation.js:1216
+msgid "Sys-SR"
+msgstr ""
+
+#: translation.js:1217
+msgid "Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1218
+msgid "Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1219
+msgid "Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1221
+msgid "02-SR"
+msgstr ""
+
+#: translation.js:1222
+msgid "02-SR: 2 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1223
+msgid "03-SR"
+msgstr ""
+
+#: translation.js:1224
+msgid "03-SR: 3 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1225
+msgid "04-SR"
+msgstr ""
+
+#: translation.js:1226
+msgid "04-SR: 4 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1227
+msgid "05-SR"
+msgstr ""
+
+#: translation.js:1228
+msgid "05-SR: 5 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1229
+msgid "06-SR"
+msgstr ""
+
+#: translation.js:1230
+msgid "06-SR: 6 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1231
+msgid "07-SR"
+msgstr ""
+
+#: translation.js:1232
+msgid "07-SR: 7 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1233
+msgid "08-SR"
+msgstr ""
+
+#: translation.js:1234
+msgid "08-SR: 8 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1235
+msgid "09-SR"
+msgstr ""
+
+#: translation.js:1236
+msgid "09-SR: 9 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1237
+msgid "10-SR"
+msgstr ""
+
+#: translation.js:1238
+msgid "10-SR: 10 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1239
+msgid "11-SR"
+msgstr ""
+
+#: translation.js:1240
+msgid "11-SR: 11 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1241
+msgid "12-SR"
+msgstr ""
+
+#: translation.js:1242
+msgid "12-SR: 12 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1243
+msgid "13-SR"
+msgstr ""
+
+#: translation.js:1244
+msgid "13-SR: 13 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1245
+msgid "14-SR"
+msgstr ""
+
+#: translation.js:1246
+msgid "14-SR: 14 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1247
+msgid "15-SR"
+msgstr ""
+
+#: translation.js:1248
+msgid "15-SR: 15 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1249
+msgid "16-SR"
+msgstr ""
+
+#: translation.js:1250
+msgid "16-SR: 16 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1251
+msgid "17-SR"
+msgstr ""
+
+#: translation.js:1252
+msgid "17-SR: 17 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1253
+msgid "18-SR"
+msgstr ""
+
+#: translation.js:1254
+msgid "18-SR: 18 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1255
+msgid "19-SR"
+msgstr ""
+
+#: translation.js:1256
+msgid "19-SR: 19 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1257
+msgid "20-SR"
+msgstr ""
+
+#: translation.js:1258
+msgid "20-SR: 20 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1259
+msgid "21-SR"
+msgstr ""
+
+#: translation.js:1260
+msgid "21-SR: 21 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1261
+msgid "22-SR"
+msgstr ""
+
+#: translation.js:1262
+msgid "22-SR: 22 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1263
+msgid "23-SR"
+msgstr ""
+
+#: translation.js:1264
+msgid "23-SR: 23 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1265
+msgid "24-SR"
+msgstr ""
+
+#: translation.js:1266
+msgid "24-SR: 24 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1267
+msgid "25-SR"
+msgstr ""
+
+#: translation.js:1268
+msgid "25-SR: 25 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1269
+msgid "26-SR"
+msgstr ""
+
+#: translation.js:1270
+msgid "26-SR: 26 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1271
+msgid "27-SR"
+msgstr ""
+
+#: translation.js:1272
+msgid "27-SR: 27 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1273
+msgid "28-SR"
+msgstr ""
+
+#: translation.js:1274
+msgid "28-SR: 28 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1275
+msgid "29-SR"
+msgstr ""
+
+#: translation.js:1276
+msgid "29-SR: 29 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1277
+msgid "30-SR"
+msgstr ""
+
+#: translation.js:1278
+msgid "30-SR: 30 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1279
+msgid "31-SR"
+msgstr ""
+
+#: translation.js:1280
+msgid "31-SR: 31 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1281
+msgid "32-SR"
+msgstr ""
+
+#: translation.js:1282
+msgid "32-SR: 32 bits shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1284
+msgid "02-SR-ld"
+msgstr ""
+
+#: translation.js:1285
+msgid ""
+"02-SR-ld: 2 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1286
+msgid "03-SR-ld"
+msgstr ""
+
+#: translation.js:1287
+msgid ""
+"03-SR-ld: 3 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1288
+msgid "04-SR-ld"
+msgstr ""
+
+#: translation.js:1289
+msgid ""
+"04-SR-ld: 4 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1290
+msgid "05-SR-ld"
+msgstr ""
+
+#: translation.js:1291
+msgid ""
+"05-SR-ld: 5 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1292
+msgid "06-SR-ld"
+msgstr ""
+
+#: translation.js:1293
+msgid ""
+"06-SR-ld: 6 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1294
+msgid "07-SR-ld"
+msgstr ""
+
+#: translation.js:1295
+msgid ""
+"07-SR-ld: 7 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1296
+msgid "08-SR-ld"
+msgstr ""
+
+#: translation.js:1297
+msgid ""
+"08-SR-ld: 8 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1298
+msgid "09-SR-ld"
+msgstr ""
+
+#: translation.js:1299
+msgid ""
+"09-SR-ld: 9 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1300
+msgid "10-SR-ld"
+msgstr ""
+
+#: translation.js:1301
+msgid ""
+"10-SR-ld: 10 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1302
+msgid "11-SR-ld"
+msgstr ""
+
+#: translation.js:1303
+msgid ""
+"11-SR-ld: 11 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1304
+msgid "12-SR-ld"
+msgstr ""
+
+#: translation.js:1305
+msgid ""
+"12-SR-ld: 12 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1306
+msgid "13-SR-ld"
+msgstr ""
+
+#: translation.js:1307
+msgid ""
+"13-SR-ld: 13 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1308
+msgid "14-SR-ld"
+msgstr ""
+
+#: translation.js:1309
+msgid ""
+"14-SR-ld: 14 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1310
+msgid "15-SR-ld"
+msgstr ""
+
+#: translation.js:1311
+msgid ""
+"15-SR-ld: 15 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1312
+msgid "16-SR-ld"
+msgstr ""
+
+#: translation.js:1313
+msgid ""
+"16-SR-ld: 16 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1314
+msgid "17-SR-ld"
+msgstr ""
+
+#: translation.js:1315
+msgid ""
+"17-SR-ld: 17 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1316
+msgid "18-SR-ld"
+msgstr ""
+
+#: translation.js:1317
+msgid ""
+"18-SR-ld: 18 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1318
+msgid "19-SR-ld"
+msgstr ""
+
+#: translation.js:1319
+msgid ""
+"19-SR-ld: 19 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1320
+msgid "20-SR-ld"
+msgstr ""
+
+#: translation.js:1321
+msgid ""
+"20-SR-ld: 20 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1322
+msgid "21-SR-ld"
+msgstr ""
+
+#: translation.js:1323
+msgid ""
+"21-SR-ld: 21 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1324
+msgid "22-SR-ld"
+msgstr ""
+
+#: translation.js:1325
+msgid ""
+"22-SR-ld: 22 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1326
+msgid "23-SR-ld"
+msgstr ""
+
+#: translation.js:1327
+msgid ""
+"23-SR-ld: 23 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1328
+msgid "24-SR-ld"
+msgstr ""
+
+#: translation.js:1329
+msgid ""
+"24-SR-ld: 24 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1330
+msgid "25-SR-ld"
+msgstr ""
+
+#: translation.js:1331
+msgid ""
+"25-SR-ld: 25 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1332
+msgid "26-SR-ld"
+msgstr ""
+
+#: translation.js:1333
+msgid ""
+"26-SR-ld: 26 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1334
+msgid "27-SR-ld"
+msgstr ""
+
+#: translation.js:1335
+msgid ""
+"27-SR-ld: 27 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1336
+msgid "28-SR-ld"
+msgstr ""
+
+#: translation.js:1337
+msgid ""
+"28-SR-ld: 28 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1338
+msgid "29-SR-ld"
+msgstr ""
+
+#: translation.js:1339
+msgid ""
+"29-SR-ld: 29 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1340
+msgid "30-SR-ld"
+msgstr ""
+
+#: translation.js:1341
+msgid ""
+"30-SR-ld: 30 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1342
+msgid "31-SR-ld"
+msgstr ""
+
+#: translation.js:1343
+msgid ""
+"31-SR-ld: 31 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1344
+msgid "32-SR-ld"
+msgstr ""
+
+#: translation.js:1345
+msgid ""
+"32-SR-ld: 32 bits shift right register, with load. Verilog implementation"
+msgstr ""
+
+#: translation.js:1347
+msgid "02-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1348
+msgid "<DESCRIPCION>"
+msgstr ""
+
+#: translation.js:1349
+msgid "03-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1350
+msgid "04-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1351
+msgid "05-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1352
+msgid "06-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1353
+msgid "07-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1354
+msgid "08-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1355
+msgid "09-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1356
+msgid "10-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1357
+msgid "11-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1358
+msgid "12-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1359
+msgid "13-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1360
+msgid "14-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1361
+msgid "15-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1362
+msgid "16-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1363
+msgid "17-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1364
+msgid "18-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1365
+msgid "19-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1366
+msgid "20-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1367
+msgid "21-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1368
+msgid "22-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1369
+msgid "23-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1370
+msgid "24-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1371
+msgid "25-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1372
+msgid "26-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1373
+msgid "27-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1374
+msgid "28-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1375
+msgid "29-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1376
+msgid "30-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1377
+msgid "31-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1378
+msgid "32-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1379
+msgid "02-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1380
+msgid ""
+"SR-ld-rst-02-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1381
+msgid "02-SR-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:1382
+msgid ""
+"SR-ld-rst-02-imp2: Shift register to the right, with load.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1383
+msgid "D Flip-Flop with load and reset. Implemented in verilog"
+msgstr ""
+
+#: translation.js:1384
+msgid "04-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1385
+msgid ""
+"SR-ld-rst-04-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1386
+msgid ""
+"Reg-rst-4-verilog: 4-bits Register with load and reset inputs. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1387
+msgid ""
+"SR1-4bits-verilog: Shift  a 4-bit value one bit right. MSB is filled with "
+"in. Verilog implementation"
+msgstr ""
+
+#: translation.js:1388
+msgid "04-SR-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:1389
+msgid ""
+"SR-ld-rst-04-imp2: Shift register to the right, with load.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1390
+msgid "08-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1391
+msgid ""
+"SR-ld-rst-08-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1392
+msgid ""
+"Reg-rst-8-verilog: 8-bits Register with load and reset inputs. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1393
+msgid ""
+"SR1-8bits-verilog: Shift  a 8-bit value one bit right. MSB is filled with "
+"in. Verilog implementation"
+msgstr ""
+
+#: translation.js:1394
+msgid "16-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1395
+msgid ""
+"SR-ld-rst-16-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1396
+msgid ""
+"SR1-16bits-verilog: Shift  a 16-bit value one bit right. MSB is filled with "
+"in. Verilog implementation"
+msgstr ""
+
+#: translation.js:1397
+msgid ""
+"Reg-rst-16-verilog: 16-bits Register with load and reset inputs. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1398
+msgid "32-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1399
+msgid ""
+"SR-ld-rst-32-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1400
+msgid ""
+"SR1-32bits-verilog: Shift  a 32-bit value one bit right. MSB is filled with "
+"in. Verilog implementation"
+msgstr ""
+
+#: translation.js:1401
+msgid ""
+"Reg-rst-32-verilog: 32-bits Register with load and reset inputs. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1402
+msgid "02-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1403
+msgid ""
+"02-SR-ld-imp1: Shift register to the right, with load.  Block implementation "
+"1"
+msgstr ""
+
+#: translation.js:1404
+msgid "02-SR-ld-imp2"
+msgstr ""
+
+#: translation.js:1405
+msgid ""
+"SR-ld-02-imp2: Shift register to the right, with load.  Block implementation "
+"2"
+msgstr ""
+
+#: translation.js:1406
+msgid "04-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1407
+msgid ""
+"04-SR-ld-imp1: Shift register to the right, with load.  Block implementation "
+"1"
+msgstr ""
+
+#: translation.js:1408
+msgid "04-SR-ld-imp2"
+msgstr ""
+
+#: translation.js:1409
+msgid ""
+"SR-ld-04-imp2: Shift register to the right, with load.  Block implementation "
+"2"
+msgstr ""
+
+#: translation.js:1410
+msgid "08-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1411
+msgid ""
+"08-SR-ld-imp1: Shift register to the right, with load.  Block implementation "
+"1"
+msgstr ""
+
+#: translation.js:1412
+msgid "08-Reg: 8 bits Register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1413
+msgid "16-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1414
+msgid ""
+"16-SR-ld-imp1: Shift register to the right, with load.  Block implementation "
+"1"
+msgstr ""
+
+#: translation.js:1415
+msgid "16-Reg: 16 bits Register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1416
+msgid "32-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1417
+msgid ""
+"32-SR-ld-imp1: Shift register to the right, with load.  Block implementation "
+"1"
+msgstr ""
+
+#: translation.js:1418
+msgid "32-Reg: 32 bits Register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1420
+msgid "02-SR-rst"
+msgstr ""
+
+#: translation.js:1421
+msgid ""
+"02-SR-rst: 2 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1422
+msgid "03-SR-rst"
+msgstr ""
+
+#: translation.js:1423
+msgid ""
+"03-SR-rst: 3 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1424
+msgid "04-SR-rst"
+msgstr ""
+
+#: translation.js:1425
+msgid ""
+"04-SR-rst: 4 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1426
+msgid "05-SR-rst"
+msgstr ""
+
+#: translation.js:1427
+msgid ""
+"05-SR-rst: 5 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1428
+msgid "06-SR-rst"
+msgstr ""
+
+#: translation.js:1429
+msgid ""
+"06-SR-rst: 6 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1430
+msgid "07-SR-rst"
+msgstr ""
+
+#: translation.js:1431
+msgid ""
+"07-SR-rst: 7 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1432
+msgid "08-SR-rst"
+msgstr ""
+
+#: translation.js:1433
+msgid ""
+"08-SR-rst: 8 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1434
+msgid "09-SR-rst"
+msgstr ""
+
+#: translation.js:1435
+msgid ""
+"09-SR-rst: 9 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1436
+msgid "10-SR-rst"
+msgstr ""
+
+#: translation.js:1437
+msgid ""
+"10-SR-rst: 10 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1438
+msgid "11-SR-rst"
+msgstr ""
+
+#: translation.js:1439
+msgid ""
+"11-SR-rst: 11 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1440
+msgid "12-SR-rst"
+msgstr ""
+
+#: translation.js:1441
+msgid ""
+"12-SR-rst: 12 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1442
+msgid "13-SR-rst"
+msgstr ""
+
+#: translation.js:1443
+msgid ""
+"13-SR-rst: 13 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1444
+msgid "14-SR-rst"
+msgstr ""
+
+#: translation.js:1445
+msgid ""
+"14-SR-rst: 14 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1446
+msgid "15-SR-rst"
+msgstr ""
+
+#: translation.js:1447
+msgid ""
+"15-SR-rst: 15 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1448
+msgid "16-SR-rst"
+msgstr ""
+
+#: translation.js:1449
+msgid ""
+"16-SR-rst: 16 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1450
+msgid "17-SR-rst"
+msgstr ""
+
+#: translation.js:1451
+msgid ""
+"17-SR-rst: 17 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1452
+msgid "18-SR-rst"
+msgstr ""
+
+#: translation.js:1453
+msgid ""
+"18-SR-rst: 18 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1454
+msgid "19-SR-rst"
+msgstr ""
+
+#: translation.js:1455
+msgid ""
+"19-SR-rst: 19 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1456
+msgid "20-SR-rst"
+msgstr ""
+
+#: translation.js:1457
+msgid ""
+"20-SR-rst: 20 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1458
+msgid "21-SR-rst"
+msgstr ""
+
+#: translation.js:1459
+msgid ""
+"21-SR-rst: 21 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1460
+msgid "22-SR-rst"
+msgstr ""
+
+#: translation.js:1461
+msgid ""
+"22-SR-rst: 22 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1462
+msgid "23-SR-rst"
+msgstr ""
+
+#: translation.js:1463
+msgid ""
+"23-SR-rst: 23 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1464
+msgid "24-SR-rst"
+msgstr ""
+
+#: translation.js:1465
+msgid ""
+"24-SR-rst: 24 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1466
+msgid "25-SR-rst"
+msgstr ""
+
+#: translation.js:1467
+msgid ""
+"25-SR-rst: 25 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1468
+msgid "26-SR-rst"
+msgstr ""
+
+#: translation.js:1469
+msgid ""
+"26-SR-rst: 26 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1470
+msgid "27-SR-rst"
+msgstr ""
+
+#: translation.js:1471
+msgid ""
+"27-SR-rst: 27 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1472
+msgid "28-SR-rst"
+msgstr ""
+
+#: translation.js:1473
+msgid ""
+"28-SR-rst: 28 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1474
+msgid "29-SR-rst"
+msgstr ""
+
+#: translation.js:1475
+msgid ""
+"29-SR-rst: 29 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1476
+msgid "30-SR-rst"
+msgstr ""
+
+#: translation.js:1477
+msgid ""
+"30-SR-rst: 30 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1478
+msgid "31-SR-rst"
+msgstr ""
+
+#: translation.js:1479
+msgid ""
+"31-SR-rst: 31 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1480
+msgid "32-SR-rst"
+msgstr ""
+
+#: translation.js:1481
+msgid ""
+"32-SR-rst: 32 bits shift right register, with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1482
+msgid "02-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1483
+msgid ""
+"02-SR-rst-imp1: 2-bits Shift register to the right, with the reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1484
+msgid "02-SR-rst-imp2"
+msgstr ""
+
+#: translation.js:1485
+msgid ""
+"02-SR-rst-imp2: 2-bits Shift register to the right, with reset.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1486
+msgid "04-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1487
+msgid ""
+"04-SR-rst-imp1: 2-bits Shift register to the right, with reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1488
+msgid "04-SR-rst-imp2"
+msgstr ""
+
+#: translation.js:1489
+msgid ""
+"04-SR-rst-imp2: 4-bits Shift register to the right, with reset.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1490
+msgid "08-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1491
+msgid ""
+"08-SR-rst-imp1: 8-bits Shift register to the right, with reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1492
+msgid "08-Reg-rst: 8 bits Register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1493
+msgid "16-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1494
+msgid ""
+"16-SR-rst-imp1: Shift register to the right, with reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1495
+msgid "16-Reg-rst: 16 bits Register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1496
+msgid "32-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1497
+msgid ""
+"32-SR-rst-imp1: Shift register to the right, with reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1498
+msgid "32-Reg-rst: 32 bits Register with reset. Verilog implementation"
+msgstr ""
+
+#: translation.js:1499
+msgid "02-SR02-imp1"
+msgstr ""
+
+#: translation.js:1500
+msgid "02-SR-imp1: 2-bits Shift register to the right.  Block implementation 1"
+msgstr ""
+
+#: translation.js:1501
+msgid "02-SR02-imp2"
+msgstr ""
+
+#: translation.js:1502
+msgid "02-SR-imp2: 2-bits Shift register to the right.  Block implementation 2"
+msgstr ""
+
+#: translation.js:1503
+msgid "04-SR-imp1"
+msgstr ""
+
+#: translation.js:1504
+msgid "04-SR-imp1: 4-bits Shift register to the right.  Block implementation 1"
+msgstr ""
+
+#: translation.js:1505
+msgid "04-SR-imp2"
+msgstr ""
+
+#: translation.js:1506
+msgid "04-SR-imp2: 4-bits Shift register to the right.  Block implementation 2"
+msgstr ""
+
+#: translation.js:1507
+msgid "08-SR-imp1"
+msgstr ""
+
+#: translation.js:1508
+msgid "08-SR-imp1: 8-bits Shift register to the right.  Block implementation 1"
+msgstr ""
+
+#: translation.js:1509
+msgid "16-SR-imp1"
+msgstr ""
+
+#: translation.js:1510
+msgid ""
+"16-SR-imp1: 16-bits Shift register to the right.  Block implementation 1"
+msgstr ""
+
+#: translation.js:1511
+msgid "32-SR-imp1"
+msgstr ""
+
+#: translation.js:1512
+msgid ""
+"32-SR-imp1: 32-bits Shift register to the right.  Block implementation 1"
+msgstr ""
+
+#: translation.js:1514
+msgid "02-Sys-SR"
+msgstr ""
+
+#: translation.js:1515
+msgid "02-Sys-SR: 2 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1516
+msgid "03-Sys-SR"
+msgstr ""
+
+#: translation.js:1517
+msgid "03-Sys-SR: 3 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1518
+msgid "04-Sys-SR"
+msgstr ""
+
+#: translation.js:1519
+msgid "04-Sys-SR: 4 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1520
+msgid "05-Sys-SR"
+msgstr ""
+
+#: translation.js:1521
+msgid "05-Sys-SR: 5 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1522
+msgid "06-Sys-SR"
+msgstr ""
+
+#: translation.js:1523
+msgid "06-Sys-SR: 6 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1524
+msgid "07-Sys-SR"
+msgstr ""
+
+#: translation.js:1525
+msgid "07-Sys-SR: 7 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1526
+msgid "08-Sys-SR"
+msgstr ""
+
+#: translation.js:1527
+msgid "08-Sys-SR: 8 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1528
+msgid "09-Sys-SR"
+msgstr ""
+
+#: translation.js:1529
+msgid "09-Sys-SR: 9 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1530
+msgid "10-Sys-SR"
+msgstr ""
+
+#: translation.js:1531
+msgid "10-Sys-SR: 10 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1532
+msgid "11-Sys-SR"
+msgstr ""
+
+#: translation.js:1533
+msgid "11-Sys-SR: 11 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1534
+msgid "12-Sys-SR"
+msgstr ""
+
+#: translation.js:1535
+msgid "12-Sys-SR: 12 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1536
+msgid "13-Sys-SR"
+msgstr ""
+
+#: translation.js:1537
+msgid "13-Sys-SR: 13 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1538
+msgid "14-Sys-SR"
+msgstr ""
+
+#: translation.js:1539
+msgid "14-Sys-SR: 14 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1540
+msgid "15-Sys-SR"
+msgstr ""
+
+#: translation.js:1541
+msgid "15-Sys-SR: 15 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1542
+msgid "16-Sys-SR"
+msgstr ""
+
+#: translation.js:1543
+msgid "16-Sys-SR: 16 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1544
+msgid "17-Sys-SR"
+msgstr ""
+
+#: translation.js:1545
+msgid "17-Sys-SR: 17 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1546
+msgid "18-Sys-SR"
+msgstr ""
+
+#: translation.js:1547
+msgid "18-Sys-SR: 18 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1548
+msgid "19-Sys-SR"
+msgstr ""
+
+#: translation.js:1549
+msgid "19-Sys-SR: 19 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1550
+msgid "20-Sys-SR"
+msgstr ""
+
+#: translation.js:1551
+msgid "20-Sys-SR: 20 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1552
+msgid "21-Sys-SR"
+msgstr ""
+
+#: translation.js:1553
+msgid "21-Sys-SR: 21 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1554
+msgid "22-Sys-SR"
+msgstr ""
+
+#: translation.js:1555
+msgid "22-Sys-SR: 22 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1556
+msgid "23-Sys-SR"
+msgstr ""
+
+#: translation.js:1557
+msgid "23-Sys-SR: 23 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1558
+msgid "24-Sys-SR"
+msgstr ""
+
+#: translation.js:1559
+msgid "24-Sys-SR: 24 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1560
+msgid "25-Sys-SR"
+msgstr ""
+
+#: translation.js:1561
+msgid "25-Sys-SR: 25 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1562
+msgid "26-Sys-SR"
+msgstr ""
+
+#: translation.js:1563
+msgid "26-Sys-SR: 26 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1564
+msgid "27-Sys-SR"
+msgstr ""
+
+#: translation.js:1565
+msgid "27-Sys-SR: 27 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1566
+msgid "28-Sys-SR"
+msgstr ""
+
+#: translation.js:1567
+msgid "28-Sys-SR: 28 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1568
+msgid "29-Sys-SR"
+msgstr ""
+
+#: translation.js:1569
+msgid "29-Sys-SR: 29 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1570
+msgid "30-Sys-SR"
+msgstr ""
+
+#: translation.js:1571
+msgid "30-Sys-SR: 30 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1572
+msgid "31-Sys-SR"
+msgstr ""
+
+#: translation.js:1573
+msgid "31-Sys-SR: 31 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1574
+msgid "32-Sys-SR"
+msgstr ""
+
+#: translation.js:1575
+msgid "32-Sys-SR: 32 bits system shift right register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1577
+msgid "02-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1578
+msgid ""
+"02-Sys-SR-ld: 2 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1579
+msgid "03-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1580
+msgid ""
+"03-Sys-SR-ld: 3 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1581
+msgid "04-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1582
+msgid ""
+"04-Sys-SR-ld: 4 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1583
+msgid "05-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1584
+msgid ""
+"05-Sys-SR-ld: 5 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1585
+msgid "06-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1586
+msgid ""
+"06-Sys-SR-ld: 6 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1587
+msgid "07-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1588
+msgid ""
+"07-Sys-SR-ld: 7 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1589
+msgid "08-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1590
+msgid ""
+"08-Sys-SR-ld: 8 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1591
+msgid "09-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1592
+msgid ""
+"09-Sys-SR-ld: 9 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1593
+msgid "10-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1594
+msgid ""
+"10-Sys-SR-ld: 10 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1595
+msgid "11-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1596
+msgid ""
+"11-Sys-SR-ld: 11 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1597
+msgid "12-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1598
+msgid ""
+"12-Sys-SR-ld: 12 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1599
+msgid "13-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1600
+msgid ""
+"13-Sys-SR-ld: 13 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1601
+msgid "14-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1602
+msgid ""
+"14-Sys-SR-ld: 14 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1603
+msgid "15-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1604
+msgid ""
+"15-Sys-SR-ld: 15 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1605
+msgid "16-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1606
+msgid ""
+"16-Sys-SR-ld: 16 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1607
+msgid "17-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1608
+msgid ""
+"17-Sys-SR-ld: 17 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1609
+msgid "18-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1610
+msgid ""
+"18-Sys-SR-ld: 18 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1611
+msgid "19-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1612
+msgid ""
+"19-Sys-SR-ld: 19 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1613
+msgid "20-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1614
+msgid ""
+"20-Sys-SR-ld: 20 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1615
+msgid "21-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1616
+msgid ""
+"21-Sys-SR-ld: 21 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1617
+msgid "22-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1618
+msgid ""
+"22-Sys-SR-ld: 22 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1619
+msgid "23-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1620
+msgid ""
+"23-Sys-SR-ld: 23 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1621
+msgid "24-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1622
+msgid ""
+"24-Sys-SR-ld: 24 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1623
+msgid "25-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1624
+msgid ""
+"25-Sys-SR-ld: 25 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1625
+msgid "26-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1626
+msgid ""
+"26-Sys-SR-ld: 26 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1627
+msgid "27-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1628
+msgid ""
+"27-Sys-SR-ld: 27 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1629
+msgid "28-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1630
+msgid ""
+"28-Sys-SR-ld: 28 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1631
+msgid "29-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1632
+msgid ""
+"29-Sys-SR-ld: 29 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1633
+msgid "30-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1634
+msgid ""
+"30-Sys-SR-ld: 30 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1635
+msgid "31-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1636
+msgid ""
+"31-Sys-SR-ld: 31 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1637
+msgid "32-Sys-SR-ld"
+msgstr ""
+
+#: translation.js:1638
+msgid ""
+"32-Sys-SR-ld: 32 bits system shift right register with load input. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1640
+msgid "02-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1641
+msgid ""
+"02-Sys-SR-ld-rst: 2 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1642
+msgid "03-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1643
+msgid ""
+"03-Sys-SR-ld-rst: 3 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1644
+msgid "04-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1645
+msgid ""
+"04-Sys-SR-ld-rst: 4 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1646
+msgid "05-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1647
+msgid ""
+"05-Sys-SR-ld-rst: 5 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1648
+msgid "06-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1649
+msgid ""
+"06-Sys-SR-ld-rst: 6 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1650
+msgid "07-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1651
+msgid ""
+"07-Sys-SR-ld-rst: 7 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1652
+msgid "08-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1653
+msgid ""
+"08-Sys-SR-ld-rst: 8 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1654
+msgid "09-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1655
+msgid ""
+"09-Sys-SR-ld-rst: 9 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1656
+msgid "10-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1657
+msgid ""
+"10-Sys-SR-ld-rst: 10 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1658
+msgid "11-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1659
+msgid ""
+"11-Sys-SR-ld-rst: 11 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1660
+msgid "12-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1661
+msgid ""
+"12-Sys-SR-ld-rst: 12 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1662
+msgid "13-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1663
+msgid ""
+"13-Sys-SR-ld-rst: 13 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1664
+msgid "14-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1665
+msgid ""
+"14-Sys-SR-ld-rst: 14 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1666
+msgid "15-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1667
+msgid ""
+"15-Sys-SR-ld-rst: 15 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1668
+msgid "16-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1669
+msgid ""
+"16-Sys-SR-ld-rst: 16 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1670
+msgid "17-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1671
+msgid ""
+"17-Sys-SR-ld-rst: 17 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1672
+msgid "18-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1673
+msgid ""
+"18-Sys-SR-ld-rst: 18 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1674
+msgid "19-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1675
+msgid ""
+"19-Sys-SR-ld-rst: 19 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1676
+msgid "20-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1677
+msgid ""
+"20-Sys-SR-ld-rst: 20 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1678
+msgid "21-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1679
+msgid ""
+"21-Sys-SR-ld-rst: 21 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1680
+msgid "22-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1681
+msgid ""
+"22-Sys-SR-ld-rst: 22 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1682
+msgid "23-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1683
+msgid ""
+"23-Sys-SR-ld-rst: 23 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1684
+msgid "24-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1685
+msgid ""
+"24-Sys-SR-ld-rst: 24 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1686
+msgid "25-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1687
+msgid ""
+"25-Sys-SR-ld-rst: 25 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1688
+msgid "26-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1689
+msgid ""
+"26-Sys-SR-ld-rst: 26 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1690
+msgid "27-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1691
+msgid ""
+"27-Sys-SR-ld-rst: 27 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1692
+msgid "28-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1693
+msgid ""
+"28-Sys-SR-ld-rst: 28 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1694
+msgid "29-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1695
+msgid ""
+"29-Sys-SR-ld-rst: 29 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1696
+msgid "30-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1697
+msgid ""
+"30-Sys-SR-ld-rst: 30 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1698
+msgid "31-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1699
+msgid ""
+"31-Sys-SR-ld-rst: 31 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1700 translation.js:1714
+msgid "32-Sys-SR-ld-rst"
+msgstr ""
+
+#: translation.js:1701
+msgid ""
+"32-Sys-SR-ld-rst: 32 bits system shift right register with load and reset. "
+"Verilog implementation"
+msgstr ""
+
+#: translation.js:1702
+msgid "02-Sys-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1703
+msgid ""
+"02-SR-ld-rst-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1704
+msgid "02-Sys-SR-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:1705
+msgid ""
+"02-SR-ld-rst-imp2: Shift register to the right, with load.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1706
+msgid "04-Sys-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1707
+msgid ""
+"04-SR-ld-rst-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1708
+msgid "04-Sys-SR-ld-rst-imp2"
+msgstr ""
+
+#: translation.js:1709
+msgid ""
+"04-SR-ld-rst-imp2: Shift register to the right, with load.  Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1710
+msgid "08-Sys-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1711
+msgid ""
+"08-SR-ld-rst-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1712
+msgid "16-Sys-SR-ld-rst-imp1"
+msgstr ""
+
+#: translation.js:1713
+msgid ""
+"16-SR-ld-rst-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1715
+msgid ""
+"32-SR-ld-rst-imp1: Shift register to the right, with load and reset.  Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1716
+msgid "02-Sys-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1717
+msgid ""
+"02-Sys-SR-ld-imp1: 2-bits System Shift register to the right, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1718
+msgid "02-Sys-SR-ld-imp2"
+msgstr ""
+
+#: translation.js:1719
+msgid ""
+"02-Sys-SR-ld-imp2: 2-bits System Shift register to the right, with load. "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:1720
+msgid "04-Sys-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1721
+msgid ""
+"04-Sys-SR-ld-imp1: 4-bits System Shift register to the right, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1722
+msgid "04-Sys-SR-ld-imp2"
+msgstr ""
+
+#: translation.js:1723
+msgid ""
+"04-Sys-SR-ld-imp2: 4-bits System Shift register to the right, with load. "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:1724
+msgid "08-Sys-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1725
+msgid ""
+"08-Sys-SR-ld-imp1: 8-bits System Shift register to the right, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1726
+msgid "16-Sys-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1727
+msgid ""
+"16-Sys-SR-ld-imp1: 16-bits System Shift register to the right, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1728
+msgid "32-Sys-SR-ld-imp1"
+msgstr ""
+
+#: translation.js:1729
+msgid ""
+"32-Sys-SR32-ld-imp1: 32-bits System Shift register to the right, with load. "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1731
+msgid "02-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1732
+msgid ""
+"02-Sys-SR-rst: 2 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1733 translation.js:1826
+msgid "03-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1734
+msgid ""
+"03-Sys-SR-rst: 3 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1735
+msgid "04-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1736
+msgid ""
+"04-Sys-SR-rst: 4 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1737
+msgid "05-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1738
+msgid ""
+"05-Sys-SR-rst: 5 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1739
+msgid "06-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1740
+msgid ""
+"06-Sys-SR-rst: 6 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1741
+msgid "07-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1742
+msgid ""
+"07-Sys-SR-rst: 7 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1743
+msgid "08-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1744
+msgid ""
+"08-Sys-SR-rst: 8 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1745
+msgid "09-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1746
+msgid ""
+"09-Sys-SR-rst: 9 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1747
+msgid "10-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1748
+msgid ""
+"10-Sys-SR-rst: 10 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1749
+msgid "11-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1750
+msgid ""
+"11-Sys-SR-rst: 11 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1751
+msgid "12-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1752
+msgid ""
+"12-Sys-SR-rst: 12 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1753
+msgid "13-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1754
+msgid ""
+"13-Sys-SR-rst: 13 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1755
+msgid "14-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1756
+msgid ""
+"14-Sys-SR-rst: 14 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1757
+msgid "15-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1758
+msgid ""
+"15-Sys-SR-rst: 15 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1759
+msgid "16-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1760
+msgid ""
+"16-Sys-SR-rst: 16 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1761
+msgid "17-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1762
+msgid ""
+"17-Sys-SR-rst: 17 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1763
+msgid "18-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1764
+msgid ""
+"18-Sys-SR-rst: 18 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1765
+msgid "19-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1766
+msgid ""
+"19-Sys-SR-rst: 19 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1767
+msgid "20-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1768
+msgid ""
+"20-Sys-SR-rst: 20 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1769
+msgid "21-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1770
+msgid ""
+"21-Sys-SR-rst: 21 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1771
+msgid "22-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1772
+msgid ""
+"22-Sys-SR-rst: 22 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1773
+msgid "23-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1774
+msgid ""
+"23-Sys-SR-rst: 23 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1775
+msgid "24-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1776
+msgid ""
+"24-Sys-SR-rst: 24 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1777
+msgid "25-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1778
+msgid ""
+"25-Sys-SR-rst: 25 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1779
+msgid "26-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1780
+msgid ""
+"26-Sys-SR-rst: 26 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1781
+msgid "27-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1782
+msgid ""
+"27-Sys-SR-rst: 27 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1783
+msgid "28-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1784
+msgid ""
+"28-Sys-SR-rst: 28 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1785
+msgid "29-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1786
+msgid ""
+"29-Sys-SR-rst: 29 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1787
+msgid "30-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1788
+msgid ""
+"30-Sys-SR-rst: 30 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1789
+msgid "31-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1790
+msgid ""
+"31-Sys-SR-rst: 31 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1791
+msgid "32-Sys-SR-rst"
+msgstr ""
+
+#: translation.js:1792
+msgid ""
+"32-Sys-SR-rst: 32 bits system shift right register with reset. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1793
+msgid "02-Sys-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1794
+msgid ""
+"02-Sys-SR-rst: 2-bits System Shift register to the right, with reset.  Block "
+"iplementation 1"
+msgstr ""
+
+#: translation.js:1795
+msgid "02-Sys-SR-rst-imp2"
+msgstr ""
+
+#: translation.js:1796
+msgid ""
+"Sys-SR-rst-02: 2-bits System Shift register to the right, with reset.  Block "
+"iplementation 2"
+msgstr ""
+
+#: translation.js:1797
+msgid "04-Sys-SR4-rst-imp1"
+msgstr ""
+
+#: translation.js:1798
+msgid ""
+"04-Sys-SR-rst-imp2: 4-bits System Shift register to the right, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1799
+msgid "04-Sys-SR4-rst-imp2"
+msgstr ""
+
+#: translation.js:1800
+msgid ""
+"04-Sys-SR-rst-imp1: 4-bits System Shift register to the right, with reset.  "
+"Block implementation 2"
+msgstr ""
+
+#: translation.js:1801
+msgid "08-Sys-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1802
+msgid ""
+"08-Sys-SR-rst-imp2: 8-bits System Shift register to the right, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1803
+msgid "16-Sys-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1804
+msgid ""
+"16-Sys-SR-rst-imp2: 16-bits System Shift register to the right, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1805
+msgid "32-Sys-SR-rst-imp1"
+msgstr ""
+
+#: translation.js:1806
+msgid ""
+"32-Sys-SR-rst-imp2: 32-bits System Shift register to the right, with reset.  "
+"Block implementation 1"
+msgstr ""
+
+#: translation.js:1807
+msgid "02-Sys-SR-imp1"
+msgstr ""
+
+#: translation.js:1808
+msgid ""
+"02-Sys-SR-blocks-imp1: 2-bits System Shift register to the right. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1809
+msgid "02-Sys-SR-imp2"
+msgstr ""
+
+#: translation.js:1810
+msgid ""
+"02-Sys-SR-blocks-imp2: 2-bits System Shift register to the right. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1811
+msgid "04-Sys-SR-imp1"
+msgstr ""
+
+#: translation.js:1812
+msgid ""
+"04-Sys-SR-04-blocks-imp1: 4-bits System Shift register to the right. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1813
+msgid "04-Sys-SR-imp2"
+msgstr ""
+
+#: translation.js:1814
+msgid ""
+"04-Sys-SR-imp2: 4-bits System Shift register to the right. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1815
+msgid "08-Sys-SR-imp1"
+msgstr ""
+
+#: translation.js:1816
+msgid ""
+"08-Sys-SR-blocks-imp1: 8-bits System Shift register to the right. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1817
+msgid "08-Sys-SR-imp2"
+msgstr ""
+
+#: translation.js:1818
+msgid ""
+"08-Sys-SR-imp2: 8-bits System Shift register to the right. Block "
+"implementation 2"
+msgstr ""
+
+#: translation.js:1819
+msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
+msgstr ""
+
+#: translation.js:1820
+msgid "16-Sys-SR-imp1"
+msgstr ""
+
+#: translation.js:1821
+msgid ""
+"16-Sys-SR-blocks-imp1: 16-bits System Shift register to the right. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1822
+msgid "32-Sys-SR-imp1"
+msgstr ""
+
+#: translation.js:1823
+msgid ""
+"32-Sys-SR-blocks-imp1: 32-bits System Shift register to the right. Block "
+"implementation 1"
+msgstr ""
+
+#: translation.js:1824 translation.js:1844 translation.js:1937
+#: translation.js:2103
+msgid "01-Sys-SR-2bits-unary-counter"
+msgstr ""
+
+#: translation.js:1825 translation.js:1939 translation.js:1943
+msgid "02-Sys-SR-8bits-unary-counter"
+msgstr ""
+
+#: translation.js:1827 translation.js:1953 translation.js:1961
+msgid "04-Sys-SR-ld-paralell-serial"
+msgstr ""
+
+#: translation.js:1828
+msgid "05-Sys-SR-ld-paralell-serial"
+msgstr ""
+
+#: translation.js:1829 translation.js:1977 translation.js:1988
+msgid "06-Sys-SR-ld-serial-addition"
+msgstr ""
+
+#: translation.js:1830 translation.js:1990 translation.js:1994
+msgid "07-SR-manual-unary-counter"
+msgstr ""
+
+#: translation.js:1831
+msgid "08-SR-rst-module5-unary-counter"
+msgstr ""
+
+#: translation.js:1832
+msgid "09-SR-ld-serial-tx-rx"
+msgstr ""
+
+#: translation.js:1833 translation.js:2063 translation.js:2066
+msgid "10-SR-ld-rst-serial-tx-rx-loop"
+msgstr ""
+
+#: translation.js:1834 translation.js:2068 translation.js:2104
+msgid "11-SRL-manual-unary-counter-up-down"
+msgstr ""
+
+#: translation.js:1835 translation.js:2077 translation.js:2105
+msgid "12-SRL-rst-up-down-progress-bar"
+msgstr ""
+
+#: translation.js:1836 translation.js:2102
+msgid "00-Index"
+msgstr ""
+
+#: translation.js:1837
+msgid "# INDEX: IceSRegs Collection"
+msgstr ""
+
+#: translation.js:1838
+msgid "## Right"
+msgstr ""
+
+#: translation.js:1839
+msgid "### System Registers"
+msgstr ""
+
+#: translation.js:1840
+msgid "### Standard Registers"
+msgstr ""
+
+#: translation.js:1841
+msgid "## Left"
+msgstr ""
+
+#: translation.js:1842
+msgid "## Left-Right"
+msgstr ""
+
+#: translation.js:1843 translation.js:1938 translation.js:1944
+#: translation.js:1952 translation.js:1962 translation.js:1976
+#: translation.js:1989 translation.js:1995 translation.js:2040
+#: translation.js:2062 translation.js:2067 translation.js:2076
+msgid "Alhambra-II"
+msgstr ""
+
+#: translation.js:1845
+msgid "Constant bit 1"
+msgstr ""
+
+#: translation.js:1846
+msgid "Button-tic: Configurable button that emits a tic when it is pressed"
+msgstr ""
+
+#: translation.js:1847
+msgid ""
+"Rising-edge detector. It generates a 1-period pulse (tic) when a rising edge "
+"is detected on the input. Block implementation"
+msgstr ""
+
+#: translation.js:1848
+msgid "NOT gate (Verilog implementation)"
+msgstr ""
+
+#: translation.js:1849
+msgid "Two bits input And gate"
+msgstr ""
+
+#: translation.js:1850
+msgid "Configurable button (pull-up on/off. Not on/off)"
+msgstr ""
+
+#: translation.js:1851
+msgid "FPGA internal pull-up configuration on the input port"
+msgstr ""
+
+#: translation.js:1852
+msgid ""
+"Select positive or negative logic for the input (0=positive, 1=negative)"
+msgstr ""
+
+#: translation.js:1853
+msgid ""
+"Valor genérico constante, de 1 bits. Su valor se introduce como parámetro. "
+"Por defecto vale 0"
+msgstr ""
+
+#: translation.js:1854
+msgid "XOR gate: two bits input xor gate"
+msgstr ""
+
+#: translation.js:1855
+msgid "Remove the rebound on a mechanical switch"
+msgstr ""
+
+#: translation.js:1856
+msgid ""
+"Edges detector. It generates a 1-period pulse (tic) when either a rising "
+"edge or a falling edge is detected on the input. Block implementation"
+msgstr ""
+
+#: translation.js:1857
+msgid "16-bits Syscounter with reset"
+msgstr ""
+
+#: translation.js:1858
+msgid "Inc1-16bit: Increment a 16-bits number by one"
+msgstr ""
+
+#: translation.js:1859
+msgid "AdderK-16bit: Adder of 16-bit operand and 16-bit constant"
+msgstr ""
+
+#: translation.js:1860
+msgid "Generic: 16-bits generic constant"
+msgstr ""
+
+#: translation.js:1861
+msgid "Adder-16bits: Adder of two operands of 16 bits"
+msgstr ""
+
+#: translation.js:1862
+msgid "Bus16-Split-half: Split the 16-bits bus into two buses of the same size"
+msgstr ""
+
+#: translation.js:1863
+msgid "Adder-8bits: Adder of two operands of 8 bits"
+msgstr ""
+
+#: translation.js:1864
+msgid "Bus8-Split-half: Split the 8-bits bus into two buses of the same size"
+msgstr ""
+
+#: translation.js:1865
+msgid "Adder-4bits: Adder of two operands of 4 bits"
+msgstr ""
+
+#: translation.js:1866
+msgid "Adder-1bit: Adder of two operands of 1 bit"
+msgstr ""
+
+#: translation.js:1867
+msgid "AdderC-1bit: Adder of two operands of 1 bit plus the carry in"
+msgstr ""
+
+#: translation.js:1868
+msgid "Constant bit 0"
+msgstr ""
+
+#: translation.js:1869
+msgid "AdderC-4bits: Adder of two operands of 4 bits and Carry in"
+msgstr ""
+
+#: translation.js:1870
+msgid "AdderC-8bits: Adder of two operands of 8 bits and Carry in"
+msgstr ""
+
+#: translation.js:1871
+msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
+msgstr ""
+
+#: translation.js:1872
+msgid ""
+"Sync-x01: 1-bit input with the system clock domain (Verilog implementation)"
+msgstr ""
+
+#: translation.js:1873
+msgid ""
+"02-Uint08: 2 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1874
+msgid ""
+"Data Ledoscope. 8 samples of 8bits data are taken initially, at the system "
+"clock rate"
+msgstr ""
+
+#: translation.js:1875
+msgid "8-to-1 Multplexer (8-bit channels) (Verilog implementation)"
+msgstr ""
+
+#: translation.js:1876
+msgid "OR-BUS3-verilog: OR gate with 3-bits bus input. Verilog implementation"
+msgstr ""
+
+#: translation.js:1877
+msgid ""
+"RS-FF-set-verilog. RS Flip-flop with priority set. Implementation in verilog"
+msgstr ""
+
+#: translation.js:1878
+msgid "3-bits Syscounter"
+msgstr ""
+
+#: translation.js:1879
+msgid "Inc1-3bit: Increment a 3-bits number by one"
+msgstr ""
+
+#: translation.js:1880
+msgid "AdderK-3bit: Adder of 3-bit operand and 3-bit constant"
+msgstr ""
+
+#: translation.js:1881
+msgid "Generic: 3-bits generic constant (0-7)"
+msgstr ""
+
+#: translation.js:1882
+msgid "Adder-3bits: Adder of two operands of 3 bits"
+msgstr ""
+
+#: translation.js:1883
+msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
+msgstr ""
+
+#: translation.js:1884
+msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
+msgstr ""
+
+#: translation.js:1885
+msgid "03-Sys-reg: 3 bits system register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1886
+msgid "Counter-x03: 3-bits counter"
+msgstr ""
+
+#: translation.js:1887
+msgid "03-Reg: 3 bits Register. Verilog implementation"
+msgstr ""
+
+#: translation.js:1888
+msgid ""
+"## Example 1: Sys-SR Register: 2-bits unary counter\n"
+"\n"
+"The data from the shif register is captured by a data OSCILOSCOPE "
+msgstr ""
+
+#: translation.js:1889
+msgid "Sys-Shit-Right"
+msgstr ""
+
+#: translation.js:1890
+msgid ""
+"| Cycle    | 0  | 1  | 2  | 3  |\n"
+"|----------|----|----|----|----|\n"
+"| Register | 00 | 10 | 11 | 11 |\n"
+msgstr ""
+
+#: translation.js:1891
+msgid ""
+"## Meassure with LEDOSCOPE-data\n"
+"\n"
+"It stores four samples taken at the first four cycles  \n"
+"(cycles 0,1 2 and 3)"
+msgstr ""
+
+#: translation.js:1892
+msgid ""
+"Select the sample to show  \n"
+"on the LEDs "
+msgstr ""
+
+#: translation.js:1893
+msgid "Showing the sample 0"
+msgstr ""
+
+#: translation.js:1894
+msgid ""
+"Convert the 2-bit value to  \n"
+"an 8-bit value (The most  \n"
+"significant bits are filled  \n"
+"with 0)"
+msgstr ""
+
+#: translation.js:1895
+msgid "Button state signal"
+msgstr ""
+
+#: translation.js:1896
+msgid "Tic: button pressed"
+msgstr ""
+
+#: translation.js:1897
+msgid "Rising edge detector"
+msgstr ""
+
+#: translation.js:1898
+msgid "Pull up on/off"
+msgstr ""
+
+#: translation.js:1899
+msgid "Not on/off"
+msgstr ""
+
+#: translation.js:1900
+msgid ""
+"## Rising edge detector\n"
+"\n"
+"It generates a 1-period pulse (tic) when a rising edge is detected on the  \n"
+"input signal"
+msgstr ""
+
+#: translation.js:1901
+msgid "Input signal"
+msgstr ""
+
+#: translation.js:1902
+msgid ""
+"Current signal  \n"
+"state"
+msgstr ""
+
+#: translation.js:1903
+msgid ""
+"Signal state in the previous  \n"
+"clock cycle"
+msgstr ""
+
+#: translation.js:1904
+msgid ""
+"If the current signal is 1 and its value in  \n"
+"the previous clock cycle was 0, it means  \n"
+"that a rising edge has been detected!  \n"
+"The output es 1\n"
+"\n"
+"In any other case the output is 0"
+msgstr ""
+
+#: translation.js:1905
+msgid ""
+"**Delay**: 0 clock cycles \n"
+"\n"
+"There is no delay between the arrival of a rising edge  \n"
+"and its detection"
+msgstr ""
+
+#: translation.js:1906
+msgid "Input"
+msgstr ""
+
+#: translation.js:1907
+msgid ""
+"Internal pull-up  \n"
+"* 0: OFF\n"
+"* 1: ON"
+msgstr ""
+
+#: translation.js:1908
+msgid "Synchronization stage"
+msgstr ""
+
+#: translation.js:1909
+msgid ""
+"Normalization stage\n"
+"\n"
+"* 0: Wire\n"
+"* 1: signal inverted"
+msgstr ""
+
+#: translation.js:1910
+msgid "Debouncing stage"
+msgstr ""
+
+#: translation.js:1911
+msgid ""
+"### Pull-up parameter:\n"
+"\n"
+"0: No pull-up  \n"
+"1: Pull-up activated"
+msgstr ""
+
+#: translation.js:1912
+msgid ""
+"Only an FPGA pin can  \n"
+"be connected here!!!"
+msgstr ""
+
+#: translation.js:1913
+msgid ""
+"The pull-up is connected  \n"
+"by default"
+msgstr ""
+
+#: translation.js:1914
+msgid ""
+"When k=0, it works like a wire  \n"
+"(The output is equal to the input)  \n"
+"When k=1, it act as a not gate\n"
+"(The output is the inverse of the input)"
+msgstr ""
+
+#: translation.js:1915
+msgid ""
+"### Truth table for XOR\n"
+"\n"
+"| k | input | output | function |\n"
+"|---|-------|--------|----------|\n"
+"| 0 | 0     |  0     | wire     |\n"
+"| 0 | 1     |  1     | wire     |\n"
+"| 1 | 0     |  1     | Not      |\n"
+"| 1 | 1     |  0     | Not      |"
+msgstr ""
+
+#: translation.js:1916
+msgid "Edge detector"
+msgstr ""
+
+#: translation.js:1917
+msgid ""
+"Whenever there is a change in  \n"
+"the input, the counter is started"
+msgstr ""
+
+#: translation.js:1918
+msgid ""
+"If the counter reaches it maximum  \n"
+"value, the input is considered stable  \n"
+"and it is captured"
+msgstr ""
+
+#: translation.js:1919
+msgid ""
+"### Time calculation\n"
+"\n"
+"For CLK=12MHZ, a 16-bit counter reaches its  \n"
+"maximum every 2 ** 16 * 1/F = 5.5ms aprox  \n"
+"IF more time is needed for debouncing,  \n"
+"use a counter with more bits (17, 18...)"
+msgstr ""
+
+#: translation.js:1920
+msgid ""
+"## Debouncer  \n"
+"\n"
+"A value is considered stable when  \n"
+"there is no changes during 5.5ms  \n"
+"aprox. When a value is stable it is  \n"
+"captured on the output flip-flop"
+msgstr ""
+
+#: translation.js:1921
+msgid "Stable output"
+msgstr ""
+
+#: translation.js:1922
+msgid "Counter"
+msgstr ""
+
+#: translation.js:1923
+msgid ""
+"## Edges detector\n"
+"\n"
+"It generates a 1-period pulse (tic) when an edge (Rising or falling) is "
+"detected on the  \n"
+"input signal"
+msgstr ""
+
+#: translation.js:1924
+msgid ""
+"The output is 1 if the current value is 1 and the  \n"
+"previous 0, or if the current value is 0 and the  \n"
+"previous 1\n"
+msgstr ""
+
+#: translation.js:1925
+msgid "In any other case the output is 0"
+msgstr ""
+
+#: translation.js:1926
+msgid ""
+"Select which sample is shown  \n"
+"on the LEDs"
+msgstr ""
+
+#: translation.js:1927
+msgid "Sample 0"
+msgstr ""
+
+#: translation.js:1928
+msgid "Sample 1"
+msgstr ""
+
+#: translation.js:1929
+msgid "Enable the capture "
+msgstr ""
+
+#: translation.js:1930
+msgid "This signal is 1 initially"
+msgstr ""
+
+#: translation.js:1931
+msgid "RS-flip-flop"
+msgstr ""
+
+#: translation.js:1932
+msgid ""
+"The Flip-flips is reset  \n"
+"at the end of cycle 3"
+msgstr ""
+
+#: translation.js:1933
+msgid "4-cycles with pulse"
+msgstr ""
+
+#: translation.js:1934
+msgid "Sample 2"
+msgstr ""
+
+#: translation.js:1935
+msgid "Sample 3"
+msgstr ""
+
+#: translation.js:1936
+msgid ""
+"Sample number currently  \n"
+"displayed"
+msgstr ""
+
+#: translation.js:1940
+msgid ""
+"## Example 2: Sys-SR Register: 8-bits unary counter\n"
+"\n"
+"The data from the shif register is captured by a data OSCILOSCOPE "
+msgstr ""
+
+#: translation.js:1941
+msgid ""
+"| Cycle    | 0        | 1        | 2        | 3        | 4        | 5        "
+"| 6        | 7        |\n"
+"|----------|----------|----------|----------|----------|----------|----------|----------|----------|\n"
+"| Register | 10000000 | 11000000 | 11100000 | 11110000 | 11111000 | 11111100 "
+"| 11111110 | 11111111 |\n"
+msgstr ""
+
+#: translation.js:1942
+msgid ""
+"## Meassure with LEDOSCOPE-data\n"
+"\n"
+"It stores eight samples taken at the first eight cycles  \n"
+"(cycles 0-7)"
+msgstr ""
+
+#: translation.js:1945 translation.js:1951
+msgid "03-Sys-SR-rst-2bits-module-3-unary-counter"
+msgstr ""
+
+#: translation.js:1946
+msgid ""
+"## Example 3: Sys-SR reset Register: 2-bits module-3 unary counter\n"
+"\n"
+"The data from the shif register is captured by a data OSCILOSCOPE "
+msgstr ""
+
+#: translation.js:1947
+msgid "Sys-Shit-Right-reset"
+msgstr ""
+
+#: translation.js:1948
+msgid ""
+"| Cycle    | 0  | 1  | 2  | 3  | 4 | 5 | 6 | 7 |\n"
+"|----------|----|----|----|----|---|---|---|---|\n"
+"| Register | 00 | 10 | 11 | 00 | 10| 11| 00| 10|\n"
+"| reset    |  0 |  0 |  1 |  0 |  0|  1|  0|  0|\n"
+msgstr ""
+
+#: translation.js:1949
+msgid ""
+"## Meassure with LEDOSCOPE-data\n"
+"\n"
+"It stores four samples taken at the first eight cycles  \n"
+"(cycles 0-7)"
+msgstr ""
+
+#: translation.js:1954
+msgid ""
+"03-Uint08: 3 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1955
+msgid ""
+"## Example 4: Sys-SR load Register: Paralell to serial conversion\n"
+"\n"
+"Example of paralell to serial conversion of two numbers of 3-bits. The first "
+"value is loaded into the  \n"
+"register on cycle 0. Then it is shifted to the right (serial output). The "
+"load signal is actived again  \n"
+"on cycle 3, so that the second value is loaded into the register and "
+"shifted\n"
+"\n"
+"The data from the shif register is captured by a data OSCILOSCOPE "
+msgstr ""
+
+#: translation.js:1956
+msgid "Sys-Shit-Right-load"
+msgstr ""
+
+#: translation.js:1957
+msgid ""
+"| Cycle    | 0   | 1   | 2  | 3  | 4 | 5 | 6 | 7 |\n"
+"|----------|-----|-----|----|----|---|---|---|---|\n"
+"| Register | 000 | 101 | 010| 001|111|011|001|000|\n"
+"| load     |  1  |  0  |  0 |  1 |  0|  0|  0|  0|\n"
+msgstr ""
+
+#: translation.js:1958
+msgid ""
+"Convert the 3-bit value to  \n"
+"an 8-bit value (The most  \n"
+"significant bits are filled  \n"
+"with 0)"
+msgstr ""
+
+#: translation.js:1959
+msgid "Values to be converted to serial"
+msgstr ""
+
+#: translation.js:1960
+msgid ""
+"## Controller\n"
+"\n"
+"It actives the load signal on cycles 0 and 3"
+msgstr ""
+
+#: translation.js:1963 translation.js:1975
+msgid "05-Sys-SR-ld-serial-paralell"
+msgstr ""
+
+#: translation.js:1964
+msgid "3bits constant value: 0"
+msgstr ""
+
+#: translation.js:1965
+msgid "Bus7-Split-all: Split the 7-bits bus into its wires"
+msgstr ""
+
+#: translation.js:1966
+msgid ""
+"## Example 5: Sys-SR load Register: Serial to paralell conversion\n"
+"\n"
+"\n"
+"Example of serial to paralell conversion of two numbers of 3-bits (value1 "
+"and value2).\n"
+"The initial values are stored in two 3-bits system shift right registers, "
+"connected in serial  \n"
+"On every clock cycle their bits are sent in serial (first value1 and then "
+"value 2)  \n"
+"The RX reg is a system shift right register (with the load signal not "
+"enable). It receives the bits in serial  \n"
+"and output in paralell  \n"
+"There are two system registers (reg1 and reg2) that store the received data "
+"(value1 and value2) respectivelly for  \n"
+"displaying the data on the LEDs  \n"
+"Reg1 is loaded on cycle 4, and Reg2 on cycle 7\n"
+"\n"
+"The data from the RX regs is captured by a data OSCILOSCOPE \n"
+"\n"
+"After 7 cycles the values 1 and 2 are stored on regs 1 and 2 respectivelly"
+msgstr ""
+
+#: translation.js:1967
+msgid ""
+"| Cycle    | 0       | 1       | 2      | 3      | 4     | 5     | 6     | "
+"7     |\n"
+"|----------|---------|---------|--------|--------|-------|-------|-------|-------|\n"
+"| tx-reg   | 111 101 | 011 110 | 001 111| 000 111|000 011|000 001|000 000|"
+"000 000|\n"
+"| rx-reg   | 000     | 100     | 010    | 101    | 110   | 111   | 111   | "
+"011   |\n"
+"| load     |  0      |  0      |  0     |  1     |  0    |  0    |  1    |  "
+"0    |\n"
+"| reg1     |  000    |  000    |  000   |  000   |  **101**  | 101   | 101   "
+"| 101   |\n"
+"| reg2     |  000    |  000    |  000   |  000   | 000   | 000   | 000   | "
+"**111**   |\n"
+msgstr ""
+
+#: translation.js:1968
+msgid ""
+"## Controller\n"
+"\n"
+"It actives the load signal on cycles 3 and 6"
+msgstr ""
+
+#: translation.js:1969
+msgid "Serial transmission"
+msgstr ""
+
+#: translation.js:1970
+msgid "TX reg: Serial transmitter"
+msgstr ""
+
+#: translation.js:1971
+msgid "RX reg: Serial receiver"
+msgstr ""
+
+#: translation.js:1972
+msgid "Paralell data"
+msgstr ""
+
+#: translation.js:1973
+msgid "Reg1: It stores the Value 1"
+msgstr ""
+
+#: translation.js:1974
+msgid "Reg2: It stores the Value 2"
+msgstr ""
+
+#: translation.js:1978
+msgid "4bits constant value: 0"
+msgstr ""
+
+#: translation.js:1979
+msgid "Generic: 4-bits generic constant (0-15)"
+msgstr ""
+
+#: translation.js:1980
+msgid "Bus5-Split-all: Split the 5-bits bus into its wires"
+msgstr ""
+
+#: translation.js:1981
+msgid ""
+"04-Uint08: 4 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:1982
+msgid ""
+"## Example 6: Sys-SR load Register: Serial addition\n"
+"\n"
+"The 3-bits values 5 and 7 are added serially. The result (12) is displayed "
+"on the LEDs  \n"
+"\n"
+"The data from the RX regs is captured by a data OSCILOSCOPE \n"
+"\n"
+"After 4 cycles the result is displayed on the LEDs"
+msgstr ""
+
+#: translation.js:1983
+msgid ""
+"Convert the 4-bit value to  \n"
+"an 8-bit value (The most  \n"
+"significant bits are filled  \n"
+"with 0)"
+msgstr ""
+
+#: translation.js:1984
+msgid ""
+"## Controller\n"
+"\n"
+"It actives the load signal on cycle 4"
+msgstr ""
+
+#: translation.js:1985
+msgid "Result in paralell"
+msgstr ""
+
+#: translation.js:1986
+msgid "Previous carry bit"
+msgstr ""
+
+#: translation.js:1987
+msgid "Serial adder"
+msgstr ""
+
+#: translation.js:1991
+msgid ""
+"## Example 7: SR Register: 4-bits Manual Unary counter\n"
+"\n"
+"The unary counter is increased by one when the button is pressed"
+msgstr ""
+
+#: translation.js:1992
+msgid "Shift Right register"
+msgstr ""
+
+#: translation.js:1993
+msgid "4-bits Unary counter"
+msgstr ""
+
+#: translation.js:1996 translation.js:2039
+msgid "08-SR-rst-module5-unary"
+msgstr ""
+
+#: translation.js:1997
+msgid "Simplified-Heart-tic-hz-sys-32bits: Nominal periodic signal in hz"
+msgstr ""
+
+#: translation.js:1998
+msgid "Unit-hz-32bits: hz to cycles converter"
+msgstr ""
+
+#: translation.js:1999
+msgid ""
+"Heart-sys-zero-32bits: Generate a periodic signal of period T cycles. It "
+"starts at cycle 0. It never stops"
+msgstr ""
+
+#: translation.js:2000
+msgid "Sys-Delay-xN-32bits: The input tic is delayed N cycles"
+msgstr ""
+
+#: translation.js:2001
+msgid "Counter-M-x32: 32-bits M module counter with reset"
+msgstr ""
+
+#: translation.js:2002
+msgid "Inc1-32bit: Increment a 32-bits number by one"
+msgstr ""
+
+#: translation.js:2003
+msgid "AdderK-32bit: Adder of 32-bit operand and 32-bit constant"
+msgstr ""
+
+#: translation.js:2004
+msgid "Generic: 32-bits generic constant"
+msgstr ""
+
+#: translation.js:2005
+msgid "Adder-32bits: Adder of two operands of 32 bits"
+msgstr ""
+
+#: translation.js:2006
+msgid "Bus24-Join-8-16: Join the two buses into an 24-bits Bus"
+msgstr ""
+
+#: translation.js:2007
+msgid ""
+"Bus32-Split-8-24: Split the 28-bits bus into two buses of 8 and 24 wires"
+msgstr ""
+
+#: translation.js:2008
+msgid ""
+"Bus24-Split-16-8: Split the 24-bits bus into two buses of 16 and 8 wires"
+msgstr ""
+
+#: translation.js:2009
+msgid "Bus32-Join-8-24: Join the two buses into an 32-bits Bus"
+msgstr ""
+
+#: translation.js:2010
+msgid ""
+"Geu-32-Bits_v: 32-bit Unsigned Greather than or equal comparator. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:2011
+msgid ""
+"start: Start signal: It goes from 1 to 0 when the system clock starts. 1 "
+"cycle pulse witch. Block implementation"
+msgstr ""
+
+#: translation.js:2012
+msgid ""
+"## Example 8: SR-rst Register: Module 5 Unary counter \n"
+"\n"
+"The unary counter is increased every second  \n"
+"When it reaches `1111` it restarts from 0"
+msgstr ""
+
+#: translation.js:2013
+msgid ""
+"When the unary counter reaches its  \n"
+"maximum value, it is reset, starting again  \n"
+"from 0. It is reset in the next second"
+msgstr ""
+
+#: translation.js:2014
+msgid "Emits 1 tic every second"
+msgstr ""
+
+#: translation.js:2015
+msgid "Input parameter: Milieconds  "
+msgstr ""
+
+#: translation.js:2016
+msgid ""
+"Input parameter:  \n"
+"System Frequency"
+msgstr ""
+
+#: translation.js:2017
+msgid "Delay"
+msgstr ""
+
+#: translation.js:2018
+msgid "Start a new period"
+msgstr ""
+
+#: translation.js:2019
+msgid "Start at cycle 0!"
+msgstr ""
+
+#: translation.js:2020
+msgid "Repeat!"
+msgstr ""
+
+#: translation.js:2021
+msgid ""
+"Current period ended  \n"
+"Start a new one"
+msgstr ""
+
+#: translation.js:2022
+msgid "Periodo (in system clock cycles)"
+msgstr ""
+
+#: translation.js:2023
+msgid ""
+"Current cycle in the period  \n"
+"(0-T-1)"
+msgstr ""
+
+#: translation.js:2024
+msgid "Cycles to delay"
+msgstr ""
+
+#: translation.js:2025
+msgid "Delay finished!"
+msgstr ""
+
+#: translation.js:2026
+msgid "Machine state: ON/OFF"
+msgstr ""
+
+#: translation.js:2027
+msgid "RS Flip-Flop"
+msgstr ""
+
+#: translation.js:2028
+msgid ""
+"Circuit state:  \n"
+"* ON: working (1)\n"
+"* OFF: Not working (0)"
+msgstr ""
+
+#: translation.js:2029
+msgid ""
+"The counter has reached  \n"
+"the number of cycles  \n"
+"to delay"
+msgstr ""
+
+#: translation.js:2030
+msgid ""
+"Maximum count  \n"
+"reached"
+msgstr ""
+
+#: translation.js:2031
+msgid "32-bits register"
+msgstr ""
+
+#: translation.js:2032
+msgid ""
+"If the max count is reached  \n"
+"and the cnt tic is received,  \n"
+"the register is reset to 0"
+msgstr ""
+
+#: translation.js:2033
+msgid "External reset"
+msgstr ""
+
+#: translation.js:2034
+msgid "Initial value: 1"
+msgstr ""
+
+#: translation.js:2035
+msgid "Initial value: 0"
+msgstr ""
+
+#: translation.js:2036
+msgid "Falling edge"
+msgstr ""
+
+#: translation.js:2037
+msgid "08-SR-rst-manual-unary-counter-module-4"
+msgstr ""
+
+#: translation.js:2038
+msgid "08-SR-rst-manual-unary-counter-module-5"
+msgstr ""
+
+#: translation.js:2041 translation.js:2061
+msgid "09-SR-ld-serial-tx"
+msgstr ""
+
+#: translation.js:2042
+msgid "OR-BUS4-verilog: OR gate with 4-bits bus input. Verilog implementation"
+msgstr ""
+
+#: translation.js:2043
+msgid ""
+"TFF-verilog. System TFF with toggle input: It toogles on every system cycle "
+"if the input is active. Verilog implementation"
+msgstr ""
+
+#: translation.js:2044
+msgid ""
+"## Example 9: SR-ld Register: Serial transmitter-receiver\n"
+"\n"
+"Example of the serial transmision of the data `0xA` and its reception  \n"
+"The recived data is shown on the LEDs.\n"
+msgstr ""
+
+#: translation.js:2045
+msgid "Initial state:  Load"
+msgstr ""
+
+#: translation.js:2046
+msgid "Next stages: Shift"
+msgstr ""
+
+#: translation.js:2047
+msgid "## Transmitter"
+msgstr ""
+
+#: translation.js:2048
+msgid "## Timming generator"
+msgstr ""
+
+#: translation.js:2049
+msgid "Data to transmit"
+msgstr ""
+
+#: translation.js:2050
+msgid "Serial LINE"
+msgstr ""
+
+#: translation.js:2051
+msgid "## Receiver"
+msgstr ""
+
+#: translation.js:2052
+msgid ""
+"Parallel to serial  \n"
+"conversion"
+msgstr ""
+
+#: translation.js:2053
+msgid ""
+"Serial to parallel  \n"
+"conversion"
+msgstr ""
+
+#: translation.js:2054
+msgid ""
+"Received  \n"
+"DATA"
+msgstr ""
+
+#: translation.js:2055
+msgid ""
+"Show the received  \n"
+"data on the LEDs"
+msgstr ""
+
+#: translation.js:2056
+msgid ""
+"Show the data beign  \n"
+"transmited on the LEDs"
+msgstr ""
+
+#: translation.js:2057
+msgid "## Controller"
+msgstr ""
+
+#: translation.js:2058
+msgid ""
+"Last state: capture  \n"
+"the received data"
+msgstr ""
+
+#: translation.js:2059
+msgid ""
+"Load the transmitter with the  \n"
+"data to transmit"
+msgstr ""
+
+#: translation.js:2060
+msgid "Shift the transmitter/receiver"
+msgstr ""
+
+#: translation.js:2064
+msgid ""
+"## Example 10: SR-ld-rst Register: Serial transmitter-receiver\n"
+"\n"
+"Example of the serial transmision of the data `0xA` and its reception  \n"
+"The recived data is shown on the LEDs. This cycle is repeated indefinitelly\n"
+msgstr ""
+
+#: translation.js:2065
+msgid "State: Shift"
+msgstr ""
+
+#: translation.js:2069
+msgid "A standard 2-to-1 encoder with nz (not-zero) output"
+msgstr ""
+
+#: translation.js:2070
+msgid ""
+"## Example 11: SLR Register: 4-bits Manual up down Unary counter\n"
+"\n"
+"The unary counter is increased or decreased by means of the SW1 and SW2 "
+"buttons respectivelly"
+msgstr ""
+
+#: translation.js:2071
+msgid "Shift Left Right register"
+msgstr ""
+
+#: translation.js:2072
+msgid "2-1 encoder"
+msgstr ""
+
+#: translation.js:2073
+msgid ""
+"Shift left or right:  \n"
+"* 1: Shift left (dec)\n"
+"* 0: Shift right (inc)"
+msgstr ""
+
+#: translation.js:2074
+msgid ""
+"Update the counter  \n"
+"on every button pushed"
+msgstr ""
+
+#: translation.js:2075
+msgid ""
+"## Truth table\n"
+"\n"
+"| i1 | i0 | out | nz |\n"
+"|----|----|-----|----|\n"
+"| 0  | 0  |  0  | 0  |\n"
+"| 0  | 1  |  0  | 1  |\n"
+"| 1  | 0  |  1  | 1  |\n"
+"| 1  | 1  |  1  | 1  |"
+msgstr ""
+
+#: translation.js:2078
+msgid ""
+"Simplified-Heart-tic-ms-sys-32bits: Nominal periodic signal in mili seconds"
+msgstr ""
+
+#: translation.js:2079
+msgid ""
+"start: Start signal: It goes from 1 to 0 when the system clock starts. 1 "
+"cycle pulse witch"
+msgstr ""
+
+#: translation.js:2080
+msgid "System - D Flip-flop. Capture data every system clock cycle"
+msgstr ""
+
+#: translation.js:2081
+msgid "RS-FF-set. RS Flip-flop with priority set"
+msgstr ""
+
+#: translation.js:2082
+msgid "2-to-1 Multplexer (1-bit channels)"
+msgstr ""
+
+#: translation.js:2083
+msgid "Reg-rst-32: 32 bits Register with load and reset inputs"
+msgstr ""
+
+#: translation.js:2084
+msgid "Sys-reg-rst-32: 32 bits system register with reset"
+msgstr ""
+
+#: translation.js:2085
+msgid "2-to-1 Multplexer (32-bit channels)"
+msgstr ""
+
+#: translation.js:2086
+msgid "2-to-1 Multplexer (8-bit channels)"
+msgstr ""
+
+#: translation.js:2087
+msgid "2-to-1 Multplexer (4-bit channels)"
+msgstr ""
+
+#: translation.js:2088
+msgid "Bus32-Join-quarter: Join the four buses into an 32-bits Bus"
+msgstr ""
+
+#: translation.js:2089
+msgid "Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires"
+msgstr ""
+
+#: translation.js:2090
+msgid "Sys-reg-32: 32 bits system register"
+msgstr ""
+
+#: translation.js:2091
+msgid "Unit-ms-32bits: ms to cycles converter"
+msgstr ""
+
+#: translation.js:2092
+msgid ""
+"## Example 12: SLR-rst Register: 4-bits up down progress bar\n"
+"\n"
+"A progress bar of 4 leds is incremented automatically. When it reach the "
+"maximum it is decremented.  \n"
+"This cycle is repeated forever"
+msgstr ""
+
+#: translation.js:2093
+msgid "Transition 1: MAX value reached"
+msgstr ""
+
+#: translation.js:2094
+msgid "Transition 2: Min value reached"
+msgstr ""
+
+#: translation.js:2095
+msgid "Next state"
+msgstr ""
+
+#: translation.js:2096
+msgid ""
+"Transitions can only ocurr when  \n"
+"the update signal is active"
+msgstr ""
+
+#: translation.js:2097
+msgid "Circuit refresh period"
+msgstr ""
+
+#: translation.js:2098
+msgid "## Circuit controller"
+msgstr ""
+
+#: translation.js:2099
+msgid "Priority on set"
+msgstr ""
+
+#: translation.js:2100
+msgid "Channel B"
+msgstr ""
+
+#: translation.js:2101
+msgid "Channel A"
+msgstr ""
+
+#: translation.js:1950
+msgid "The register"
+msgstr ""
