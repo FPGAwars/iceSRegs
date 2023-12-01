@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-01 10:15+0100\n"
+"POT-Creation-Date: 2023-12-01 10:19+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -8924,6 +8924,12 @@ msgid ""
 "(cycles 0-7)"
 msgstr ""
 
+#: translation.js:1950
+msgid ""
+"The registers least significant bit is used as  \n"
+"the reset signal"
+msgstr ""
+
 #: translation.js:1954
 msgid ""
 "03-Uint08: 3 bits unsigned integer extension to 8 bits. Verilog "
@@ -9596,8 +9602,4 @@ msgstr ""
 
 #: translation.js:2101
 msgid "Channel A"
-msgstr ""
-
-#: translation.js:1950
-msgid "The register"
 msgstr ""

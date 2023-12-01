@@ -336,7 +336,7 @@
           "id": "b354b1e0-ea66-4524-9171-39a57dc50484",
           "type": "basic.info",
           "data": {
-            "info": "The register's least significant bit is used as  \nthe reset signal",
+            "info": "The registers least significant bit is used as  \nthe reset signal",
             "readonly": true
           },
           "position": {
