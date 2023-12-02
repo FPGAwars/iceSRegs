@@ -7259,7 +7259,8 @@ msgstr "02-Sys-SR-ld"
 msgid ""
 "02-Sys-SR-ld: 2 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "02-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1579
 msgid "03-Sys-SR-ld"
@@ -7269,7 +7270,8 @@ msgstr "03-Sys-SR-ld"
 msgid ""
 "03-Sys-SR-ld: 3 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "03-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1581
 msgid "04-Sys-SR-ld"
@@ -7279,7 +7281,8 @@ msgstr "04-Sys-SR-ld"
 msgid ""
 "04-Sys-SR-ld: 4 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "04-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1583
 msgid "05-Sys-SR-ld"
@@ -7289,7 +7292,8 @@ msgstr "05-Sys-SR-ld"
 msgid ""
 "05-Sys-SR-ld: 5 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "05-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1585
 msgid "06-Sys-SR-ld"
@@ -7299,7 +7303,8 @@ msgstr "06-Sys-SR-ld"
 msgid ""
 "06-Sys-SR-ld: 6 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "06-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1587
 msgid "07-Sys-SR-ld"
@@ -7309,7 +7314,8 @@ msgstr "07-Sys-SR-ld"
 msgid ""
 "07-Sys-SR-ld: 7 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "07-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1589
 msgid "08-Sys-SR-ld"
@@ -7319,7 +7325,8 @@ msgstr "08-Sys-SR-ld"
 msgid ""
 "08-Sys-SR-ld: 8 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "08-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1591
 msgid "09-Sys-SR-ld"
@@ -7329,7 +7336,8 @@ msgstr "09-Sys-SR-ld"
 msgid ""
 "09-Sys-SR-ld: 9 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "09-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1593
 msgid "10-Sys-SR-ld"
@@ -7339,7 +7347,8 @@ msgstr "10-Sys-SR-ld"
 msgid ""
 "10-Sys-SR-ld: 10 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "10-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1595
 msgid "11-Sys-SR-ld"
@@ -7349,7 +7358,8 @@ msgstr "11-Sys-SR-ld"
 msgid ""
 "11-Sys-SR-ld: 11 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "11-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1597
 msgid "12-Sys-SR-ld"
@@ -7359,7 +7369,8 @@ msgstr "12-Sys-SR-ld"
 msgid ""
 "12-Sys-SR-ld: 12 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "12-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1599
 msgid "13-Sys-SR-ld"
@@ -7369,7 +7380,8 @@ msgstr "13-Sys-SR-ld"
 msgid ""
 "13-Sys-SR-ld: 13 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "13-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1601
 msgid "14-Sys-SR-ld"
@@ -7379,7 +7391,8 @@ msgstr "14-Sys-SR-ld"
 msgid ""
 "14-Sys-SR-ld: 14 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "14-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1603
 msgid "15-Sys-SR-ld"
@@ -7389,7 +7402,8 @@ msgstr "15-Sys-SR-ld"
 msgid ""
 "15-Sys-SR-ld: 15 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "15-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1605
 msgid "16-Sys-SR-ld"
@@ -7399,7 +7413,8 @@ msgstr "16-Sys-SR-ld"
 msgid ""
 "16-Sys-SR-ld: 16 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "16-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1607
 msgid "17-Sys-SR-ld"
@@ -7409,7 +7424,8 @@ msgstr "17-Sys-SR-ld"
 msgid ""
 "17-Sys-SR-ld: 17 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "17-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1609
 msgid "18-Sys-SR-ld"
@@ -7419,7 +7435,8 @@ msgstr "18-Sys-SR-ld"
 msgid ""
 "18-Sys-SR-ld: 18 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "18-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1611
 msgid "19-Sys-SR-ld"
@@ -7429,7 +7446,8 @@ msgstr "19-Sys-SR-ld"
 msgid ""
 "19-Sys-SR-ld: 19 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "19-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1613
 msgid "20-Sys-SR-ld"
@@ -7439,7 +7457,8 @@ msgstr "20-Sys-SR-ld"
 msgid ""
 "20-Sys-SR-ld: 20 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "20-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1615
 msgid "21-Sys-SR-ld"
@@ -7449,7 +7468,8 @@ msgstr "21-Sys-SR-ld"
 msgid ""
 "21-Sys-SR-ld: 21 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "21-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1617
 msgid "22-Sys-SR-ld"
@@ -7459,7 +7479,8 @@ msgstr "22-Sys-SR-ld"
 msgid ""
 "22-Sys-SR-ld: 22 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "22-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1619
 msgid "23-Sys-SR-ld"
@@ -7469,7 +7490,8 @@ msgstr "23-Sys-SR-ld"
 msgid ""
 "23-Sys-SR-ld: 23 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "23-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1621
 msgid "24-Sys-SR-ld"
@@ -7479,7 +7501,8 @@ msgstr "24-Sys-SR-ld"
 msgid ""
 "24-Sys-SR-ld: 24 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "24-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1623
 msgid "25-Sys-SR-ld"
@@ -7489,7 +7512,8 @@ msgstr "25-Sys-SR-ld"
 msgid ""
 "25-Sys-SR-ld: 25 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "25-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1625
 msgid "26-Sys-SR-ld"
@@ -7499,7 +7523,8 @@ msgstr "26-Sys-SR-ld"
 msgid ""
 "26-Sys-SR-ld: 26 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "26-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1627
 msgid "27-Sys-SR-ld"
@@ -7509,7 +7534,8 @@ msgstr "27-Sys-SR-ld"
 msgid ""
 "27-Sys-SR-ld: 27 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "27-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1629
 msgid "28-Sys-SR-ld"
@@ -7519,7 +7545,8 @@ msgstr "28-Sys-SR-ld"
 msgid ""
 "28-Sys-SR-ld: 28 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "28-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1631
 msgid "29-Sys-SR-ld"
@@ -7529,7 +7556,8 @@ msgstr "29-Sys-SR-ld"
 msgid ""
 "29-Sys-SR-ld: 29 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "29-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1633
 msgid "30-Sys-SR-ld"
@@ -7539,7 +7567,8 @@ msgstr "30-Sys-SR-ld"
 msgid ""
 "30-Sys-SR-ld: 30 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "30-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1635
 msgid "31-Sys-SR-ld"
@@ -7549,7 +7578,8 @@ msgstr "31-Sys-SR-ld"
 msgid ""
 "31-Sys-SR-ld: 31 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "31-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1637
 msgid "32-Sys-SR-ld"
@@ -7559,7 +7589,8 @@ msgstr "32-Sys-SR-ld"
 msgid ""
 "32-Sys-SR-ld: 32 bits system shift right register with load input. Verilog "
 "implementation"
-msgstr ""
+msgstr "32-Sys-SR-ld: Registro de desplazamiento a la derecha del sistema con reset. "
+"Implementación en Verilog"
 
 #: translation.js:1640
 msgid "02-Sys-SR-ld-rst"
