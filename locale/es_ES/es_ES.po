@@ -2308,7 +2308,8 @@ msgstr "02-Sys-SLR-ld-rst"
 msgid ""
 "02-Sys-SLR-ld-rst: 2 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "02-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 2 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:439
 msgid "03-Sys-SLR-ld-rst"
@@ -2318,7 +2319,8 @@ msgstr "03-Sys-SLR-ld-rst"
 msgid ""
 "03-Sys-SLR-ld-rst: 3 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "03-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 3 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:441
 msgid "04-Sys-SLR-ld-rst"
@@ -2328,7 +2330,8 @@ msgstr "04-Sys-SLR-ld-rst"
 msgid ""
 "04-Sys-SLR-ld-rst: 4 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "04-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 4 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:443
 msgid "05-Sys-SLR-ld-rst"
@@ -2338,7 +2341,8 @@ msgstr "05-Sys-SLR-ld-rst"
 msgid ""
 "05-Sys-SLR-ld-rst: 5 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "05-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 5 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:445
 msgid "06-Sys-SLR-ld-rst"
@@ -2348,7 +2352,8 @@ msgstr "06-Sys-SLR-ld-rst"
 msgid ""
 "06-Sys-SLR-ld-rst: 6 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "06-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 6 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:447
 msgid "07-Sys-SLR-ld-rst"
@@ -2358,7 +2363,8 @@ msgstr "07-Sys-SLR-ld-rst"
 msgid ""
 "07-Sys-SLR-ld-rst: 7 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "07-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 7 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:449
 msgid "08-Sys-SLR-ld-rst"
@@ -2368,7 +2374,8 @@ msgstr "08-Sys-SLR-ld-rst"
 msgid ""
 "08-Sys-SLR-ld-rst: 8 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "08-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 8 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:451
 msgid "09-Sys-SLR-ld-rst"
@@ -2378,7 +2385,8 @@ msgstr "09-Sys-SLR-ld-rst"
 msgid ""
 "09-Sys-SLR-ld-rst: 9 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "09-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 9 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:453
 msgid "10-Sys-SLR-ld-rst"
@@ -2388,7 +2396,8 @@ msgstr "10-Sys-SLR-ld-rst"
 msgid ""
 "10-Sys-SLR-ld-rst: 10 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "10-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 10 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:455
 msgid "11-Sys-SLR-ld-rst"
@@ -2398,7 +2407,8 @@ msgstr "11-Sys-SLR-ld-rst"
 msgid ""
 "11-Sys-SLR-ld-rst: 11 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "11-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 11 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:457
 msgid "12-Sys-SLR-ld-rst"
@@ -2408,7 +2418,8 @@ msgstr "12-Sys-SLR-ld-rst"
 msgid ""
 "12-Sys-SLR-ld-rst: 12 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "12-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 12 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:459
 msgid "13-Sys-SLR-ld-rst"
@@ -2418,7 +2429,8 @@ msgstr "13-Sys-SLR-ld-rst"
 msgid ""
 "13-Sys-SLR-ld-rst: 13 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "13-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 13 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:461
 msgid "14-Sys-SLR-ld-rst"
@@ -2428,7 +2440,8 @@ msgstr "14-Sys-SLR-ld-rst"
 msgid ""
 "14-Sys-SLR-ld-rst: 14 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "14-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 14 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:463
 msgid "15-Sys-SLR-ld-rst"
@@ -2438,7 +2451,8 @@ msgstr "15-Sys-SLR-ld-rst"
 msgid ""
 "15-Sys-SLR-ld-rst: 15 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "15-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 15 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:465
 msgid "16-Sys-SLR-ld-rst"
@@ -2448,7 +2462,8 @@ msgstr "16-Sys-SLR-ld-rst"
 msgid ""
 "16-Sys-SLR-ld-rst: 16 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "16-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 16 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:467
 msgid "17-Sys-SLR-ld-rst"
@@ -2458,7 +2473,8 @@ msgstr "17-Sys-SLR-ld-rst"
 msgid ""
 "17-Sys-SLR-ld-rst: 17 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "17-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 17 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:469
 msgid "18-Sys-SLR-ld-rst"
@@ -2468,7 +2484,8 @@ msgstr "18-Sys-SLR-ld-rst"
 msgid ""
 "18-Sys-SLR-ld-rst: 18 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "18-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 18 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:471
 msgid "19-Sys-SLR-ld-rst"
@@ -2478,7 +2495,8 @@ msgstr "19-Sys-SLR-ld-rst"
 msgid ""
 "19-Sys-SLR-ld-rst: 19 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "19-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 19 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:473
 msgid "20-Sys-SLR-ld-rst"
@@ -2488,7 +2506,8 @@ msgstr "20-Sys-SLR-ld-rst"
 msgid ""
 "20-Sys-SLR-ld-rst: 20 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "20-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 20 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:475
 msgid "21-Sys-SLR-ld-rst"
@@ -2498,7 +2517,8 @@ msgstr "21-Sys-SLR-ld-rst"
 msgid ""
 "21-Sys-SLR-ld-rst: 21 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "21-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 21 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:477
 msgid "22-Sys-SLR-ld-rst"
@@ -2508,7 +2528,8 @@ msgstr "22-Sys-SLR-ld-rst"
 msgid ""
 "22-Sys-SLR-ld-rst: 22 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "22-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 22 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:479
 msgid "23-Sys-SLR-ld-rst"
@@ -2518,7 +2539,8 @@ msgstr "23-Sys-SLR-ld-rst"
 msgid ""
 "23-Sys-SLR-ld-rst: 23 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "23-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 23 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:481
 msgid "24-Sys-SLR-ld-rst"
@@ -2528,7 +2550,8 @@ msgstr "24-Sys-SLR-ld-rst"
 msgid ""
 "24-Sys-SLR-ld-rst: 24 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "24-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 24 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:483
 msgid "25-Sys-SLR-ld-rst"
@@ -2538,7 +2561,8 @@ msgstr "25-Sys-SLR-ld-rst"
 msgid ""
 "25-Sys-SLR-ld-rst: 25 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "25-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 25 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:485
 msgid "26-Sys-SLR-ld-rst"
@@ -2548,7 +2572,8 @@ msgstr "26-Sys-SLR-ld-rst"
 msgid ""
 "26-Sys-SLR-ld-rst: 26 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "26-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 26 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:487
 msgid "27-Sys-SLR-ld-rst"
@@ -2558,7 +2583,8 @@ msgstr "27-Sys-SLR-ld-rst"
 msgid ""
 "27-Sys-SLR-ld-rst: 27 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "27-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 27 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:489
 msgid "28-Sys-SLR-ld-rst"
@@ -2568,7 +2594,8 @@ msgstr "28-Sys-SLR-ld-rst"
 msgid ""
 "28-Sys-SLR-ld-rst: 28 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "28-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 28 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:491
 msgid "29-Sys-SLR-ld-rst"
@@ -2578,7 +2605,8 @@ msgstr "29-Sys-SLR-ld-rst"
 msgid ""
 "29-Sys-SLR-ld-rst: 29 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "29-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 29 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:493
 msgid "30-Sys-SLR-ld-rst"
@@ -2588,7 +2616,8 @@ msgstr "30-Sys-SLR-ld-rst"
 msgid ""
 "30-Sys-SLR-ld-rst: 30 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "30-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 30 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:495
 msgid "31-Sys-SLR-ld-rst"
@@ -2598,7 +2627,8 @@ msgstr "31-Sys-SLR-ld-rst"
 msgid ""
 "31-Sys-SLR-ld-rst: 31 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "31-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 31 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:497
 msgid "32-Sys-SLR-ld-rst"
@@ -2608,7 +2638,8 @@ msgstr "32-Sys-SLR-ld-rst"
 msgid ""
 "32-Sys-SLR-ld-rst: 32 bits system shift left right register with load and "
 "reset. Verilog implementation"
-msgstr ""
+msgstr "32-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de 32 bits, del sistema, con load y reset. "
+"Implementación en Verilog"
 
 #: translation.js:499
 msgid "02-Sys-SLR-ld-rst-imp1"

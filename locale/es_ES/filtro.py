@@ -128,8 +128,8 @@ def test(po):
         #-- Cadena match
         cad_match = f"""\
 msgid ""
-"{bits:02}-Sys-SLR-ld: {bits} bits system shift left right register with load input. "
-"Verilog implementation"\
+"{bits:02}-Sys-SLR-ld-rst: {bits} bits system shift left right register with load and "
+"reset. Verilog implementation"\
 """
 
 
@@ -142,7 +142,7 @@ msgstr ""
         #-- Cadena destino
         cad_target = f"""\
 {cad_match}
-msgstr "{bits:02}-Sys-SLR-ld: Registro de desplazamiento a la izquierda y derecha, de {bits} bits, del sistema, con load. "
+msgstr "{bits:02}-Sys-SLR-ld-rst: Registro de desplazamiento a la izquierda y derecha, de {bits} bits, del sistema, con load y reset. "
 "Implementación en Verilog"
 """
         print(cad_match)
@@ -217,7 +217,8 @@ with open("es_ES.po", "r") as f:
 
     #SYS-SLR 
     #Sys-SLR-rst 
-    #Sys-SLR-ld (TODO)
+    #Sys-SLR-ld 
+    #Sys-SLR-ld-rst (TODO)
     #SLR_rst
 
     
