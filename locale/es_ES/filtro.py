@@ -83,6 +83,42 @@ msgstr "{bits:02}-SLR-ld: Registro de desplazamiento izquierda-derecha "
     return po
 
 
+#-----------------------------------------
+#-- Añadir cadenas: "02-SLR-ld-rst: Descripcion"
+#-----------------------------------------
+def bits_SLR_ld_rst_description(po):
+
+    for bits in range(2,33):
+
+        #-- Cadena match
+        cad_match = f"""\
+msgid ""
+"{bits:02}-SLR-ld-rst: {bits} bits shift left right register with load and reset. Verilog "
+"implementation"\
+"""
+
+        #-- Cadena fuente
+        cad_src = f"""\
+{cad_match}
+msgstr ""
+"""  
+        #-- Cadena destino
+        cad_target = f"""\
+{cad_match}
+msgstr "{bits:02}-SLR-ld-rst: Registro de desplazamiento izquierda-derecha "
+"con load y reset. Implementación en Verilog"
+"""
+        print(cad_match)
+
+        #-- Reemplazar la cadena
+        po = po.replace(cad_src, cad_target)
+
+    #-- Devolver la cadena
+    return po
+
+
+
+
 #---------------------------------------
 #-- MAIN
 #---------------------------------------
@@ -95,7 +131,8 @@ with open("es_ES.po", "r") as f:
     #po = bits_SLR_description(po)
     #po = bits_id(po, "SLR-ld")
     #po = bits_SLR_ld_description(po)
-    po = bits_id(po, "SLR-ld-rst")
+    #po = bits_id(po, "SLR-ld-rst")
+    po = bits_SLR_ld_rst_description(po)
 
 
 #-- Escribir el fichero destino
