@@ -3309,7 +3309,8 @@ msgstr "02-SL-ld"
 
 #: translation.js:656
 msgid "02-SL-ld: 2 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "02-SL-ld: Registro de desplazamiento a la izquierda de 2 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:657
 msgid "03-SL-ld"
@@ -3317,7 +3318,8 @@ msgstr "03-SL-ld"
 
 #: translation.js:658
 msgid "03-SL-ld: 3 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "03-SL-ld: Registro de desplazamiento a la izquierda de 3 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:659
 msgid "04-SL-ld"
@@ -3325,7 +3327,8 @@ msgstr "04-SL-ld"
 
 #: translation.js:660
 msgid "04-SL-ld: 4 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "04-SL-ld: Registro de desplazamiento a la izquierda de 4 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:661
 msgid "05-SL-ld"
@@ -3333,7 +3336,8 @@ msgstr "05-SL-ld"
 
 #: translation.js:662
 msgid "05-SL-ld: 5 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "05-SL-ld: Registro de desplazamiento a la izquierda de 5 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:663
 msgid "06-SL-ld"
@@ -3341,7 +3345,8 @@ msgstr "06-SL-ld"
 
 #: translation.js:664
 msgid "06-SL-ld: 6 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "06-SL-ld: Registro de desplazamiento a la izquierda de 6 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:665
 msgid "07-SL-ld"
@@ -3349,7 +3354,8 @@ msgstr "07-SL-ld"
 
 #: translation.js:666
 msgid "07-SL-ld: 7 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "07-SL-ld: Registro de desplazamiento a la izquierda de 7 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:667
 msgid "08-SL-ld"
@@ -3357,7 +3363,8 @@ msgstr "08-SL-ld"
 
 #: translation.js:668
 msgid "08-SL-ld: 8 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "08-SL-ld: Registro de desplazamiento a la izquierda de 8 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:669
 msgid "09-SL-ld"
@@ -3365,7 +3372,8 @@ msgstr "09-SL-ld"
 
 #: translation.js:670
 msgid "09-SL-ld: 9 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "09-SL-ld: Registro de desplazamiento a la izquierda de 9 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:671
 msgid "10-SL-ld"
@@ -3373,7 +3381,8 @@ msgstr "10-SL-ld"
 
 #: translation.js:672
 msgid "10-SL-ld: 10 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "10-SL-ld: Registro de desplazamiento a la izquierda de 10 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:673
 msgid "11-SL-ld"
@@ -3381,7 +3390,8 @@ msgstr "11-SL-ld"
 
 #: translation.js:674
 msgid "11-SL-ld: 11 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "11-SL-ld: Registro de desplazamiento a la izquierda de 11 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:675
 msgid "12-SL-ld"
@@ -3389,7 +3399,8 @@ msgstr "12-SL-ld"
 
 #: translation.js:676
 msgid "12-SL-ld: 12 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "12-SL-ld: Registro de desplazamiento a la izquierda de 12 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:677
 msgid "13-SL-ld"
@@ -3397,7 +3408,8 @@ msgstr "13-SL-ld"
 
 #: translation.js:678
 msgid "13-SL-ld: 13 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "13-SL-ld: Registro de desplazamiento a la izquierda de 13 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:679
 msgid "14-SL-ld"
@@ -3405,7 +3417,8 @@ msgstr "14-SL-ld"
 
 #: translation.js:680
 msgid "14-SL-ld: 14 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "14-SL-ld: Registro de desplazamiento a la izquierda de 14 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:681
 msgid "15-SL-ld"
@@ -3413,7 +3426,8 @@ msgstr "15-SL-ld"
 
 #: translation.js:682
 msgid "15-SL-ld: 15 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "15-SL-ld: Registro de desplazamiento a la izquierda de 15 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:683
 msgid "16-SL-ld"
@@ -3421,7 +3435,8 @@ msgstr "16-SL-ld"
 
 #: translation.js:684
 msgid "16-SL-ld: 16 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "16-SL-ld: Registro de desplazamiento a la izquierda de 16 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:685
 msgid "17-SL-ld"
@@ -3429,7 +3444,8 @@ msgstr "17-SL-ld"
 
 #: translation.js:686
 msgid "17-SL-ld: 17 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "17-SL-ld: Registro de desplazamiento a la izquierda de 17 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:687
 msgid "18-SL-ld"
@@ -3437,7 +3453,8 @@ msgstr "18-SL-ld"
 
 #: translation.js:688
 msgid "18-SL-ld: 18 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "18-SL-ld: Registro de desplazamiento a la izquierda de 18 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:689
 msgid "19-SL-ld"
@@ -3445,7 +3462,8 @@ msgstr "19-SL-ld"
 
 #: translation.js:690
 msgid "19-SL-ld: 19 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "19-SL-ld: Registro de desplazamiento a la izquierda de 19 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:691
 msgid "20-SL-ld"
@@ -3453,7 +3471,8 @@ msgstr "20-SL-ld"
 
 #: translation.js:692
 msgid "20-SL-ld: 20 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "20-SL-ld: Registro de desplazamiento a la izquierda de 20 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:693
 msgid "21-SL-ld"
@@ -3461,7 +3480,8 @@ msgstr "21-SL-ld"
 
 #: translation.js:694
 msgid "21-SL-ld: 21 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "21-SL-ld: Registro de desplazamiento a la izquierda de 21 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:695
 msgid "22-SL-ld"
@@ -3469,7 +3489,8 @@ msgstr "22-SL-ld"
 
 #: translation.js:696
 msgid "22-SL-ld: 22 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "22-SL-ld: Registro de desplazamiento a la izquierda de 22 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:697
 msgid "23-SL-ld"
@@ -3477,7 +3498,8 @@ msgstr "23-SL-ld"
 
 #: translation.js:698
 msgid "23-SL-ld: 23 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "23-SL-ld: Registro de desplazamiento a la izquierda de 23 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:699
 msgid "24-SL-ld"
@@ -3485,7 +3507,8 @@ msgstr "24-SL-ld"
 
 #: translation.js:700
 msgid "24-SL-ld: 24 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "24-SL-ld: Registro de desplazamiento a la izquierda de 24 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:701
 msgid "25-SL-ld"
@@ -3493,7 +3516,8 @@ msgstr "25-SL-ld"
 
 #: translation.js:702
 msgid "25-SL-ld: 25 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "25-SL-ld: Registro de desplazamiento a la izquierda de 25 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:703
 msgid "26-SL-ld"
@@ -3501,7 +3525,8 @@ msgstr "26-SL-ld"
 
 #: translation.js:704
 msgid "26-SL-ld: 26 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "26-SL-ld: Registro de desplazamiento a la izquierda de 26 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:705
 msgid "27-SL-ld"
@@ -3509,7 +3534,8 @@ msgstr "27-SL-ld"
 
 #: translation.js:706
 msgid "27-SL-ld: 27 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "27-SL-ld: Registro de desplazamiento a la izquierda de 27 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:707
 msgid "28-SL-ld"
@@ -3517,7 +3543,8 @@ msgstr "28-SL-ld"
 
 #: translation.js:708
 msgid "28-SL-ld: 28 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "28-SL-ld: Registro de desplazamiento a la izquierda de 28 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:709
 msgid "29-SL-ld"
@@ -3525,7 +3552,8 @@ msgstr "29-SL-ld"
 
 #: translation.js:710
 msgid "29-SL-ld: 29 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "29-SL-ld: Registro de desplazamiento a la izquierda de 29 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:711
 msgid "30-SL-ld"
@@ -3533,7 +3561,8 @@ msgstr "30-SL-ld"
 
 #: translation.js:712
 msgid "30-SL-ld: 30 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "30-SL-ld: Registro de desplazamiento a la izquierda de 30 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:713
 msgid "31-SL-ld"
@@ -3541,7 +3570,8 @@ msgstr "31-SL-ld"
 
 #: translation.js:714
 msgid "31-SL-ld: 31 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "31-SL-ld: Registro de desplazamiento a la izquierda de 31 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:715
 msgid "32-SL-ld"
@@ -3549,7 +3579,8 @@ msgstr "32-SL-ld"
 
 #: translation.js:716
 msgid "32-SL-ld: 32 bits shift left register with load. Verilog implementation"
-msgstr ""
+msgstr "32-SL-ld: Registro de desplazamiento a la izquierda de 32 bits, con load. "
+"Implementación en Verilog"
 
 #: translation.js:718
 msgid "02-SL-ld-rst"
