@@ -1150,7 +1150,7 @@ msgstr ""
 
 #: translation.js:240
 msgid "02-SLR-rst"
-msgstr ""
+msgstr "02-SLR-rst"
 
 #: translation.js:241
 msgid ""
@@ -1160,7 +1160,7 @@ msgstr ""
 
 #: translation.js:242
 msgid "03-SLR-rst"
-msgstr ""
+msgstr "03-SLR-rst"
 
 #: translation.js:243
 msgid ""
@@ -1170,7 +1170,7 @@ msgstr ""
 
 #: translation.js:244
 msgid "04-SLR-rst"
-msgstr ""
+msgstr "04-SLR-rst"
 
 #: translation.js:245
 msgid ""
@@ -1180,7 +1180,7 @@ msgstr ""
 
 #: translation.js:246
 msgid "05-SLR-rst"
-msgstr ""
+msgstr "05-SLR-rst"
 
 #: translation.js:247
 msgid ""
@@ -1190,7 +1190,7 @@ msgstr ""
 
 #: translation.js:248
 msgid "06-SLR-rst"
-msgstr ""
+msgstr "06-SLR-rst"
 
 #: translation.js:249
 msgid ""
@@ -1200,7 +1200,7 @@ msgstr ""
 
 #: translation.js:250
 msgid "07-SLR-rst"
-msgstr ""
+msgstr "07-SLR-rst"
 
 #: translation.js:251
 msgid ""
@@ -1210,7 +1210,7 @@ msgstr ""
 
 #: translation.js:252
 msgid "08-SLR-rst"
-msgstr ""
+msgstr "08-SLR-rst"
 
 #: translation.js:253
 msgid ""
@@ -1220,7 +1220,7 @@ msgstr ""
 
 #: translation.js:254
 msgid "09-SLR-rst"
-msgstr ""
+msgstr "09-SLR-rst"
 
 #: translation.js:255
 msgid ""
@@ -1230,7 +1230,7 @@ msgstr ""
 
 #: translation.js:256
 msgid "10-SLR-rst"
-msgstr ""
+msgstr "10-SLR-rst"
 
 #: translation.js:257
 msgid ""
@@ -1240,7 +1240,7 @@ msgstr ""
 
 #: translation.js:258
 msgid "11-SLR-rst"
-msgstr ""
+msgstr "11-SLR-rst"
 
 #: translation.js:259
 msgid ""
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #: translation.js:260
 msgid "12-SLR-rst"
-msgstr ""
+msgstr "12-SLR-rst"
 
 #: translation.js:261
 msgid ""
@@ -1260,7 +1260,7 @@ msgstr ""
 
 #: translation.js:262
 msgid "13-SLR-rst"
-msgstr ""
+msgstr "13-SLR-rst"
 
 #: translation.js:263
 msgid ""
@@ -1270,7 +1270,7 @@ msgstr ""
 
 #: translation.js:264
 msgid "14-SLR-rst"
-msgstr ""
+msgstr "14-SLR-rst"
 
 #: translation.js:265
 msgid ""
@@ -1280,7 +1280,7 @@ msgstr ""
 
 #: translation.js:266
 msgid "15-SLR-rst"
-msgstr ""
+msgstr "15-SLR-rst"
 
 #: translation.js:267
 msgid ""
@@ -1290,7 +1290,7 @@ msgstr ""
 
 #: translation.js:268
 msgid "16-SLR-rst"
-msgstr ""
+msgstr "16-SLR-rst"
 
 #: translation.js:269
 msgid ""
@@ -1300,7 +1300,7 @@ msgstr ""
 
 #: translation.js:270
 msgid "17-SLR-rst"
-msgstr ""
+msgstr "17-SLR-rst"
 
 #: translation.js:271
 msgid ""
@@ -1310,7 +1310,7 @@ msgstr ""
 
 #: translation.js:272
 msgid "18-SLR-rst"
-msgstr ""
+msgstr "18-SLR-rst"
 
 #: translation.js:273
 msgid ""
@@ -1320,7 +1320,7 @@ msgstr ""
 
 #: translation.js:274
 msgid "19-SLR-rst"
-msgstr ""
+msgstr "19-SLR-rst"
 
 #: translation.js:275
 msgid ""
@@ -1330,7 +1330,7 @@ msgstr ""
 
 #: translation.js:276
 msgid "20-SLR-rst"
-msgstr ""
+msgstr "20-SLR-rst"
 
 #: translation.js:277
 msgid ""
@@ -1340,7 +1340,7 @@ msgstr ""
 
 #: translation.js:278
 msgid "21-SLR-rst"
-msgstr ""
+msgstr "21-SLR-rst"
 
 #: translation.js:279
 msgid ""
@@ -1350,7 +1350,7 @@ msgstr ""
 
 #: translation.js:280
 msgid "22-SLR-rst"
-msgstr ""
+msgstr "22-SLR-rst"
 
 #: translation.js:281
 msgid ""
@@ -1360,7 +1360,7 @@ msgstr ""
 
 #: translation.js:282
 msgid "23-SLR-rst"
-msgstr ""
+msgstr "23-SLR-rst"
 
 #: translation.js:283
 msgid ""
@@ -1370,7 +1370,7 @@ msgstr ""
 
 #: translation.js:284
 msgid "24-SLR-rst"
-msgstr ""
+msgstr "24-SLR-rst"
 
 #: translation.js:285
 msgid ""
@@ -1380,7 +1380,7 @@ msgstr ""
 
 #: translation.js:286
 msgid "25-SLR-rst"
-msgstr ""
+msgstr "25-SLR-rst"
 
 #: translation.js:287
 msgid ""
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #: translation.js:288
 msgid "26-SLR-rst"
-msgstr ""
+msgstr "26-SLR-rst"
 
 #: translation.js:289
 msgid ""
@@ -1400,7 +1400,7 @@ msgstr ""
 
 #: translation.js:290
 msgid "27-SLR-rst"
-msgstr ""
+msgstr "27-SLR-rst"
 
 #: translation.js:291
 msgid ""
@@ -1410,7 +1410,7 @@ msgstr ""
 
 #: translation.js:292
 msgid "28-SLR-rst"
-msgstr ""
+msgstr "28-SLR-rst"
 
 #: translation.js:293
 msgid ""
@@ -1420,7 +1420,7 @@ msgstr ""
 
 #: translation.js:294
 msgid "29-SLR-rst"
-msgstr ""
+msgstr "29-SLR-rst"
 
 #: translation.js:295
 msgid ""
@@ -1430,7 +1430,7 @@ msgstr ""
 
 #: translation.js:296
 msgid "30-SLR-rst"
-msgstr ""
+msgstr "30-SLR-rst"
 
 #: translation.js:297
 msgid ""
@@ -1440,7 +1440,7 @@ msgstr ""
 
 #: translation.js:298
 msgid "31-SLR-rst"
-msgstr ""
+msgstr "31-SLR-rst"
 
 #: translation.js:299
 msgid ""
@@ -1450,7 +1450,7 @@ msgstr ""
 
 #: translation.js:300
 msgid "32-SLR-rst"
-msgstr ""
+msgstr "32-SLR-rst"
 
 #: translation.js:301
 msgid ""
@@ -5665,7 +5665,7 @@ msgstr ""
 
 #: translation.js:1221
 msgid "02-SR"
-msgstr ""
+msgstr "02-SR"
 
 #: translation.js:1222
 msgid "02-SR: 2 bits shift right register. Verilog implementation"
@@ -5673,7 +5673,7 @@ msgstr ""
 
 #: translation.js:1223
 msgid "03-SR"
-msgstr ""
+msgstr "03-SR"
 
 #: translation.js:1224
 msgid "03-SR: 3 bits shift right register. Verilog implementation"
@@ -5681,7 +5681,7 @@ msgstr ""
 
 #: translation.js:1225
 msgid "04-SR"
-msgstr ""
+msgstr "04-SR"
 
 #: translation.js:1226
 msgid "04-SR: 4 bits shift right register. Verilog implementation"
@@ -5689,7 +5689,7 @@ msgstr ""
 
 #: translation.js:1227
 msgid "05-SR"
-msgstr ""
+msgstr "05-SR"
 
 #: translation.js:1228
 msgid "05-SR: 5 bits shift right register. Verilog implementation"
@@ -5697,7 +5697,7 @@ msgstr ""
 
 #: translation.js:1229
 msgid "06-SR"
-msgstr ""
+msgstr "06-SR"
 
 #: translation.js:1230
 msgid "06-SR: 6 bits shift right register. Verilog implementation"
@@ -5705,7 +5705,7 @@ msgstr ""
 
 #: translation.js:1231
 msgid "07-SR"
-msgstr ""
+msgstr "07-SR"
 
 #: translation.js:1232
 msgid "07-SR: 7 bits shift right register. Verilog implementation"
@@ -5713,7 +5713,7 @@ msgstr ""
 
 #: translation.js:1233
 msgid "08-SR"
-msgstr ""
+msgstr "08-SR"
 
 #: translation.js:1234
 msgid "08-SR: 8 bits shift right register. Verilog implementation"
@@ -5721,7 +5721,7 @@ msgstr ""
 
 #: translation.js:1235
 msgid "09-SR"
-msgstr ""
+msgstr "09-SR"
 
 #: translation.js:1236
 msgid "09-SR: 9 bits shift right register. Verilog implementation"
@@ -5729,7 +5729,7 @@ msgstr ""
 
 #: translation.js:1237
 msgid "10-SR"
-msgstr ""
+msgstr "10-SR"
 
 #: translation.js:1238
 msgid "10-SR: 10 bits shift right register. Verilog implementation"
@@ -5737,7 +5737,7 @@ msgstr ""
 
 #: translation.js:1239
 msgid "11-SR"
-msgstr ""
+msgstr "11-SR"
 
 #: translation.js:1240
 msgid "11-SR: 11 bits shift right register. Verilog implementation"
@@ -5745,7 +5745,7 @@ msgstr ""
 
 #: translation.js:1241
 msgid "12-SR"
-msgstr ""
+msgstr "12-SR"
 
 #: translation.js:1242
 msgid "12-SR: 12 bits shift right register. Verilog implementation"
@@ -5753,7 +5753,7 @@ msgstr ""
 
 #: translation.js:1243
 msgid "13-SR"
-msgstr ""
+msgstr "13-SR"
 
 #: translation.js:1244
 msgid "13-SR: 13 bits shift right register. Verilog implementation"
@@ -5761,7 +5761,7 @@ msgstr ""
 
 #: translation.js:1245
 msgid "14-SR"
-msgstr ""
+msgstr "14-SR"
 
 #: translation.js:1246
 msgid "14-SR: 14 bits shift right register. Verilog implementation"
@@ -5769,7 +5769,7 @@ msgstr ""
 
 #: translation.js:1247
 msgid "15-SR"
-msgstr ""
+msgstr "15-SR"
 
 #: translation.js:1248
 msgid "15-SR: 15 bits shift right register. Verilog implementation"
@@ -5777,7 +5777,7 @@ msgstr ""
 
 #: translation.js:1249
 msgid "16-SR"
-msgstr ""
+msgstr "16-SR"
 
 #: translation.js:1250
 msgid "16-SR: 16 bits shift right register. Verilog implementation"
@@ -5785,7 +5785,7 @@ msgstr ""
 
 #: translation.js:1251
 msgid "17-SR"
-msgstr ""
+msgstr "17-SR"
 
 #: translation.js:1252
 msgid "17-SR: 17 bits shift right register. Verilog implementation"
@@ -5793,7 +5793,7 @@ msgstr ""
 
 #: translation.js:1253
 msgid "18-SR"
-msgstr ""
+msgstr "18-SR"
 
 #: translation.js:1254
 msgid "18-SR: 18 bits shift right register. Verilog implementation"
@@ -5801,7 +5801,7 @@ msgstr ""
 
 #: translation.js:1255
 msgid "19-SR"
-msgstr ""
+msgstr "19-SR"
 
 #: translation.js:1256
 msgid "19-SR: 19 bits shift right register. Verilog implementation"
@@ -5809,7 +5809,7 @@ msgstr ""
 
 #: translation.js:1257
 msgid "20-SR"
-msgstr ""
+msgstr "20-SR"
 
 #: translation.js:1258
 msgid "20-SR: 20 bits shift right register. Verilog implementation"
@@ -5817,7 +5817,7 @@ msgstr ""
 
 #: translation.js:1259
 msgid "21-SR"
-msgstr ""
+msgstr "21-SR"
 
 #: translation.js:1260
 msgid "21-SR: 21 bits shift right register. Verilog implementation"
@@ -5825,7 +5825,7 @@ msgstr ""
 
 #: translation.js:1261
 msgid "22-SR"
-msgstr ""
+msgstr "22-SR"
 
 #: translation.js:1262
 msgid "22-SR: 22 bits shift right register. Verilog implementation"
@@ -5833,7 +5833,7 @@ msgstr ""
 
 #: translation.js:1263
 msgid "23-SR"
-msgstr ""
+msgstr "23-SR"
 
 #: translation.js:1264
 msgid "23-SR: 23 bits shift right register. Verilog implementation"
@@ -5841,7 +5841,7 @@ msgstr ""
 
 #: translation.js:1265
 msgid "24-SR"
-msgstr ""
+msgstr "24-SR"
 
 #: translation.js:1266
 msgid "24-SR: 24 bits shift right register. Verilog implementation"
@@ -5849,7 +5849,7 @@ msgstr ""
 
 #: translation.js:1267
 msgid "25-SR"
-msgstr ""
+msgstr "25-SR"
 
 #: translation.js:1268
 msgid "25-SR: 25 bits shift right register. Verilog implementation"
@@ -5857,7 +5857,7 @@ msgstr ""
 
 #: translation.js:1269
 msgid "26-SR"
-msgstr ""
+msgstr "26-SR"
 
 #: translation.js:1270
 msgid "26-SR: 26 bits shift right register. Verilog implementation"
@@ -5865,7 +5865,7 @@ msgstr ""
 
 #: translation.js:1271
 msgid "27-SR"
-msgstr ""
+msgstr "27-SR"
 
 #: translation.js:1272
 msgid "27-SR: 27 bits shift right register. Verilog implementation"
@@ -5873,7 +5873,7 @@ msgstr ""
 
 #: translation.js:1273
 msgid "28-SR"
-msgstr ""
+msgstr "28-SR"
 
 #: translation.js:1274
 msgid "28-SR: 28 bits shift right register. Verilog implementation"
@@ -5881,7 +5881,7 @@ msgstr ""
 
 #: translation.js:1275
 msgid "29-SR"
-msgstr ""
+msgstr "29-SR"
 
 #: translation.js:1276
 msgid "29-SR: 29 bits shift right register. Verilog implementation"
@@ -5889,7 +5889,7 @@ msgstr ""
 
 #: translation.js:1277
 msgid "30-SR"
-msgstr ""
+msgstr "30-SR"
 
 #: translation.js:1278
 msgid "30-SR: 30 bits shift right register. Verilog implementation"
@@ -5897,7 +5897,7 @@ msgstr ""
 
 #: translation.js:1279
 msgid "31-SR"
-msgstr ""
+msgstr "31-SR"
 
 #: translation.js:1280
 msgid "31-SR: 31 bits shift right register. Verilog implementation"
@@ -5905,7 +5905,7 @@ msgstr ""
 
 #: translation.js:1281
 msgid "32-SR"
-msgstr ""
+msgstr "32-SR"
 
 #: translation.js:1282
 msgid "32-SR: 32 bits shift right register. Verilog implementation"

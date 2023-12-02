@@ -128,11 +128,13 @@ with open("es_ES.po", "r") as f:
     po = f.read()
 
     #po = bits_id(po, "SLR")
-    #po = bits_SLR_description(po)
     #po = bits_id(po, "SLR-ld")
-    #po = bits_SLR_ld_description(po)
     #po = bits_id(po, "SLR-ld-rst")
-    po = bits_SLR_ld_rst_description(po)
+    #po = bits_id(po, "SLR-rst")
+    po = bits_id(po, "SR")
+    #po = bits_SLR_description(po)
+    #po = bits_SLR_ld_description(po)
+    #po = bits_SLR_ld_rst_description(po)
 
 
 #-- Escribir el fichero destino
