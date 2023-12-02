@@ -93,15 +93,27 @@ with open("es_ES.po", "r") as f:
     #po = bits_SLR_description(po)
     #po = bits_id(po, "SLR-ld")
    
+    bits = 2
+
+    #-- Cadena match
+    cad_match = f"""\
+msgid ""
+"{bits:02}-SLR-ld: {bits} bits shift left right register with load. Verilog implementation"\
+"""
+
     #-- Cadena fuente
     cad_src = f"""\
-msgid ""
-"02-SLR-ld: 2 bits shift left right register with load. Verilog implementation"
+{cad_match}
 msgstr ""
 """  
     #-- Cadena destino
-    cad_target = f"VAAAAAMOS!!!!"
-    print(cad_target)
+    cad_target = f"""\
+{cad_match}
+msgstr "{bits:02}-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
+"""
+
+    print(cad_match)
 
     #-- Reemplazar la cadena
     po = po.replace(cad_src, cad_target)
