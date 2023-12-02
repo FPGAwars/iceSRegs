@@ -127,7 +127,8 @@ def test(po):
 
         #-- Cadena match
         cad_match = f"""\
-msgid "{bits:02}-SL-rst: {bits} bits shift left register with resetVerilog implementation"\
+msgid ""
+"{bits:02}-SL-rst: {bits} bits shift left register with reset. Verilog implementation"\
 """
 
 
