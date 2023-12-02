@@ -3554,83 +3554,85 @@ msgstr "32-SL: Registro de desplazamiento a la izquierda de 32 bits. Implementac
 
 #: translation.js:852
 msgid "02-SL-rst-imp1"
-msgstr ""
+msgstr "02-SL-rst-imp1"
 
 #: translation.js:853
 msgid "02-SL-rst-imp1: 2 bits shift left register with reset. Block implementation 1"
-msgstr ""
+msgstr "02-SL-rst-imp1: Registro de desplazamiento a la izquierda de 2 bits, con  reset. Implementación con bloques 1"
 
 #: translation.js:854
 msgid "02-SL-rst-imp2"
-msgstr ""
+msgstr "02-SL-rst-imp2"
 
 #: translation.js:855
 msgid "02-SL-rst-imp2: 2 bits shift left register with reset. Block implementation 2"
-msgstr ""
+msgstr "02-SL-rst-imp2:  Registro de desplazamiento a la izquierda de 2 bits, con  reset. Implementación con bloques 2"
 
 #: translation.js:856
 msgid "04-SL-rst-imp1"
-msgstr ""
+msgstr "04-SL-rst-imp1"
 
 #: translation.js:857
 msgid "04-SL-rst-imp1: 4 bits shift left register with reset. Block implementation 1"
 msgstr ""
+"04-SL-ld-rst-imp1: Registro de desplazamiento a la izquierda de 4 bits, con load y reset. Implementación con bloques 1"
 
 #: translation.js:858
 msgid "04-Reg-rst: 4 bits Register with reset. Verilog implementation"
-msgstr ""
+msgstr "04-Reg-rst: Registro del sistema de 4-bits con reset. Implementación en Verilog"
 
 #: translation.js:859
 msgid "SL1-4-verilog: Shift  a 4-bit value one bit left. LSB is filled with "
-msgstr ""
+msgstr "SL1-4-verilog: Desplazar un valor de 4 bits un bit a la izquierda. LSB se rellena con "
 
 #: translation.js:860
 msgid "04-SL-rst-imp2"
-msgstr ""
+msgstr "04-SL-rst-imp2"
 
 #: translation.js:861
 msgid "04-SL-rst-imp2: 4 bits shift left register with reset. Block implementation 2"
 msgstr ""
+"04-SL-ld-rst-imp2: Registro de desplazamiento a la izquierda de 4 bits, con load y reset. Implementación con bloques 2"
 
 #: translation.js:862
 msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
-msgstr ""
+msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4-bits"
 
 #: translation.js:863
 msgid "02-SL-imp1"
-msgstr ""
+msgstr "02-SL-imp1"
 
 #: translation.js:864
 msgid "02-SL-imp1: 2 bits shift left register. Block implementation 1"
-msgstr ""
+msgstr "02-SL-imp1: Registro de desplazamiento a la izquierda de 2 bits. Implementación con bloques 1"
 
 #: translation.js:865
 msgid "02-SL-imp2"
-msgstr ""
+msgstr "02-SL-imp2"
 
 #: translation.js:866
 msgid "02-SL-imp2: 2 bits shift left register. Block implementation 2"
-msgstr ""
+msgstr "02-SL-imp2: Registro de desplazamiento a la izquierda de 2 bits. Implementación con bloques 2"
 
 #: translation.js:867
 msgid "04-SL-imp1"
-msgstr ""
+msgstr "04-SL-imp1"
 
 #: translation.js:868
 msgid "04-SL-imp1: 2 bits shift left register. Block implementation 1"
-msgstr ""
+msgstr "04-SL-imp1: Registro de desplazamiento a izquierda de 4 bits. Implementación con bloques 1"
 
 #: translation.js:869
 msgid "04-Reg: 4 bits Register. Verilog implementation"
-msgstr ""
+msgstr "04-Reg: Registro de 4-bits. Implementación en Verilog"
 
 #: translation.js:870
 msgid "04-SL-imp2"
-msgstr ""
+msgstr "04-SL-imp2"
 
 #: translation.js:871
 msgid "04-SL-imp2: 4 bits shift left register. Block implementation 2"
-msgstr ""
+msgstr "04-SL-imp2: Registro de desplazamiento a izquierda de 4 bits. Implementación con bloques 2"
 
 #: translation.js:873
 msgid "02-Sys-SL"
@@ -4475,35 +4477,43 @@ msgstr ""
 
 #: translation.js:1064
 msgid "02-Sys-SL-ld-rst-imp1"
-msgstr ""
+msgstr "02-Sys-SL-ld-rst-imp1"
 
 #: translation.js:1065
 msgid "02-Sys-SL-ld-rst-imp1: 2-bits System Shift register to the left, with load and reset. Block implementation 1"
 msgstr ""
+"02-Sys-SL-ld-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 2 bits, con reset y load. Implementación "
+"con bloques 1"
 
 #: translation.js:1066
 msgid ""
 "Combinational  \n"
 "Shift-left"
 msgstr ""
+"Desplazamiento combinacinal  \n"
+"a la izquierda"
 
 #: translation.js:1067
 msgid "Sys-reg-rst"
-msgstr ""
+msgstr "Sys-reg-rst"
 
 #: translation.js:1068
 msgid ""
 "Data to load from the  \n"
 "outside"
 msgstr ""
+"Datos a cargar desde  \n"
+"el exterior"
 
 #: translation.js:1069
 msgid "Shifted internal data"
 msgstr ""
+"Datos internos  \n"
+"desplazados"
 
 #: translation.js:1070
 msgid "Mux-2-1"
-msgstr ""
+msgstr "Mux-2-1"
 
 #: translation.js:1071
 msgid ""
@@ -4512,24 +4522,32 @@ msgid ""
 "* load=0: Shifted data\n"
 "* load=1: External data"
 msgstr ""
+"Seleccionar qué dato cargar  \n"
+"en el registro:\n"
+"* load=0: Dato desplazado\n"
+"* load=1: Dato externo"
 
 #: translation.js:1072
 msgid "02-Sys-SL-ld-rst-imp2"
-msgstr ""
+msgstr "02-Sys-SLR-ld-rst-imp2"
 
 #: translation.js:1073
 msgid "02-Sys-SL-ld-rst-imp2: 2-bits System Shift register to the left, with load and reset. Block implementation 2"
 msgstr ""
+"02-Sys-SL-ld-rst-imp2: Registro de desplazamiento a izquierda y derecha del sistema, de 2 bits, con reset y load. "
+"Implementación con bloques 2"
 
 #: translation.js:1074
 msgid ""
 "Sys-DFF-ld-rst-verilog. System - D Flip-flop. Capture data every system clock cycle. from input si. If load is active, "
 "the data is captured from the d input. Reset input. Verilog implementation"
 msgstr ""
+"Sys-DFF-ld-rst-verilog. Biestable D del sistema. Captura datos en cada ciclo del sistema de la entrada si. Si load está "
+"activo, los datos se capturan de la entrada d. Entrada de reset. Implementación en Verilog"
 
 #: translation.js:1075
 msgid "Input data (serial)"
-msgstr ""
+msgstr "Dato de entrada (Serie)"
 
 #: translation.js:1076
 msgid ""
@@ -4541,124 +4559,147 @@ msgid ""
 "data is captured from input d  \n"
 "Reset input"
 msgstr ""
+"# Biestable D (Sistema) con load y reset  \n"
+"\n"
+"Almacena el dato de entrada que llega en el ciclo n  \n"
+"Su salida se muestra en el ciclo n+1  \n"
+"El dato se captura de la entrada si. Si load está activo  \n"
+"el dato se captura de la entrada d  \n"
+"Entrada de reset"
 
 #: translation.js:1077
 msgid "Input data (Paralell)"
-msgstr ""
+msgstr "Dato de entrada (Paralelo)"
 
 #: translation.js:1078
 msgid "Load control"
-msgstr ""
+msgstr "Control de carga"
 
 #: translation.js:1079
 msgid "04-Sys-SL-ld-rst-imp1"
-msgstr ""
+msgstr "04-Sys-SL-ld-rst-imp1"
 
 #: translation.js:1080
 msgid "04-Sys-SL-ld-rst-imp1: 4-bits System Shift register to the left, with load and reset. Block implementation 1"
 msgstr ""
+"04-Sys-SL-ld-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 4 bits, con reset y load. Implementación "
+"con bloques 1"
 
 #: translation.js:1081
 msgid "2-to-1 Multplexer (4-bit channels). Verilog implementation"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 4-bits). Implementación en Verilog"
 
 #: translation.js:1082
 msgid "04-Sys-reg-rst: 4 bits system register with reset. Verilog implementation"
-msgstr ""
+msgstr "04-Sys-reg-rst: Registro del sistema de 4-bits con reset. Implementación en Verilog"
 
 #: translation.js:1083
 msgid "04-Sys-SL-ld-rst-imp2"
-msgstr ""
+msgstr "04-Sys-SLR-ld-rst-imp2"
 
 #: translation.js:1084
 msgid "04-Sys-SL-ld-rst-imp2: 4-bits System Shift register to the left, with load and reset. Block implementation 2"
 msgstr ""
+"04-Sys-SL-ld-rst-imp2: Registro de desplazamiento a izquierda y derecha del sistema, de 4 bits, con reset y load. "
+"Implementación con bloques 2"
 
 #: translation.js:1085
 msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
-msgstr ""
+msgstr "Bus4-Split-all: Separar un bus de 4-bits en su cables"
 
 #: translation.js:1086
 msgid "08-Sys-SL-ld-rst-imp1"
-msgstr ""
+msgstr "08-Sys-SL-ld-rst-imp1"
 
 #: translation.js:1087
 msgid "08-Sys-SL-ld-rst-imp1: 8-bits System Shift register to the left, with load and reset. Block implementation 1"
 msgstr ""
+"08-Sys-SL-ld-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 8 bits, con reset y load. Implementación "
+"con bloques 1"
 
 #: translation.js:1088
 msgid "2-to-1 Multplexer (8-bit channels). Verilog implementation"
-msgstr ""
+msgstr "Multiplexor 2-1 (canales de 8 bits). Implementación en Verilog"
 
 #: translation.js:1089
 msgid "SL1-8-verilog: Shift  a 8-bit value one bit left. LSB is filled with "
-msgstr ""
+msgstr "SL1-1-8-verilog: Desplazar un valor de 8 bits un bit a la izquierda. LSB se rellena con "
 
 #: translation.js:1090
 msgid "08-Sys-reg-rst: 8 bits system register with reset. Verilog implementation"
-msgstr ""
+msgstr "08-Sys-reg-rst: Registro del sistema de 8-bits con reset. Implementación en Verilog"
 
 #: translation.js:1091
 msgid "16-Sys-SL-ld-rst-imp1"
-msgstr ""
+msgstr "16-Sys-SL-ld"
 
 #: translation.js:1092
 msgid "16-Sys-SL-ld-rst-imp1: 16-bits System Shift register to the left, with load and reset. Block implementation 1"
 msgstr ""
+"16-Sys-SL-ld-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 16 bits, con reset y load. Implementación "
+"con bloques 1"
 
 #: translation.js:1093
 msgid "2-to-1 Multplexer (16-bit channels). Verilog implementation"
-msgstr ""
+msgstr "Multiplexor 2-1 (canales de 16-bits). Implementación en Verilog"
 
 #: translation.js:1094
 msgid "SL1-16-verilog: Shift  a 16-bit value one bit left. LSB is filled with "
-msgstr ""
+msgstr "SL1-16-verilog: Desplazar un valor de 16 bits un bit a la izquierda. LSB se rellena con "
 
 #: translation.js:1095
 msgid "16-Sys-reg-rst: 16 bits system register with reset. Verilog implementation"
-msgstr ""
+msgstr "16-Sys-reg-rst: Registro del sistema de 16-bits con reset. Implementación en Verilog"
 
 #: translation.js:1096
 msgid "32-Sys-SL-ld-rst-imp1"
-msgstr ""
+msgstr "32-Sys-SL-ld-rst-imp1"
 
 #: translation.js:1097
 msgid "32-Sys-SL-ld-rst-imp1: 32-bits System Shift register to the left, with load and reset. Block implementation 1"
 msgstr ""
+"32-Sys-SL-ld-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 32 bits, con reset y load. Implementación "
+"con bloques 1"
 
 #: translation.js:1098
 msgid "2-to-1 Multplexer (32-bit channels). Verilog implementation"
-msgstr ""
+msgstr "Multiplexor 2-1 (canales de 32-bits). Implementación en Verilog"
 
 #: translation.js:1099
 msgid "SL1-32-verilog: Shift  a 32-bit value one bit left. LSB is filled with "
-msgstr ""
+msgstr "SL1-32-verilog: Desplazar un valor de 32 bits un bit a la izquierda. LSB se rellena con "
 
 #: translation.js:1100
 msgid "32-Sys-reg-rst: 32 bits system register with reset. Verilog implementation"
-msgstr ""
+msgstr "32-Sys-reg-rst: Registro del sistema de 32-bits con reset. Implementación en Verilog"
 
 #: translation.js:1101
 msgid "02-Sys-SL-ld-imp1"
-msgstr ""
+msgstr "02-Sys-SLR-ld-imp1"
 
 #: translation.js:1102
 msgid "02-Sys-SL-ld-imp1: 2-bits System Shift register to the left, with load. Block implementation 1"
 msgstr ""
+"02-Sys-SL-ld-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 2 bits, con reset y load. Implementación "
+"con bloques 1"
 
 #: translation.js:1103
 msgid "02-Sys-SL-ld-imp2"
-msgstr ""
+msgstr "02-Sys-SLR-ld-imp2"
 
 #: translation.js:1104
 msgid "02-Sys-SL-ld-imp2: 2-bits System Shift register to the left, with load. Block implementation 2"
 msgstr ""
+"02-Sys-SL-ld-rst-imp2: Registro de desplazamiento a izquierda y derecha del sistema, de 2 bits, con reset y load. "
+"Implementación con bloques 2"
 
 #: translation.js:1105
 msgid ""
 "Sys-DFF-ld-verilog. System - D Flip-flop. Capture data every system clock cycle. from input si. If load is active, the "
 "data is captured from the d input. Verilog implementation"
 msgstr ""
+"Sys-DFF-ld-verilog. Biestable D del sistema. Captura datos en cada ciclo del sistema de la entrada si. Si load está "
+"activo, los datos se capturan de la entrada d.  Implementación en Verilog"
 
 #: translation.js:1106
 msgid ""
@@ -4669,62 +4710,74 @@ msgid ""
 "The data is captured from input si. If load is active the  \n"
 "data is captured from input d"
 msgstr ""
+"# Biestable D (Sistema) con carga  \n"
+"\n"
+"Almacena el dato de entrada que llega en el ciclo n  \n"
+"Su salida se muestra en el ciclo n+1  \n"
+"El dato se captura de la entrada si. Si load está activo  \n"
+"el dato se captura de la entrada d"
 
 #: translation.js:1107
 msgid "04-Sys-SL-ld-imp1"
-msgstr ""
+msgstr "02-Sys-SLR-ld-imp1"
 
 #: translation.js:1108
 msgid "04-Sys-SL-ld-imp1: 4-bits System Shift register to the left, with load. Block implementation 1"
 msgstr ""
+"04-Sys-SL-ld-imp1: Registro de desplazamiento a izquierda del sistema, de 4 bits, con load. Implementación con bloques 1"
 
 #: translation.js:1109
 msgid "04-Sys-reg: 4 bits system register. Verilog implementation"
-msgstr ""
+msgstr "04-Sys-reg: Registro del sistema de 4-bits. Implementación en Verilog"
 
 #: translation.js:1110
 msgid "04-Sys-SL-ld-imp2"
-msgstr ""
+msgstr "04-Sys-SLR-ld-imp2"
 
 #: translation.js:1111
 msgid "04-Sys-SL-ld-imp2: 4-bits System Shift register to the left, with load. Block implementation 2"
 msgstr ""
+"04-Sys-SL-ld-imp2: Registro de desplazamiento a izquierda y derecha del sistema, de 4 bits, con load. Implementación con "
+"bloques 2"
 
 #: translation.js:1112
 msgid "08-Sys-SL-ld-imp1"
-msgstr ""
+msgstr "02-Sys-SLR-ld-imp1"
 
 #: translation.js:1113
 msgid "08-Sys-SL-ld-imp1: 8-bits System Shift register to the left, with load. Block implementation 1"
 msgstr ""
+"08-Sys-SL-ld-imp1: Registro de desplazamiento a izquierda del sistema, de 8 bits, con load. Implementación con bloques 1"
 
 #: translation.js:1114
 msgid "08-Sys-reg: 8 bits system register. Verilog implementation"
-msgstr ""
+msgstr "08-Sys-reg: Registro del sistema de 8-bits. Implementación en Verilog"
 
 #: translation.js:1115
 msgid "16-Sys-SL-ld-imp1"
-msgstr ""
+msgstr "16-Sys-SLR-ld-imp1"
 
 #: translation.js:1116
 msgid "16-Sys-SL-ld-imp1: 16-bits System Shift register to the left, with load. Block implementation 1"
 msgstr ""
+"16-Sys-SL-ld-imp1: Registro de desplazamiento a izquierda del sistema, de 16 bits, con load. Implementación con bloques 1"
 
 #: translation.js:1117
 msgid "16-Sys-reg: 16 bits system register. Verilog implementation"
-msgstr ""
+msgstr "16-Sys-reg: Registro del sistema de 16-bits. Implementación en Verilog"
 
 #: translation.js:1118
 msgid "32-Sys-SL-ld-imp1"
-msgstr ""
+msgstr "32-Sys-SL-ld-imp1"
 
 #: translation.js:1119
 msgid "32-Sys-SL-ld-imp1: 32-bits System Shift register to the left, with load. Block implementation 1"
 msgstr ""
+"32-Sys-SL-ld-imp1: Registro de desplazamiento a izquierda del sistema, de 32 bits, con load. Implementación con bloques 1"
 
 #: translation.js:1120
 msgid "32-Sys-reg: 32 bits system register. Verilog implementation"
-msgstr ""
+msgstr "32-Sys-reg: Registro del sistema de 32-bits. Implementación en Verilog"
 
 #: translation.js:1122
 msgid "02-Sys-SL-rst"
@@ -5895,99 +5948,114 @@ msgstr "32-SR-ld-rst: Registro de desplazamiento a la derecha con load y reset, 
 
 #: translation.js:1409
 msgid "02-SR-ld-rst-imp1"
-msgstr ""
+msgstr "02-SR-ld-rst-imp1"
 
 #: translation.js:1410
 msgid "SR-ld-rst-02-imp1: Shift register to the right, with load and reset.  Block implementation 1"
 msgstr ""
+"SR-ld-rst-02-imp1: Registr de desplazamiento a la derecha, de 2 bits, con load y reset. Implementación con bloques 1"
 
 #: translation.js:1411
 msgid "02-SR-ld-rst-imp2"
-msgstr ""
+msgstr "02-SR-ld-rst-imp2"
 
 #: translation.js:1412
 msgid "SR-ld-rst-02-imp2: Shift register to the right, with load.  Block implementation 2"
 msgstr ""
+"SR-ld-rst-02-imp1: Registr de desplazamiento a la derecha, de 2 bits, con load y reset. Implementación con bloques 1"
 
 #: translation.js:1413
 msgid "D Flip-Flop with load and reset. Implemented in verilog"
-msgstr ""
+msgstr "Biestable D con  load y reset. Implementación en Verilog"
 
 #: translation.js:1414
 msgid "04-SR-ld-rst-imp1"
-msgstr ""
+msgstr "04-SR-ld-rst-imp1"
 
 #: translation.js:1415
 msgid "SR-ld-rst-04-imp1: Shift register to the right, with load and reset.  Block implementation 1"
 msgstr ""
+"SR-ld-rst-04-imp1: Registr de desplazamiento a la derecha, de 4 bits, con load y reset. Implementación con bloques 1"
 
 #: translation.js:1416
 msgid "Reg-rst-4-verilog: 4-bits Register with load and reset inputs. Verilog implementation"
-msgstr ""
+msgstr "Reg-rst-04-verilog: Registro de 4 bits con entradas de load y reset. Implementación en Verilog"
 
 #: translation.js:1417
 msgid "SR1-4bits-verilog: Shift  a 4-bit value one bit right. MSB is filled with in. Verilog implementation"
 msgstr ""
+"SR1-4bits-verilog: Desplazar un valor de 4-bits un bit a la derecha. MSB se rellena con la entrada in. Implementación en "
+"Verilog"
 
 #: translation.js:1418
 msgid "04-SR-ld-rst-imp2"
-msgstr ""
+msgstr "04-SR-ld-rst-imp2"
 
 #: translation.js:1419
 msgid "SR-ld-rst-04-imp2: Shift register to the right, with load.  Block implementation 2"
 msgstr ""
+"SR-ld-rst-04-imp2: Registro de desplazamiento a la derecha, de 4 bits, con load y reset. Implementación con bloques 2"
 
 #: translation.js:1420
 msgid "08-SR-ld-rst-imp1"
-msgstr ""
+msgstr "08-SR-ld-rst-imp1"
 
 #: translation.js:1421
 msgid "SR-ld-rst-08-imp1: Shift register to the right, with load and reset.  Block implementation 1"
 msgstr ""
+"SR-ld-rst-08-imp1: Registr de desplazamiento a la derecha, de 8 bits, con load y reset. Implementación con bloques 1"
 
 #: translation.js:1422
 msgid "Reg-rst-8-verilog: 8-bits Register with load and reset inputs. Verilog implementation"
-msgstr ""
+msgstr "Reg-rst-8-verilog: Registro de 8 bits con entradas de load y reset. Implementacion en verilog"
 
 #: translation.js:1423
 msgid "SR1-8bits-verilog: Shift  a 8-bit value one bit right. MSB is filled with in. Verilog implementation"
 msgstr ""
+"SR1-8bits-verilog: Desplazar un valor de 8-bits un bit a la derecha. MSB se rellena con la entrada in. Implementación en "
+"Verilog"
 
 #: translation.js:1424
 msgid "16-SR-ld-rst-imp1"
-msgstr ""
+msgstr "16-SR-ld-rst-imp1"
 
 #: translation.js:1425
 msgid "SR-ld-rst-16-imp1: Shift register to the right, with load and reset.  Block implementation 1"
 msgstr ""
+"SR-ld-rst-16-imp1: Registr de desplazamiento a la derecha, de 16 bits, con load y reset. Implementación con bloques 1"
 
 #: translation.js:1426
 msgid "SR1-16bits-verilog: Shift  a 16-bit value one bit right. MSB is filled with in. Verilog implementation"
 msgstr ""
+"SR1-16bits-verilog: Desplazar un valor de 16-bits un bit a la derecha. MSB se rellena con la entrada in. Implementación "
+"en Verilog"
 
 #: translation.js:1427
 msgid "Reg-rst-16-verilog: 16-bits Register with load and reset inputs. Verilog implementation"
-msgstr ""
+msgstr "Reg-rst-16-verilog: Registro de 16 bits con entradas de load y reset. Implementación en Verilog"
 
 #: translation.js:1428
 msgid "32-SR-ld-rst-imp1"
-msgstr ""
+msgstr "32-SR-ld-rst-imp1"
 
 #: translation.js:1429
 msgid "SR-ld-rst-32-imp1: Shift register to the right, with load and reset.  Block implementation 1"
 msgstr ""
+"SR-ld-rst-32-imp1: Registr de desplazamiento a la derecha, de 32 bits, con load y reset. Implementación con bloques 1"
 
 #: translation.js:1430
 msgid "SR1-32bits-verilog: Shift  a 32-bit value one bit right. MSB is filled with in. Verilog implementation"
 msgstr ""
+"SR1-32bits-verilog: Desplazar un valor de 32-bits un bit a la derecha. MSB se rellena con la entrada in. Implementación "
+"en Verilog"
 
 #: translation.js:1431
 msgid "Reg-rst-32-verilog: 32-bits Register with load and reset inputs. Verilog implementation"
-msgstr ""
+msgstr "Reg-rst-32-verilog: Registro de 32 bits con entradas de load y reset. Implementación en Verilog"
 
 #: translation.js:1432
 msgid "02-SR-ld-imp1"
-msgstr ""
+msgstr "02-SR-ld-imp1"
 
 #: translation.js:1433
 msgid "02-SR-ld-imp1: Shift register to the right, with load.  Block implementation 1"
