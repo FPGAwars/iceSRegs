@@ -203,6 +203,7 @@ with open("es_ES.po", "r") as f:
     #SR
     #SR-rst
     #SR-ld
+    #SR-ld-rst (TODO)
 
     po = test(po)
 
