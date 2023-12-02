@@ -139,8 +139,8 @@ msgstr ""
         #-- Cadena destino
         cad_target = f"""\
 {cad_match}
-msgstr "{bits:02}-SLR-ld-rst: Registro de desplazamiento izquierda-derecha "
-"con load y reset. Implementación en Verilog"
+msgstr "{bits:02}-SLR-rst: Registro de desplazamiento izquierda-derecha "
+"con reset. Implementación en Verilog"
 """
         print(cad_match)
 
