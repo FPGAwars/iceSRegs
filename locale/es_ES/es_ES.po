@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-01 10:26+0100\n"
+"POT-Creation-Date: 2023-12-02 08:04+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -181,7 +181,13 @@ msgstr "11-SLR"
 msgid "11-SLR: 11 bits shift left right register. Verilog implementation"
 msgstr ""
 
-#: translation.js:50 translation.js:51
+#: translation.js:50
+#, fuzzy
+#| msgid "02-SLR"
+msgid "12-SLR"
+msgstr "02-SLR"
+
+#: translation.js:51
 msgid "12-SLR: 12 bits shift left right register. Verilog implementation"
 msgstr ""
 
@@ -8312,16 +8318,15 @@ msgid ""
 "implementation 1"
 msgstr ""
 
-#: translation.js:1824 translation.js:1844 translation.js:1937
-#: translation.js:2103
+#: translation.js:1824 translation.js:1844
 msgid "01-Sys-SR-2bits-unary-counter"
 msgstr ""
 
-#: translation.js:1825 translation.js:1939 translation.js:1943
+#: translation.js:1825 translation.js:1938
 msgid "02-Sys-SR-8bits-unary-counter"
 msgstr ""
 
-#: translation.js:1827 translation.js:1953 translation.js:1961
+#: translation.js:1827 translation.js:1950
 msgid "04-Sys-SR-ld-paralell-serial"
 msgstr ""
 
@@ -8329,11 +8334,11 @@ msgstr ""
 msgid "05-Sys-SR-ld-paralell-serial"
 msgstr ""
 
-#: translation.js:1829 translation.js:1977 translation.js:1988
+#: translation.js:1829 translation.js:1972
 msgid "06-Sys-SR-ld-serial-addition"
 msgstr ""
 
-#: translation.js:1830 translation.js:1990 translation.js:1994
+#: translation.js:1830 translation.js:1984
 msgid "07-SR-manual-unary-counter"
 msgstr ""
 
@@ -8345,19 +8350,19 @@ msgstr ""
 msgid "09-SR-ld-serial-tx-rx"
 msgstr ""
 
-#: translation.js:1833 translation.js:2063 translation.js:2066
+#: translation.js:1833 translation.js:2052
 msgid "10-SR-ld-rst-serial-tx-rx-loop"
 msgstr ""
 
-#: translation.js:1834 translation.js:2068 translation.js:2104
+#: translation.js:1834 translation.js:2056
 msgid "11-SRL-manual-unary-counter-up-down"
 msgstr ""
 
-#: translation.js:1835 translation.js:2077 translation.js:2105
+#: translation.js:1835 translation.js:2065
 msgid "12-SRL-rst-up-down-progress-bar"
 msgstr ""
 
-#: translation.js:1836 translation.js:2102
+#: translation.js:1836
 msgid "00-Index"
 msgstr ""
 
@@ -8385,10 +8390,10 @@ msgstr ""
 msgid "## Left-Right"
 msgstr ""
 
-#: translation.js:1843 translation.js:1938 translation.js:1944
-#: translation.js:1952 translation.js:1962 translation.js:1976
-#: translation.js:1989 translation.js:1995 translation.js:2040
-#: translation.js:2062 translation.js:2067 translation.js:2076
+#: translation.js:1843 translation.js:1937 translation.js:1942
+#: translation.js:1949 translation.js:1958 translation.js:1971
+#: translation.js:1983 translation.js:1988 translation.js:2030
+#: translation.js:2051 translation.js:2055 translation.js:2064
 msgid "Alhambra-II"
 msgstr ""
 
@@ -8865,14 +8870,14 @@ msgid ""
 "displayed"
 msgstr ""
 
-#: translation.js:1940
+#: translation.js:1939
 msgid ""
 "## Example 2: Sys-SR Register: 8-bits unary counter\n"
 "\n"
 "The data from the shif register is captured by a data OSCILOSCOPE "
 msgstr ""
 
-#: translation.js:1941
+#: translation.js:1940
 msgid ""
 "| Cycle    | 0        | 1        | 2        | 3        | 4        | 5        "
 "| 6        | 7        |\n"
@@ -8881,7 +8886,7 @@ msgid ""
 "| 11111110 | 11111111 |\n"
 msgstr ""
 
-#: translation.js:1942
+#: translation.js:1941
 msgid ""
 "## Meassure with LEDOSCOPE-data\n"
 "\n"
@@ -8889,22 +8894,22 @@ msgid ""
 "(cycles 0-7)"
 msgstr ""
 
-#: translation.js:1945 translation.js:1951
+#: translation.js:1943
 msgid "03-Sys-SR-rst-2bits-module-3-unary-counter"
 msgstr ""
 
-#: translation.js:1946
+#: translation.js:1944
 msgid ""
 "## Example 3: Sys-SR reset Register: 2-bits module-3 unary counter\n"
 "\n"
 "The data from the shif register is captured by a data OSCILOSCOPE "
 msgstr ""
 
-#: translation.js:1947
+#: translation.js:1945
 msgid "Sys-Shit-Right-reset"
 msgstr ""
 
-#: translation.js:1948
+#: translation.js:1946
 msgid ""
 "| Cycle    | 0  | 1  | 2  | 3  | 4 | 5 | 6 | 7 |\n"
 "|----------|----|----|----|----|---|---|---|---|\n"
@@ -8912,7 +8917,7 @@ msgid ""
 "| reset    |  0 |  0 |  1 |  0 |  0|  1|  0|  0|\n"
 msgstr ""
 
-#: translation.js:1949
+#: translation.js:1947
 msgid ""
 "## Meassure with LEDOSCOPE-data\n"
 "\n"
@@ -8920,19 +8925,19 @@ msgid ""
 "(cycles 0-7)"
 msgstr ""
 
-#: translation.js:1950
+#: translation.js:1948
 msgid ""
 "The registers least significant bit is used as  \n"
 "the reset signal"
 msgstr ""
 
-#: translation.js:1954
+#: translation.js:1951
 msgid ""
 "03-Uint08: 3 bits unsigned integer extension to 8 bits. Verilog "
 "implementation"
 msgstr ""
 
-#: translation.js:1955
+#: translation.js:1952
 msgid ""
 "## Example 4: Sys-SR load Register: Paralell to serial conversion\n"
 "\n"
@@ -8946,11 +8951,11 @@ msgid ""
 "The data from the shif register is captured by a data OSCILOSCOPE "
 msgstr ""
 
-#: translation.js:1956
+#: translation.js:1953
 msgid "Sys-Shit-Right-load"
 msgstr ""
 
-#: translation.js:1957
+#: translation.js:1954
 msgid ""
 "| Cycle    | 0   | 1   | 2  | 3  | 4 | 5 | 6 | 7 |\n"
 "|----------|-----|-----|----|----|---|---|---|---|\n"
@@ -8958,7 +8963,7 @@ msgid ""
 "| load     |  1  |  0  |  0 |  1 |  0|  0|  0|  0|\n"
 msgstr ""
 
-#: translation.js:1958
+#: translation.js:1955
 msgid ""
 "Convert the 3-bit value to  \n"
 "an 8-bit value (The most  \n"
@@ -8966,30 +8971,30 @@ msgid ""
 "with 0)"
 msgstr ""
 
-#: translation.js:1959
+#: translation.js:1956
 msgid "Values to be converted to serial"
 msgstr ""
 
-#: translation.js:1960
+#: translation.js:1957
 msgid ""
 "## Controller\n"
 "\n"
 "It actives the load signal on cycles 0 and 3"
 msgstr ""
 
-#: translation.js:1963 translation.js:1975
+#: translation.js:1959
 msgid "05-Sys-SR-ld-serial-paralell"
 msgstr ""
 
-#: translation.js:1964
+#: translation.js:1960
 msgid "3bits constant value: 0"
 msgstr ""
 
-#: translation.js:1965
+#: translation.js:1961
 msgid "Bus7-Split-all: Split the 7-bits bus into its wires"
 msgstr ""
 
-#: translation.js:1966
+#: translation.js:1962
 msgid ""
 "## Example 5: Sys-SR load Register: Serial to paralell conversion\n"
 "\n"
@@ -9013,7 +9018,7 @@ msgid ""
 "After 7 cycles the values 1 and 2 are stored on regs 1 and 2 respectivelly"
 msgstr ""
 
-#: translation.js:1967
+#: translation.js:1963
 msgid ""
 "| Cycle    | 0       | 1       | 2      | 3      | 4     | 5     | 6     | "
 "7     |\n"
@@ -9030,56 +9035,56 @@ msgid ""
 "**111**   |\n"
 msgstr ""
 
-#: translation.js:1968
+#: translation.js:1964
 msgid ""
 "## Controller\n"
 "\n"
 "It actives the load signal on cycles 3 and 6"
 msgstr ""
 
-#: translation.js:1969
+#: translation.js:1965
 msgid "Serial transmission"
 msgstr ""
 
-#: translation.js:1970
+#: translation.js:1966
 msgid "TX reg: Serial transmitter"
 msgstr ""
 
-#: translation.js:1971
+#: translation.js:1967
 msgid "RX reg: Serial receiver"
 msgstr ""
 
-#: translation.js:1972
+#: translation.js:1968
 msgid "Paralell data"
 msgstr ""
 
-#: translation.js:1973
+#: translation.js:1969
 msgid "Reg1: It stores the Value 1"
 msgstr ""
 
-#: translation.js:1974
+#: translation.js:1970
 msgid "Reg2: It stores the Value 2"
 msgstr ""
 
-#: translation.js:1978
+#: translation.js:1973
 msgid "4bits constant value: 0"
 msgstr ""
 
-#: translation.js:1979
+#: translation.js:1974
 msgid "Generic: 4-bits generic constant (0-15)"
 msgstr ""
 
-#: translation.js:1980
+#: translation.js:1975
 msgid "Bus5-Split-all: Split the 5-bits bus into its wires"
 msgstr ""
 
-#: translation.js:1981
+#: translation.js:1976
 msgid ""
 "04-Uint08: 4 bits unsigned integer extension to 8 bits. Verilog "
 "implementation"
 msgstr ""
 
-#: translation.js:1982
+#: translation.js:1977
 msgid ""
 "## Example 6: Sys-SR load Register: Serial addition\n"
 "\n"
@@ -9091,7 +9096,7 @@ msgid ""
 "After 4 cycles the result is displayed on the LEDs"
 msgstr ""
 
-#: translation.js:1983
+#: translation.js:1978
 msgid ""
 "Convert the 4-bit value to  \n"
 "an 8-bit value (The most  \n"
@@ -9099,113 +9104,113 @@ msgid ""
 "with 0)"
 msgstr ""
 
-#: translation.js:1984
+#: translation.js:1979
 msgid ""
 "## Controller\n"
 "\n"
 "It actives the load signal on cycle 4"
 msgstr ""
 
-#: translation.js:1985
+#: translation.js:1980
 msgid "Result in paralell"
 msgstr ""
 
-#: translation.js:1986
+#: translation.js:1981
 msgid "Previous carry bit"
 msgstr ""
 
-#: translation.js:1987
+#: translation.js:1982
 msgid "Serial adder"
 msgstr ""
 
-#: translation.js:1991
+#: translation.js:1985
 msgid ""
 "## Example 7: SR Register: 4-bits Manual Unary counter\n"
 "\n"
 "The unary counter is increased by one when the button is pressed"
 msgstr ""
 
-#: translation.js:1992
+#: translation.js:1986
 msgid "Shift Right register"
 msgstr ""
 
-#: translation.js:1993
+#: translation.js:1987
 msgid "4-bits Unary counter"
 msgstr ""
 
-#: translation.js:1996 translation.js:2039
+#: translation.js:1989
 msgid "08-SR-rst-module5-unary"
 msgstr ""
 
-#: translation.js:1997
+#: translation.js:1990
 msgid "Simplified-Heart-tic-hz-sys-32bits: Nominal periodic signal in hz"
 msgstr ""
 
-#: translation.js:1998
+#: translation.js:1991
 msgid "Unit-hz-32bits: hz to cycles converter"
 msgstr ""
 
-#: translation.js:1999
+#: translation.js:1992
 msgid ""
 "Heart-sys-zero-32bits: Generate a periodic signal of period T cycles. It "
 "starts at cycle 0. It never stops"
 msgstr ""
 
-#: translation.js:2000
+#: translation.js:1993
 msgid "Sys-Delay-xN-32bits: The input tic is delayed N cycles"
 msgstr ""
 
-#: translation.js:2001
+#: translation.js:1994
 msgid "Counter-M-x32: 32-bits M module counter with reset"
 msgstr ""
 
-#: translation.js:2002
+#: translation.js:1995
 msgid "Inc1-32bit: Increment a 32-bits number by one"
 msgstr ""
 
-#: translation.js:2003
+#: translation.js:1996
 msgid "AdderK-32bit: Adder of 32-bit operand and 32-bit constant"
 msgstr ""
 
-#: translation.js:2004
+#: translation.js:1997
 msgid "Generic: 32-bits generic constant"
 msgstr ""
 
-#: translation.js:2005
+#: translation.js:1998
 msgid "Adder-32bits: Adder of two operands of 32 bits"
 msgstr ""
 
-#: translation.js:2006
+#: translation.js:1999
 msgid "Bus24-Join-8-16: Join the two buses into an 24-bits Bus"
 msgstr ""
 
-#: translation.js:2007
+#: translation.js:2000
 msgid ""
 "Bus32-Split-8-24: Split the 28-bits bus into two buses of 8 and 24 wires"
 msgstr ""
 
-#: translation.js:2008
+#: translation.js:2001
 msgid ""
 "Bus24-Split-16-8: Split the 24-bits bus into two buses of 16 and 8 wires"
 msgstr ""
 
-#: translation.js:2009
+#: translation.js:2002
 msgid "Bus32-Join-8-24: Join the two buses into an 32-bits Bus"
 msgstr ""
 
-#: translation.js:2010
+#: translation.js:2003
 msgid ""
 "Geu-32-Bits_v: 32-bit Unsigned Greather than or equal comparator. Verilog "
 "implementation"
 msgstr ""
 
-#: translation.js:2011
+#: translation.js:2004
 msgid ""
 "start: Start signal: It goes from 1 to 0 when the system clock starts. 1 "
 "cycle pulse witch. Block implementation"
 msgstr ""
 
-#: translation.js:2012
+#: translation.js:2005
 msgid ""
 "## Example 8: SR-rst Register: Module 5 Unary counter \n"
 "\n"
@@ -9213,145 +9218,137 @@ msgid ""
 "When it reaches `1111` it restarts from 0"
 msgstr ""
 
-#: translation.js:2013
+#: translation.js:2006
 msgid ""
 "When the unary counter reaches its  \n"
 "maximum value, it is reset, starting again  \n"
 "from 0. It is reset in the next second"
 msgstr ""
 
-#: translation.js:2014
+#: translation.js:2007
 msgid "Emits 1 tic every second"
 msgstr ""
 
-#: translation.js:2015
+#: translation.js:2008
 msgid "Input parameter: Milieconds  "
 msgstr ""
 
-#: translation.js:2016
+#: translation.js:2009
 msgid ""
 "Input parameter:  \n"
 "System Frequency"
 msgstr ""
 
-#: translation.js:2017
+#: translation.js:2010
 msgid "Delay"
 msgstr ""
 
-#: translation.js:2018
+#: translation.js:2011
 msgid "Start a new period"
 msgstr ""
 
-#: translation.js:2019
+#: translation.js:2012
 msgid "Start at cycle 0!"
 msgstr ""
 
-#: translation.js:2020
+#: translation.js:2013
 msgid "Repeat!"
 msgstr ""
 
-#: translation.js:2021
+#: translation.js:2014
 msgid ""
 "Current period ended  \n"
 "Start a new one"
 msgstr ""
 
-#: translation.js:2022
+#: translation.js:2015
 msgid "Periodo (in system clock cycles)"
 msgstr ""
 
-#: translation.js:2023
+#: translation.js:2016
 msgid ""
 "Current cycle in the period  \n"
 "(0-T-1)"
 msgstr ""
 
-#: translation.js:2024
+#: translation.js:2017
 msgid "Cycles to delay"
 msgstr ""
 
-#: translation.js:2025
+#: translation.js:2018
 msgid "Delay finished!"
 msgstr ""
 
-#: translation.js:2026
+#: translation.js:2019
 msgid "Machine state: ON/OFF"
 msgstr ""
 
-#: translation.js:2027
+#: translation.js:2020
 msgid "RS Flip-Flop"
 msgstr ""
 
-#: translation.js:2028
+#: translation.js:2021
 msgid ""
 "Circuit state:  \n"
 "* ON: working (1)\n"
 "* OFF: Not working (0)"
 msgstr ""
 
-#: translation.js:2029
+#: translation.js:2022
 msgid ""
 "The counter has reached  \n"
 "the number of cycles  \n"
 "to delay"
 msgstr ""
 
-#: translation.js:2030
+#: translation.js:2023
 msgid ""
 "Maximum count  \n"
 "reached"
 msgstr ""
 
-#: translation.js:2031
+#: translation.js:2024
 msgid "32-bits register"
 msgstr ""
 
-#: translation.js:2032
+#: translation.js:2025
 msgid ""
 "If the max count is reached  \n"
 "and the cnt tic is received,  \n"
 "the register is reset to 0"
 msgstr ""
 
-#: translation.js:2033
+#: translation.js:2026
 msgid "External reset"
 msgstr ""
 
-#: translation.js:2034
+#: translation.js:2027
 msgid "Initial value: 1"
 msgstr ""
 
-#: translation.js:2035
+#: translation.js:2028
 msgid "Initial value: 0"
 msgstr ""
 
-#: translation.js:2036
+#: translation.js:2029
 msgid "Falling edge"
 msgstr ""
 
-#: translation.js:2037
-msgid "08-SR-rst-manual-unary-counter-module-4"
-msgstr ""
-
-#: translation.js:2038
-msgid "08-SR-rst-manual-unary-counter-module-5"
-msgstr ""
-
-#: translation.js:2041 translation.js:2061
+#: translation.js:2031
 msgid "09-SR-ld-serial-tx"
 msgstr ""
 
-#: translation.js:2042
+#: translation.js:2032
 msgid "OR-BUS4-verilog: OR gate with 4-bits bus input. Verilog implementation"
 msgstr ""
 
-#: translation.js:2043
+#: translation.js:2033
 msgid ""
 "TFF-verilog. System TFF with toggle input: It toogles on every system cycle "
 "if the input is active. Verilog implementation"
 msgstr ""
 
-#: translation.js:2044
+#: translation.js:2034
 msgid ""
 "## Example 9: SR-ld Register: Serial transmitter-receiver\n"
 "\n"
@@ -9359,85 +9356,85 @@ msgid ""
 "The recived data is shown on the LEDs.\n"
 msgstr ""
 
-#: translation.js:2045
+#: translation.js:2035
 msgid "Initial state:  Load"
 msgstr ""
 
-#: translation.js:2046
+#: translation.js:2036
 msgid "Next stages: Shift"
 msgstr ""
 
-#: translation.js:2047
+#: translation.js:2037
 msgid "## Transmitter"
 msgstr ""
 
-#: translation.js:2048
+#: translation.js:2038
 msgid "## Timming generator"
 msgstr ""
 
-#: translation.js:2049
+#: translation.js:2039
 msgid "Data to transmit"
 msgstr ""
 
-#: translation.js:2050
+#: translation.js:2040
 msgid "Serial LINE"
 msgstr ""
 
-#: translation.js:2051
+#: translation.js:2041
 msgid "## Receiver"
 msgstr ""
 
-#: translation.js:2052
+#: translation.js:2042
 msgid ""
 "Parallel to serial  \n"
 "conversion"
 msgstr ""
 
-#: translation.js:2053
+#: translation.js:2043
 msgid ""
 "Serial to parallel  \n"
 "conversion"
 msgstr ""
 
-#: translation.js:2054
+#: translation.js:2044
 msgid ""
 "Received  \n"
 "DATA"
 msgstr ""
 
-#: translation.js:2055
+#: translation.js:2045
 msgid ""
 "Show the received  \n"
 "data on the LEDs"
 msgstr ""
 
-#: translation.js:2056
+#: translation.js:2046
 msgid ""
 "Show the data beign  \n"
 "transmited on the LEDs"
 msgstr ""
 
-#: translation.js:2057
+#: translation.js:2047
 msgid "## Controller"
 msgstr ""
 
-#: translation.js:2058
+#: translation.js:2048
 msgid ""
 "Last state: capture  \n"
 "the received data"
 msgstr ""
 
-#: translation.js:2059
+#: translation.js:2049
 msgid ""
 "Load the transmitter with the  \n"
 "data to transmit"
 msgstr ""
 
-#: translation.js:2060
+#: translation.js:2050
 msgid "Shift the transmitter/receiver"
 msgstr ""
 
-#: translation.js:2064
+#: translation.js:2053
 msgid ""
 "## Example 10: SR-ld-rst Register: Serial transmitter-receiver\n"
 "\n"
@@ -9445,15 +9442,15 @@ msgid ""
 "The recived data is shown on the LEDs. This cycle is repeated indefinitelly\n"
 msgstr ""
 
-#: translation.js:2065
+#: translation.js:2054
 msgid "State: Shift"
 msgstr ""
 
-#: translation.js:2069
+#: translation.js:2057
 msgid "A standard 2-to-1 encoder with nz (not-zero) output"
 msgstr ""
 
-#: translation.js:2070
+#: translation.js:2058
 msgid ""
 "## Example 11: SLR Register: 4-bits Manual up down Unary counter\n"
 "\n"
@@ -9461,28 +9458,28 @@ msgid ""
 "buttons respectivelly"
 msgstr ""
 
-#: translation.js:2071
+#: translation.js:2059
 msgid "Shift Left Right register"
 msgstr ""
 
-#: translation.js:2072
+#: translation.js:2060
 msgid "2-1 encoder"
 msgstr ""
 
-#: translation.js:2073
+#: translation.js:2061
 msgid ""
 "Shift left or right:  \n"
 "* 1: Shift left (dec)\n"
 "* 0: Shift right (inc)"
 msgstr ""
 
-#: translation.js:2074
+#: translation.js:2062
 msgid ""
 "Update the counter  \n"
 "on every button pushed"
 msgstr ""
 
-#: translation.js:2075
+#: translation.js:2063
 msgid ""
 "## Truth table\n"
 "\n"
@@ -9494,66 +9491,66 @@ msgid ""
 "| 1  | 1  |  1  | 1  |"
 msgstr ""
 
-#: translation.js:2078
+#: translation.js:2066
 msgid ""
 "Simplified-Heart-tic-ms-sys-32bits: Nominal periodic signal in mili seconds"
 msgstr ""
 
-#: translation.js:2079
+#: translation.js:2067
 msgid ""
 "start: Start signal: It goes from 1 to 0 when the system clock starts. 1 "
 "cycle pulse witch"
 msgstr ""
 
-#: translation.js:2080
+#: translation.js:2068
 msgid "System - D Flip-flop. Capture data every system clock cycle"
 msgstr ""
 
-#: translation.js:2081
+#: translation.js:2069
 msgid "RS-FF-set. RS Flip-flop with priority set"
 msgstr ""
 
-#: translation.js:2082
+#: translation.js:2070
 msgid "2-to-1 Multplexer (1-bit channels)"
 msgstr ""
 
-#: translation.js:2083
+#: translation.js:2071
 msgid "Reg-rst-32: 32 bits Register with load and reset inputs"
 msgstr ""
 
-#: translation.js:2084
+#: translation.js:2072
 msgid "Sys-reg-rst-32: 32 bits system register with reset"
 msgstr ""
 
-#: translation.js:2085
+#: translation.js:2073
 msgid "2-to-1 Multplexer (32-bit channels)"
 msgstr ""
 
-#: translation.js:2086
+#: translation.js:2074
 msgid "2-to-1 Multplexer (8-bit channels)"
 msgstr ""
 
-#: translation.js:2087
+#: translation.js:2075
 msgid "2-to-1 Multplexer (4-bit channels)"
 msgstr ""
 
-#: translation.js:2088
+#: translation.js:2076
 msgid "Bus32-Join-quarter: Join the four buses into an 32-bits Bus"
 msgstr ""
 
-#: translation.js:2089
+#: translation.js:2077
 msgid "Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires"
 msgstr ""
 
-#: translation.js:2090
+#: translation.js:2078
 msgid "Sys-reg-32: 32 bits system register"
 msgstr ""
 
-#: translation.js:2091
+#: translation.js:2079
 msgid "Unit-ms-32bits: ms to cycles converter"
 msgstr ""
 
-#: translation.js:2092
+#: translation.js:2080
 msgid ""
 "## Example 12: SLR-rst Register: 4-bits up down progress bar\n"
 "\n"
@@ -9562,40 +9559,40 @@ msgid ""
 "This cycle is repeated forever"
 msgstr ""
 
-#: translation.js:2093
+#: translation.js:2081
 msgid "Transition 1: MAX value reached"
 msgstr ""
 
-#: translation.js:2094
+#: translation.js:2082
 msgid "Transition 2: Min value reached"
 msgstr ""
 
-#: translation.js:2095
+#: translation.js:2083
 msgid "Next state"
 msgstr ""
 
-#: translation.js:2096
+#: translation.js:2084
 msgid ""
 "Transitions can only ocurr when  \n"
 "the update signal is active"
 msgstr ""
 
-#: translation.js:2097
+#: translation.js:2085
 msgid "Circuit refresh period"
 msgstr ""
 
-#: translation.js:2098
+#: translation.js:2086
 msgid "## Circuit controller"
 msgstr ""
 
-#: translation.js:2099
+#: translation.js:2087
 msgid "Priority on set"
 msgstr ""
 
-#: translation.js:2100
+#: translation.js:2088
 msgid "Channel B"
 msgstr ""
 
-#: translation.js:2101
+#: translation.js:2089
 msgid "Channel A"
 msgstr ""
