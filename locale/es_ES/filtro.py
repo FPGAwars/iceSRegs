@@ -93,8 +93,8 @@ def bits_SLR_ld_rst_description(po):
         #-- Cadena match
         cad_match = f"""\
 msgid ""
-"{bits:02}-SLR-ld-rst: {bits} bits shift left right register with load and reset. Verilog "
-"implementation"\
+"{bits:02}-SLR-ld-rst: {bits} bits shift left right register with load and reset. "
+"Verilog implementation"\
 """
 
         #-- Cadena fuente
