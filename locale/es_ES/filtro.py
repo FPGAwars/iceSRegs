@@ -128,10 +128,20 @@ with open("es_ES.po", "r") as f:
     po = f.read()
 
     #po = bits_id(po, "SLR")
+    #po = bits_id(po, "SLR-rst")
     #po = bits_id(po, "SLR-ld")
     #po = bits_id(po, "SLR-ld-rst")
-    #po = bits_id(po, "SLR-rst")
-    po = bits_id(po, "SR")
+   
+    #po = bits_id(po, "SR")
+    po = bits_id(po, "SR-rst")
+    po = bits_id(po, "SR-ld")
+    po = bits_id(po, "SR-ld-rst")
+
+    po = bits_id(po, "SL")
+    po = bits_id(po, "SL-rst")
+    po = bits_id(po, "SL-ld")
+    po = bits_id(po, "SL-ld-rst")
+
     #po = bits_SLR_description(po)
     #po = bits_SLR_ld_description(po)
     #po = bits_SLR_ld_rst_description(po)
