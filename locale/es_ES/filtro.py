@@ -127,20 +127,31 @@ msgstr "{bits:02}-SLR-ld-rst: Registro de desplazamiento izquierda-derecha "
 with open("es_ES.po", "r") as f:
     po = f.read()
 
-    po = bits_id(po, "Sys-SR")
-    po = bits_id(po, "Sys-SR-rst")
-    po = bits_id(po, "Sys-SR-ld")
-    po = bits_id(po, "Sys-SR-ld-rst")
+    #po = bits_id(po, "Sys-SR")
+    #po = bits_id(po, "Sys-SR-rst")
+    #po = bits_id(po, "Sys-SR-ld")
+    #po = bits_id(po, "Sys-SR-ld-rst")
    
     #po = bits_id(po, "SR")
     #po = bits_id(po, "SR-rst")
     #po = bits_id(po, "SR-ld")
     #po = bits_id(po, "SR-ld-rst")
 
+    po = bits_id(po, "Sys-SL")
+    po = bits_id(po, "Sys-SL-rst")
+    po = bits_id(po, "Sys-SL-ld")
+    po = bits_id(po, "Sys-SL-ld-rst")
+
     #po = bits_id(po, "SL")
     #po = bits_id(po, "SL-rst")
     #po = bits_id(po, "SL-ld")
     #po = bits_id(po, "SL-ld-rst")
+
+
+    po = bits_id(po, "Sys-SLR")
+    po = bits_id(po, "Sys-SLR-rst")
+    po = bits_id(po, "Sys-SLR-ld")
+    po = bits_id(po, "Sys-SLR-ld-rst")
 
     #po = bits_id(po, "SLR")
     #po = bits_id(po, "SLR-rst")
