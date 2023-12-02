@@ -127,8 +127,9 @@ def test(po):
 
         #-- Cadena match
         cad_match = f"""\
-msgid "{bits:02}-SL: {bits} bits shift left register. Verilog implementation"\
+msgid "{bits:02}-SL-rst: {bits} bits shift left register with resetVerilog implementation"\
 """
+
 
         #-- Cadena fuente
         cad_src = f"""\
@@ -205,6 +206,7 @@ with open("es_ES.po", "r") as f:
     #SR-ld-rst
 
     #SL
+    #SL-rst
 
     po = test(po)
 
