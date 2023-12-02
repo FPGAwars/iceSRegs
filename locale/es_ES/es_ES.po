@@ -387,7 +387,8 @@ msgstr "02-SLR-ld"
 #: translation.js:94
 msgid ""
 "02-SLR-ld: 2 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "02-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:95
 msgid "03-SLR-ld"
@@ -396,7 +397,8 @@ msgstr "03-SLR-ld"
 #: translation.js:96
 msgid ""
 "03-SLR-ld: 3 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "03-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:97
 msgid "04-SLR-ld"
@@ -405,7 +407,8 @@ msgstr "04-SLR-ld"
 #: translation.js:98
 msgid ""
 "04-SLR-ld: 4 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "04-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:99
 msgid "05-SLR-ld"
@@ -414,7 +417,8 @@ msgstr "05-SLR-ld"
 #: translation.js:100
 msgid ""
 "05-SLR-ld: 5 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "05-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:101
 msgid "06-SLR-ld"
@@ -423,7 +427,8 @@ msgstr "06-SLR-ld"
 #: translation.js:102
 msgid ""
 "06-SLR-ld: 6 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "06-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:103
 msgid "07-SLR-ld"
@@ -432,7 +437,8 @@ msgstr "07-SLR-ld"
 #: translation.js:104
 msgid ""
 "07-SLR-ld: 7 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "07-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:105
 msgid "08-SLR-ld"
@@ -441,7 +447,8 @@ msgstr "08-SLR-ld"
 #: translation.js:106
 msgid ""
 "08-SLR-ld: 8 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "08-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:107
 msgid "09-SLR-ld"
@@ -450,7 +457,8 @@ msgstr "09-SLR-ld"
 #: translation.js:108
 msgid ""
 "09-SLR-ld: 9 bits shift left right register with load. Verilog implementation"
-msgstr ""
+msgstr "09-SLR-ld: Registro de desplazamiento izquierda-derecha "
+"con load. Implementación en Verilog"
 
 #: translation.js:109
 msgid "10-SLR-ld"
