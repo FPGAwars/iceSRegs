@@ -107,7 +107,8 @@ msgstr "02-SLR"
 
 #: translation.js:31
 msgid "02-SLR: 2 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "02-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:32
 msgid "03-SLR"
@@ -115,7 +116,8 @@ msgstr "03-SLR"
 
 #: translation.js:33
 msgid "03-SLR: 3 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "03-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:34
 msgid "04-SLR"
@@ -123,7 +125,8 @@ msgstr "04-SLR"
 
 #: translation.js:35
 msgid "04-SLR: 4 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "04-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:36
 msgid "05-SLR"
@@ -131,7 +134,8 @@ msgstr "05-SLR"
 
 #: translation.js:37
 msgid "05-SLR: 5 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "05-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:38
 msgid "06-SLR"
@@ -139,7 +143,8 @@ msgstr "06-SLR"
 
 #: translation.js:39
 msgid "06-SLR: 6 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "06-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:40
 msgid "07-SLR"
@@ -147,7 +152,8 @@ msgstr "07-SLR"
 
 #: translation.js:41
 msgid "07-SLR: 7 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "07-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:42
 msgid "08-SLR"
@@ -155,7 +161,8 @@ msgstr "08-SLR"
 
 #: translation.js:43
 msgid "08-SLR: 8 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "08-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:44
 msgid "09-SLR"
@@ -163,7 +170,8 @@ msgstr "09-SLR"
 
 #: translation.js:45
 msgid "09-SLR: 9 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "09-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:46
 msgid "10-SLR"
@@ -171,7 +179,8 @@ msgstr "10-SLR"
 
 #: translation.js:47
 msgid "10-SLR: 10 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "10-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:48
 msgid "11-SLR"
@@ -179,7 +188,8 @@ msgstr "11-SLR"
 
 #: translation.js:49
 msgid "11-SLR: 11 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "11-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:50
 msgid "12-SLR"
@@ -187,7 +197,8 @@ msgstr "12-SLR"
 
 #: translation.js:51
 msgid "12-SLR: 12 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "12-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:52
 msgid "13-SLR"
@@ -195,7 +206,8 @@ msgstr "13-SLR"
 
 #: translation.js:53
 msgid "13-SLR: 13 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "13-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:54
 msgid "14-SLR"
@@ -203,7 +215,8 @@ msgstr "14-SLR"
 
 #: translation.js:55
 msgid "14-SLR: 14 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "14-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:56
 msgid "15-SLR"
@@ -211,7 +224,8 @@ msgstr "15-SLR"
 
 #: translation.js:57
 msgid "15-SLR: 15 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "15-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:58
 msgid "16-SLR"
@@ -219,7 +233,8 @@ msgstr "16-SLR"
 
 #: translation.js:59
 msgid "16-SLR: 16 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "16-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:60
 msgid "17-SLR"
@@ -227,7 +242,8 @@ msgstr "17-SLR"
 
 #: translation.js:61
 msgid "17-SLR: 17 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "17-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:62
 msgid "18-SLR"
@@ -235,7 +251,8 @@ msgstr "18-SLR"
 
 #: translation.js:63
 msgid "18-SLR: 18 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "18-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:64
 msgid "19-SLR"
@@ -243,7 +260,8 @@ msgstr "19-SLR"
 
 #: translation.js:65
 msgid "19-SLR: 19 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "19-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:66
 msgid "20-SLR"
@@ -251,7 +269,8 @@ msgstr "20-SLR"
 
 #: translation.js:67
 msgid "20-SLR: 20 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "20-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:68
 msgid "21-SLR"
@@ -259,7 +278,8 @@ msgstr "21-SLR"
 
 #: translation.js:69
 msgid "21-SLR: 21 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "21-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:70
 msgid "22-SLR"
@@ -267,7 +287,8 @@ msgstr "22-SLR"
 
 #: translation.js:71
 msgid "22-SLR: 22 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "22-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:72
 msgid "23-SLR"
@@ -275,7 +296,8 @@ msgstr "23-SLR"
 
 #: translation.js:73
 msgid "23-SLR: 23 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "23-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:74
 msgid "24-SLR"
@@ -283,7 +305,8 @@ msgstr "24-SLR"
 
 #: translation.js:75
 msgid "24-SLR: 24 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "24-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:76
 msgid "25-SLR"
@@ -291,7 +314,8 @@ msgstr "25-SLR"
 
 #: translation.js:77
 msgid "25-SLR: 25 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "25-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:78
 msgid "26-SLR"
@@ -299,7 +323,8 @@ msgstr "26-SLR"
 
 #: translation.js:79
 msgid "26-SLR: 26 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "26-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:80
 msgid "27-SLR"
@@ -307,7 +332,8 @@ msgstr "27-SLR"
 
 #: translation.js:81
 msgid "27-SLR: 27 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "27-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:82
 msgid "28-SLR"
@@ -315,7 +341,8 @@ msgstr "28-SLR"
 
 #: translation.js:83
 msgid "28-SLR: 28 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "28-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:84
 msgid "29-SLR"
@@ -323,7 +350,8 @@ msgstr "29-SLR"
 
 #: translation.js:85
 msgid "29-SLR: 29 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "29-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:86
 msgid "30-SLR"
@@ -331,7 +359,8 @@ msgstr "30-SLR"
 
 #: translation.js:87
 msgid "30-SLR: 30 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "30-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:88
 msgid "31-SLR"
@@ -339,7 +368,8 @@ msgstr "31-SLR"
 
 #: translation.js:89
 msgid "31-SLR: 31 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "31-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:90
 msgid "32-SLR"
@@ -347,7 +377,8 @@ msgstr "32-SLR"
 
 #: translation.js:91
 msgid "32-SLR: 32 bits shift left right register. Verilog implementation"
-msgstr ""
+msgstr "32-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
+"Implementación en verilog"
 
 #: translation.js:93
 msgid "02-SLR-ld"
