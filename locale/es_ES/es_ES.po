@@ -6978,7 +6978,8 @@ msgstr "02-Sys-SR"
 
 #: translation.js:1515
 msgid "02-Sys-SR: 2 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "02-Sys-SR: 2 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1516
 msgid "03-Sys-SR"
@@ -6986,7 +6987,8 @@ msgstr "03-Sys-SR"
 
 #: translation.js:1517
 msgid "03-Sys-SR: 3 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "03-Sys-SR: 3 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1518
 msgid "04-Sys-SR"
@@ -6994,7 +6996,8 @@ msgstr "04-Sys-SR"
 
 #: translation.js:1519
 msgid "04-Sys-SR: 4 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "04-Sys-SR: 4 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1520
 msgid "05-Sys-SR"
@@ -7002,7 +7005,8 @@ msgstr "05-Sys-SR"
 
 #: translation.js:1521
 msgid "05-Sys-SR: 5 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "05-Sys-SR: 5 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1522
 msgid "06-Sys-SR"
@@ -7010,7 +7014,8 @@ msgstr "06-Sys-SR"
 
 #: translation.js:1523
 msgid "06-Sys-SR: 6 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "06-Sys-SR: 6 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1524
 msgid "07-Sys-SR"
@@ -7018,7 +7023,8 @@ msgstr "07-Sys-SR"
 
 #: translation.js:1525
 msgid "07-Sys-SR: 7 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "07-Sys-SR: 7 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1526
 msgid "08-Sys-SR"
@@ -7026,7 +7032,8 @@ msgstr "08-Sys-SR"
 
 #: translation.js:1527
 msgid "08-Sys-SR: 8 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "08-Sys-SR: 8 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1528
 msgid "09-Sys-SR"
@@ -7034,7 +7041,8 @@ msgstr "09-Sys-SR"
 
 #: translation.js:1529
 msgid "09-Sys-SR: 9 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "09-Sys-SR: 9 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1530
 msgid "10-Sys-SR"
@@ -7042,7 +7050,8 @@ msgstr "10-Sys-SR"
 
 #: translation.js:1531
 msgid "10-Sys-SR: 10 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "10-Sys-SR: 10 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1532
 msgid "11-Sys-SR"
@@ -7050,7 +7059,8 @@ msgstr "11-Sys-SR"
 
 #: translation.js:1533
 msgid "11-Sys-SR: 11 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "11-Sys-SR: 11 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1534
 msgid "12-Sys-SR"
@@ -7058,7 +7068,8 @@ msgstr "12-Sys-SR"
 
 #: translation.js:1535
 msgid "12-Sys-SR: 12 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "12-Sys-SR: 12 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1536
 msgid "13-Sys-SR"
@@ -7066,7 +7077,8 @@ msgstr "13-Sys-SR"
 
 #: translation.js:1537
 msgid "13-Sys-SR: 13 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "13-Sys-SR: 13 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1538
 msgid "14-Sys-SR"
@@ -7074,7 +7086,8 @@ msgstr "14-Sys-SR"
 
 #: translation.js:1539
 msgid "14-Sys-SR: 14 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "14-Sys-SR: 14 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1540
 msgid "15-Sys-SR"
@@ -7082,7 +7095,8 @@ msgstr "15-Sys-SR"
 
 #: translation.js:1541
 msgid "15-Sys-SR: 15 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "15-Sys-SR: 15 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1542
 msgid "16-Sys-SR"
@@ -7090,7 +7104,8 @@ msgstr "16-Sys-SR"
 
 #: translation.js:1543
 msgid "16-Sys-SR: 16 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "16-Sys-SR: 16 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1544
 msgid "17-Sys-SR"
@@ -7098,7 +7113,8 @@ msgstr "17-Sys-SR"
 
 #: translation.js:1545
 msgid "17-Sys-SR: 17 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "17-Sys-SR: 17 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1546
 msgid "18-Sys-SR"
@@ -7106,7 +7122,8 @@ msgstr "18-Sys-SR"
 
 #: translation.js:1547
 msgid "18-Sys-SR: 18 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "18-Sys-SR: 18 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1548
 msgid "19-Sys-SR"
@@ -7114,7 +7131,8 @@ msgstr "19-Sys-SR"
 
 #: translation.js:1549
 msgid "19-Sys-SR: 19 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "19-Sys-SR: 19 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1550
 msgid "20-Sys-SR"
@@ -7122,7 +7140,8 @@ msgstr "20-Sys-SR"
 
 #: translation.js:1551
 msgid "20-Sys-SR: 20 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "20-Sys-SR: 20 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1552
 msgid "21-Sys-SR"
@@ -7130,7 +7149,8 @@ msgstr "21-Sys-SR"
 
 #: translation.js:1553
 msgid "21-Sys-SR: 21 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "21-Sys-SR: 21 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1554
 msgid "22-Sys-SR"
@@ -7138,7 +7158,8 @@ msgstr "22-Sys-SR"
 
 #: translation.js:1555
 msgid "22-Sys-SR: 22 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "22-Sys-SR: 22 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1556
 msgid "23-Sys-SR"
@@ -7146,7 +7167,8 @@ msgstr "23-Sys-SR"
 
 #: translation.js:1557
 msgid "23-Sys-SR: 23 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "23-Sys-SR: 23 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1558
 msgid "24-Sys-SR"
@@ -7154,7 +7176,8 @@ msgstr "24-Sys-SR"
 
 #: translation.js:1559
 msgid "24-Sys-SR: 24 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "24-Sys-SR: 24 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1560
 msgid "25-Sys-SR"
@@ -7162,7 +7185,8 @@ msgstr "25-Sys-SR"
 
 #: translation.js:1561
 msgid "25-Sys-SR: 25 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "25-Sys-SR: 25 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1562
 msgid "26-Sys-SR"
@@ -7170,7 +7194,8 @@ msgstr "26-Sys-SR"
 
 #: translation.js:1563
 msgid "26-Sys-SR: 26 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "26-Sys-SR: 26 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1564
 msgid "27-Sys-SR"
@@ -7178,7 +7203,8 @@ msgstr "27-Sys-SR"
 
 #: translation.js:1565
 msgid "27-Sys-SR: 27 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "27-Sys-SR: 27 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1566
 msgid "28-Sys-SR"
@@ -7186,7 +7212,8 @@ msgstr "28-Sys-SR"
 
 #: translation.js:1567
 msgid "28-Sys-SR: 28 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "28-Sys-SR: 28 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1568
 msgid "29-Sys-SR"
@@ -7194,7 +7221,8 @@ msgstr "29-Sys-SR"
 
 #: translation.js:1569
 msgid "29-Sys-SR: 29 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "29-Sys-SR: 29 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1570
 msgid "30-Sys-SR"
@@ -7202,7 +7230,8 @@ msgstr "30-Sys-SR"
 
 #: translation.js:1571
 msgid "30-Sys-SR: 30 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "30-Sys-SR: 30 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1572
 msgid "31-Sys-SR"
@@ -7210,7 +7239,8 @@ msgstr "31-Sys-SR"
 
 #: translation.js:1573
 msgid "31-Sys-SR: 31 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "31-Sys-SR: 31 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1574
 msgid "32-Sys-SR"
@@ -7218,7 +7248,8 @@ msgstr "32-Sys-SR"
 
 #: translation.js:1575
 msgid "32-Sys-SR: 32 bits system shift right register. Verilog implementation"
-msgstr ""
+msgstr "32-Sys-SR: 32 Registro de desplazamiento a la derecha. "
+"Implementación en Verilog"
 
 #: translation.js:1577
 msgid "02-Sys-SR-ld"
