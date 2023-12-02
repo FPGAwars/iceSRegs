@@ -182,8 +182,6 @@ msgid "11-SLR: 11 bits shift left right register. Verilog implementation"
 msgstr ""
 
 #: translation.js:50
-#, fuzzy
-#| msgid "02-SLR"
 msgid "12-SLR"
 msgstr "12-SLR"
 
