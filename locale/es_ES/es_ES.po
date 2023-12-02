@@ -382,7 +382,7 @@ msgstr "32-SLR: Registro de desplazamiento izquierda-derecha de 3 bits. "
 
 #: translation.js:93
 msgid "02-SLR-ld"
-msgstr ""
+msgstr "02-SLR-ld"
 
 #: translation.js:94
 msgid ""
