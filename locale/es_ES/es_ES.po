@@ -6943,7 +6943,7 @@ msgstr ""
 
 #: translation.js:1514
 msgid "02-Sys-SR"
-msgstr ""
+msgstr "02-Sys-SR"
 
 #: translation.js:1515
 msgid "02-Sys-SR: 2 bits system shift right register. Verilog implementation"
@@ -6951,7 +6951,7 @@ msgstr ""
 
 #: translation.js:1516
 msgid "03-Sys-SR"
-msgstr ""
+msgstr "03-Sys-SR"
 
 #: translation.js:1517
 msgid "03-Sys-SR: 3 bits system shift right register. Verilog implementation"
@@ -6959,7 +6959,7 @@ msgstr ""
 
 #: translation.js:1518
 msgid "04-Sys-SR"
-msgstr ""
+msgstr "04-Sys-SR"
 
 #: translation.js:1519
 msgid "04-Sys-SR: 4 bits system shift right register. Verilog implementation"
@@ -6967,7 +6967,7 @@ msgstr ""
 
 #: translation.js:1520
 msgid "05-Sys-SR"
-msgstr ""
+msgstr "05-Sys-SR"
 
 #: translation.js:1521
 msgid "05-Sys-SR: 5 bits system shift right register. Verilog implementation"
@@ -6975,7 +6975,7 @@ msgstr ""
 
 #: translation.js:1522
 msgid "06-Sys-SR"
-msgstr ""
+msgstr "06-Sys-SR"
 
 #: translation.js:1523
 msgid "06-Sys-SR: 6 bits system shift right register. Verilog implementation"
@@ -6983,7 +6983,7 @@ msgstr ""
 
 #: translation.js:1524
 msgid "07-Sys-SR"
-msgstr ""
+msgstr "07-Sys-SR"
 
 #: translation.js:1525
 msgid "07-Sys-SR: 7 bits system shift right register. Verilog implementation"
@@ -6991,7 +6991,7 @@ msgstr ""
 
 #: translation.js:1526
 msgid "08-Sys-SR"
-msgstr ""
+msgstr "08-Sys-SR"
 
 #: translation.js:1527
 msgid "08-Sys-SR: 8 bits system shift right register. Verilog implementation"
@@ -6999,7 +6999,7 @@ msgstr ""
 
 #: translation.js:1528
 msgid "09-Sys-SR"
-msgstr ""
+msgstr "09-Sys-SR"
 
 #: translation.js:1529
 msgid "09-Sys-SR: 9 bits system shift right register. Verilog implementation"
@@ -7007,7 +7007,7 @@ msgstr ""
 
 #: translation.js:1530
 msgid "10-Sys-SR"
-msgstr ""
+msgstr "10-Sys-SR"
 
 #: translation.js:1531
 msgid "10-Sys-SR: 10 bits system shift right register. Verilog implementation"
@@ -7015,7 +7015,7 @@ msgstr ""
 
 #: translation.js:1532
 msgid "11-Sys-SR"
-msgstr ""
+msgstr "11-Sys-SR"
 
 #: translation.js:1533
 msgid "11-Sys-SR: 11 bits system shift right register. Verilog implementation"
@@ -7023,7 +7023,7 @@ msgstr ""
 
 #: translation.js:1534
 msgid "12-Sys-SR"
-msgstr ""
+msgstr "12-Sys-SR"
 
 #: translation.js:1535
 msgid "12-Sys-SR: 12 bits system shift right register. Verilog implementation"
@@ -7031,7 +7031,7 @@ msgstr ""
 
 #: translation.js:1536
 msgid "13-Sys-SR"
-msgstr ""
+msgstr "13-Sys-SR"
 
 #: translation.js:1537
 msgid "13-Sys-SR: 13 bits system shift right register. Verilog implementation"
@@ -7039,7 +7039,7 @@ msgstr ""
 
 #: translation.js:1538
 msgid "14-Sys-SR"
-msgstr ""
+msgstr "14-Sys-SR"
 
 #: translation.js:1539
 msgid "14-Sys-SR: 14 bits system shift right register. Verilog implementation"
@@ -7047,7 +7047,7 @@ msgstr ""
 
 #: translation.js:1540
 msgid "15-Sys-SR"
-msgstr ""
+msgstr "15-Sys-SR"
 
 #: translation.js:1541
 msgid "15-Sys-SR: 15 bits system shift right register. Verilog implementation"
@@ -7055,7 +7055,7 @@ msgstr ""
 
 #: translation.js:1542
 msgid "16-Sys-SR"
-msgstr ""
+msgstr "16-Sys-SR"
 
 #: translation.js:1543
 msgid "16-Sys-SR: 16 bits system shift right register. Verilog implementation"
@@ -7063,7 +7063,7 @@ msgstr ""
 
 #: translation.js:1544
 msgid "17-Sys-SR"
-msgstr ""
+msgstr "17-Sys-SR"
 
 #: translation.js:1545
 msgid "17-Sys-SR: 17 bits system shift right register. Verilog implementation"
@@ -7071,7 +7071,7 @@ msgstr ""
 
 #: translation.js:1546
 msgid "18-Sys-SR"
-msgstr ""
+msgstr "18-Sys-SR"
 
 #: translation.js:1547
 msgid "18-Sys-SR: 18 bits system shift right register. Verilog implementation"
@@ -7079,7 +7079,7 @@ msgstr ""
 
 #: translation.js:1548
 msgid "19-Sys-SR"
-msgstr ""
+msgstr "19-Sys-SR"
 
 #: translation.js:1549
 msgid "19-Sys-SR: 19 bits system shift right register. Verilog implementation"
@@ -7087,7 +7087,7 @@ msgstr ""
 
 #: translation.js:1550
 msgid "20-Sys-SR"
-msgstr ""
+msgstr "20-Sys-SR"
 
 #: translation.js:1551
 msgid "20-Sys-SR: 20 bits system shift right register. Verilog implementation"
@@ -7095,7 +7095,7 @@ msgstr ""
 
 #: translation.js:1552
 msgid "21-Sys-SR"
-msgstr ""
+msgstr "21-Sys-SR"
 
 #: translation.js:1553
 msgid "21-Sys-SR: 21 bits system shift right register. Verilog implementation"
@@ -7103,7 +7103,7 @@ msgstr ""
 
 #: translation.js:1554
 msgid "22-Sys-SR"
-msgstr ""
+msgstr "22-Sys-SR"
 
 #: translation.js:1555
 msgid "22-Sys-SR: 22 bits system shift right register. Verilog implementation"
@@ -7111,7 +7111,7 @@ msgstr ""
 
 #: translation.js:1556
 msgid "23-Sys-SR"
-msgstr ""
+msgstr "23-Sys-SR"
 
 #: translation.js:1557
 msgid "23-Sys-SR: 23 bits system shift right register. Verilog implementation"
@@ -7119,7 +7119,7 @@ msgstr ""
 
 #: translation.js:1558
 msgid "24-Sys-SR"
-msgstr ""
+msgstr "24-Sys-SR"
 
 #: translation.js:1559
 msgid "24-Sys-SR: 24 bits system shift right register. Verilog implementation"
@@ -7127,7 +7127,7 @@ msgstr ""
 
 #: translation.js:1560
 msgid "25-Sys-SR"
-msgstr ""
+msgstr "25-Sys-SR"
 
 #: translation.js:1561
 msgid "25-Sys-SR: 25 bits system shift right register. Verilog implementation"
@@ -7135,7 +7135,7 @@ msgstr ""
 
 #: translation.js:1562
 msgid "26-Sys-SR"
-msgstr ""
+msgstr "26-Sys-SR"
 
 #: translation.js:1563
 msgid "26-Sys-SR: 26 bits system shift right register. Verilog implementation"
@@ -7143,7 +7143,7 @@ msgstr ""
 
 #: translation.js:1564
 msgid "27-Sys-SR"
-msgstr ""
+msgstr "27-Sys-SR"
 
 #: translation.js:1565
 msgid "27-Sys-SR: 27 bits system shift right register. Verilog implementation"
@@ -7151,7 +7151,7 @@ msgstr ""
 
 #: translation.js:1566
 msgid "28-Sys-SR"
-msgstr ""
+msgstr "28-Sys-SR"
 
 #: translation.js:1567
 msgid "28-Sys-SR: 28 bits system shift right register. Verilog implementation"
@@ -7159,7 +7159,7 @@ msgstr ""
 
 #: translation.js:1568
 msgid "29-Sys-SR"
-msgstr ""
+msgstr "29-Sys-SR"
 
 #: translation.js:1569
 msgid "29-Sys-SR: 29 bits system shift right register. Verilog implementation"
@@ -7167,7 +7167,7 @@ msgstr ""
 
 #: translation.js:1570
 msgid "30-Sys-SR"
-msgstr ""
+msgstr "30-Sys-SR"
 
 #: translation.js:1571
 msgid "30-Sys-SR: 30 bits system shift right register. Verilog implementation"
@@ -7175,7 +7175,7 @@ msgstr ""
 
 #: translation.js:1572
 msgid "31-Sys-SR"
-msgstr ""
+msgstr "31-Sys-SR"
 
 #: translation.js:1573
 msgid "31-Sys-SR: 31 bits system shift right register. Verilog implementation"
@@ -7183,7 +7183,7 @@ msgstr ""
 
 #: translation.js:1574
 msgid "32-Sys-SR"
-msgstr ""
+msgstr "32-Sys-SR"
 
 #: translation.js:1575
 msgid "32-Sys-SR: 32 bits system shift right register. Verilog implementation"
@@ -7191,7 +7191,7 @@ msgstr ""
 
 #: translation.js:1577
 msgid "02-Sys-SR-ld"
-msgstr ""
+msgstr "02-Sys-SR-ld"
 
 #: translation.js:1578
 msgid ""
@@ -7201,7 +7201,7 @@ msgstr ""
 
 #: translation.js:1579
 msgid "03-Sys-SR-ld"
-msgstr ""
+msgstr "03-Sys-SR-ld"
 
 #: translation.js:1580
 msgid ""
@@ -7211,7 +7211,7 @@ msgstr ""
 
 #: translation.js:1581
 msgid "04-Sys-SR-ld"
-msgstr ""
+msgstr "04-Sys-SR-ld"
 
 #: translation.js:1582
 msgid ""
@@ -7221,7 +7221,7 @@ msgstr ""
 
 #: translation.js:1583
 msgid "05-Sys-SR-ld"
-msgstr ""
+msgstr "05-Sys-SR-ld"
 
 #: translation.js:1584
 msgid ""
@@ -7231,7 +7231,7 @@ msgstr ""
 
 #: translation.js:1585
 msgid "06-Sys-SR-ld"
-msgstr ""
+msgstr "06-Sys-SR-ld"
 
 #: translation.js:1586
 msgid ""
@@ -7241,7 +7241,7 @@ msgstr ""
 
 #: translation.js:1587
 msgid "07-Sys-SR-ld"
-msgstr ""
+msgstr "07-Sys-SR-ld"
 
 #: translation.js:1588
 msgid ""
@@ -7251,7 +7251,7 @@ msgstr ""
 
 #: translation.js:1589
 msgid "08-Sys-SR-ld"
-msgstr ""
+msgstr "08-Sys-SR-ld"
 
 #: translation.js:1590
 msgid ""
@@ -7261,7 +7261,7 @@ msgstr ""
 
 #: translation.js:1591
 msgid "09-Sys-SR-ld"
-msgstr ""
+msgstr "09-Sys-SR-ld"
 
 #: translation.js:1592
 msgid ""
@@ -7271,7 +7271,7 @@ msgstr ""
 
 #: translation.js:1593
 msgid "10-Sys-SR-ld"
-msgstr ""
+msgstr "10-Sys-SR-ld"
 
 #: translation.js:1594
 msgid ""
@@ -7281,7 +7281,7 @@ msgstr ""
 
 #: translation.js:1595
 msgid "11-Sys-SR-ld"
-msgstr ""
+msgstr "11-Sys-SR-ld"
 
 #: translation.js:1596
 msgid ""
@@ -7291,7 +7291,7 @@ msgstr ""
 
 #: translation.js:1597
 msgid "12-Sys-SR-ld"
-msgstr ""
+msgstr "12-Sys-SR-ld"
 
 #: translation.js:1598
 msgid ""
@@ -7301,7 +7301,7 @@ msgstr ""
 
 #: translation.js:1599
 msgid "13-Sys-SR-ld"
-msgstr ""
+msgstr "13-Sys-SR-ld"
 
 #: translation.js:1600
 msgid ""
@@ -7311,7 +7311,7 @@ msgstr ""
 
 #: translation.js:1601
 msgid "14-Sys-SR-ld"
-msgstr ""
+msgstr "14-Sys-SR-ld"
 
 #: translation.js:1602
 msgid ""
@@ -7321,7 +7321,7 @@ msgstr ""
 
 #: translation.js:1603
 msgid "15-Sys-SR-ld"
-msgstr ""
+msgstr "15-Sys-SR-ld"
 
 #: translation.js:1604
 msgid ""
@@ -7331,7 +7331,7 @@ msgstr ""
 
 #: translation.js:1605
 msgid "16-Sys-SR-ld"
-msgstr ""
+msgstr "16-Sys-SR-ld"
 
 #: translation.js:1606
 msgid ""
@@ -7341,7 +7341,7 @@ msgstr ""
 
 #: translation.js:1607
 msgid "17-Sys-SR-ld"
-msgstr ""
+msgstr "17-Sys-SR-ld"
 
 #: translation.js:1608
 msgid ""
@@ -7351,7 +7351,7 @@ msgstr ""
 
 #: translation.js:1609
 msgid "18-Sys-SR-ld"
-msgstr ""
+msgstr "18-Sys-SR-ld"
 
 #: translation.js:1610
 msgid ""
@@ -7361,7 +7361,7 @@ msgstr ""
 
 #: translation.js:1611
 msgid "19-Sys-SR-ld"
-msgstr ""
+msgstr "19-Sys-SR-ld"
 
 #: translation.js:1612
 msgid ""
@@ -7371,7 +7371,7 @@ msgstr ""
 
 #: translation.js:1613
 msgid "20-Sys-SR-ld"
-msgstr ""
+msgstr "20-Sys-SR-ld"
 
 #: translation.js:1614
 msgid ""
@@ -7381,7 +7381,7 @@ msgstr ""
 
 #: translation.js:1615
 msgid "21-Sys-SR-ld"
-msgstr ""
+msgstr "21-Sys-SR-ld"
 
 #: translation.js:1616
 msgid ""
@@ -7391,7 +7391,7 @@ msgstr ""
 
 #: translation.js:1617
 msgid "22-Sys-SR-ld"
-msgstr ""
+msgstr "22-Sys-SR-ld"
 
 #: translation.js:1618
 msgid ""
@@ -7401,7 +7401,7 @@ msgstr ""
 
 #: translation.js:1619
 msgid "23-Sys-SR-ld"
-msgstr ""
+msgstr "23-Sys-SR-ld"
 
 #: translation.js:1620
 msgid ""
@@ -7411,7 +7411,7 @@ msgstr ""
 
 #: translation.js:1621
 msgid "24-Sys-SR-ld"
-msgstr ""
+msgstr "24-Sys-SR-ld"
 
 #: translation.js:1622
 msgid ""
@@ -7421,7 +7421,7 @@ msgstr ""
 
 #: translation.js:1623
 msgid "25-Sys-SR-ld"
-msgstr ""
+msgstr "25-Sys-SR-ld"
 
 #: translation.js:1624
 msgid ""
@@ -7431,7 +7431,7 @@ msgstr ""
 
 #: translation.js:1625
 msgid "26-Sys-SR-ld"
-msgstr ""
+msgstr "26-Sys-SR-ld"
 
 #: translation.js:1626
 msgid ""
@@ -7441,7 +7441,7 @@ msgstr ""
 
 #: translation.js:1627
 msgid "27-Sys-SR-ld"
-msgstr ""
+msgstr "27-Sys-SR-ld"
 
 #: translation.js:1628
 msgid ""
@@ -7451,7 +7451,7 @@ msgstr ""
 
 #: translation.js:1629
 msgid "28-Sys-SR-ld"
-msgstr ""
+msgstr "28-Sys-SR-ld"
 
 #: translation.js:1630
 msgid ""
@@ -7461,7 +7461,7 @@ msgstr ""
 
 #: translation.js:1631
 msgid "29-Sys-SR-ld"
-msgstr ""
+msgstr "29-Sys-SR-ld"
 
 #: translation.js:1632
 msgid ""
@@ -7471,7 +7471,7 @@ msgstr ""
 
 #: translation.js:1633
 msgid "30-Sys-SR-ld"
-msgstr ""
+msgstr "30-Sys-SR-ld"
 
 #: translation.js:1634
 msgid ""
@@ -7481,7 +7481,7 @@ msgstr ""
 
 #: translation.js:1635
 msgid "31-Sys-SR-ld"
-msgstr ""
+msgstr "31-Sys-SR-ld"
 
 #: translation.js:1636
 msgid ""
@@ -7491,7 +7491,7 @@ msgstr ""
 
 #: translation.js:1637
 msgid "32-Sys-SR-ld"
-msgstr ""
+msgstr "32-Sys-SR-ld"
 
 #: translation.js:1638
 msgid ""
@@ -7501,7 +7501,7 @@ msgstr ""
 
 #: translation.js:1640
 msgid "02-Sys-SR-ld-rst"
-msgstr ""
+msgstr "02-Sys-SR-ld-rst"
 
 #: translation.js:1641
 msgid ""
@@ -7511,7 +7511,7 @@ msgstr ""
 
 #: translation.js:1642
 msgid "03-Sys-SR-ld-rst"
-msgstr ""
+msgstr "03-Sys-SR-ld-rst"
 
 #: translation.js:1643
 msgid ""
@@ -7521,7 +7521,7 @@ msgstr ""
 
 #: translation.js:1644
 msgid "04-Sys-SR-ld-rst"
-msgstr ""
+msgstr "04-Sys-SR-ld-rst"
 
 #: translation.js:1645
 msgid ""
@@ -7531,7 +7531,7 @@ msgstr ""
 
 #: translation.js:1646
 msgid "05-Sys-SR-ld-rst"
-msgstr ""
+msgstr "05-Sys-SR-ld-rst"
 
 #: translation.js:1647
 msgid ""
@@ -7541,7 +7541,7 @@ msgstr ""
 
 #: translation.js:1648
 msgid "06-Sys-SR-ld-rst"
-msgstr ""
+msgstr "06-Sys-SR-ld-rst"
 
 #: translation.js:1649
 msgid ""
@@ -7551,7 +7551,7 @@ msgstr ""
 
 #: translation.js:1650
 msgid "07-Sys-SR-ld-rst"
-msgstr ""
+msgstr "07-Sys-SR-ld-rst"
 
 #: translation.js:1651
 msgid ""
@@ -7561,7 +7561,7 @@ msgstr ""
 
 #: translation.js:1652
 msgid "08-Sys-SR-ld-rst"
-msgstr ""
+msgstr "08-Sys-SR-ld-rst"
 
 #: translation.js:1653
 msgid ""
@@ -7571,7 +7571,7 @@ msgstr ""
 
 #: translation.js:1654
 msgid "09-Sys-SR-ld-rst"
-msgstr ""
+msgstr "09-Sys-SR-ld-rst"
 
 #: translation.js:1655
 msgid ""
@@ -7581,7 +7581,7 @@ msgstr ""
 
 #: translation.js:1656
 msgid "10-Sys-SR-ld-rst"
-msgstr ""
+msgstr "10-Sys-SR-ld-rst"
 
 #: translation.js:1657
 msgid ""
@@ -7591,7 +7591,7 @@ msgstr ""
 
 #: translation.js:1658
 msgid "11-Sys-SR-ld-rst"
-msgstr ""
+msgstr "11-Sys-SR-ld-rst"
 
 #: translation.js:1659
 msgid ""
@@ -7601,7 +7601,7 @@ msgstr ""
 
 #: translation.js:1660
 msgid "12-Sys-SR-ld-rst"
-msgstr ""
+msgstr "12-Sys-SR-ld-rst"
 
 #: translation.js:1661
 msgid ""
@@ -7611,7 +7611,7 @@ msgstr ""
 
 #: translation.js:1662
 msgid "13-Sys-SR-ld-rst"
-msgstr ""
+msgstr "13-Sys-SR-ld-rst"
 
 #: translation.js:1663
 msgid ""
@@ -7621,7 +7621,7 @@ msgstr ""
 
 #: translation.js:1664
 msgid "14-Sys-SR-ld-rst"
-msgstr ""
+msgstr "14-Sys-SR-ld-rst"
 
 #: translation.js:1665
 msgid ""
@@ -7631,7 +7631,7 @@ msgstr ""
 
 #: translation.js:1666
 msgid "15-Sys-SR-ld-rst"
-msgstr ""
+msgstr "15-Sys-SR-ld-rst"
 
 #: translation.js:1667
 msgid ""
@@ -7641,7 +7641,7 @@ msgstr ""
 
 #: translation.js:1668
 msgid "16-Sys-SR-ld-rst"
-msgstr ""
+msgstr "16-Sys-SR-ld-rst"
 
 #: translation.js:1669
 msgid ""
@@ -7651,7 +7651,7 @@ msgstr ""
 
 #: translation.js:1670
 msgid "17-Sys-SR-ld-rst"
-msgstr ""
+msgstr "17-Sys-SR-ld-rst"
 
 #: translation.js:1671
 msgid ""
@@ -7661,7 +7661,7 @@ msgstr ""
 
 #: translation.js:1672
 msgid "18-Sys-SR-ld-rst"
-msgstr ""
+msgstr "18-Sys-SR-ld-rst"
 
 #: translation.js:1673
 msgid ""
@@ -7671,7 +7671,7 @@ msgstr ""
 
 #: translation.js:1674
 msgid "19-Sys-SR-ld-rst"
-msgstr ""
+msgstr "19-Sys-SR-ld-rst"
 
 #: translation.js:1675
 msgid ""
@@ -7681,7 +7681,7 @@ msgstr ""
 
 #: translation.js:1676
 msgid "20-Sys-SR-ld-rst"
-msgstr ""
+msgstr "20-Sys-SR-ld-rst"
 
 #: translation.js:1677
 msgid ""
@@ -7691,7 +7691,7 @@ msgstr ""
 
 #: translation.js:1678
 msgid "21-Sys-SR-ld-rst"
-msgstr ""
+msgstr "21-Sys-SR-ld-rst"
 
 #: translation.js:1679
 msgid ""
@@ -7701,7 +7701,7 @@ msgstr ""
 
 #: translation.js:1680
 msgid "22-Sys-SR-ld-rst"
-msgstr ""
+msgstr "22-Sys-SR-ld-rst"
 
 #: translation.js:1681
 msgid ""
@@ -7711,7 +7711,7 @@ msgstr ""
 
 #: translation.js:1682
 msgid "23-Sys-SR-ld-rst"
-msgstr ""
+msgstr "23-Sys-SR-ld-rst"
 
 #: translation.js:1683
 msgid ""
@@ -7721,7 +7721,7 @@ msgstr ""
 
 #: translation.js:1684
 msgid "24-Sys-SR-ld-rst"
-msgstr ""
+msgstr "24-Sys-SR-ld-rst"
 
 #: translation.js:1685
 msgid ""
@@ -7731,7 +7731,7 @@ msgstr ""
 
 #: translation.js:1686
 msgid "25-Sys-SR-ld-rst"
-msgstr ""
+msgstr "25-Sys-SR-ld-rst"
 
 #: translation.js:1687
 msgid ""
@@ -7741,7 +7741,7 @@ msgstr ""
 
 #: translation.js:1688
 msgid "26-Sys-SR-ld-rst"
-msgstr ""
+msgstr "26-Sys-SR-ld-rst"
 
 #: translation.js:1689
 msgid ""
@@ -7751,7 +7751,7 @@ msgstr ""
 
 #: translation.js:1690
 msgid "27-Sys-SR-ld-rst"
-msgstr ""
+msgstr "27-Sys-SR-ld-rst"
 
 #: translation.js:1691
 msgid ""
@@ -7761,7 +7761,7 @@ msgstr ""
 
 #: translation.js:1692
 msgid "28-Sys-SR-ld-rst"
-msgstr ""
+msgstr "28-Sys-SR-ld-rst"
 
 #: translation.js:1693
 msgid ""
@@ -7771,7 +7771,7 @@ msgstr ""
 
 #: translation.js:1694
 msgid "29-Sys-SR-ld-rst"
-msgstr ""
+msgstr "29-Sys-SR-ld-rst"
 
 #: translation.js:1695
 msgid ""
@@ -7781,7 +7781,7 @@ msgstr ""
 
 #: translation.js:1696
 msgid "30-Sys-SR-ld-rst"
-msgstr ""
+msgstr "30-Sys-SR-ld-rst"
 
 #: translation.js:1697
 msgid ""
@@ -7791,7 +7791,7 @@ msgstr ""
 
 #: translation.js:1698
 msgid "31-Sys-SR-ld-rst"
-msgstr ""
+msgstr "31-Sys-SR-ld-rst"
 
 #: translation.js:1699
 msgid ""
@@ -7801,7 +7801,7 @@ msgstr ""
 
 #: translation.js:1700 translation.js:1714
 msgid "32-Sys-SR-ld-rst"
-msgstr ""
+msgstr "32-Sys-SR-ld-rst"
 
 #: translation.js:1701
 msgid ""
@@ -7947,7 +7947,7 @@ msgstr ""
 
 #: translation.js:1731
 msgid "02-Sys-SR-rst"
-msgstr ""
+msgstr "02-Sys-SR-rst"
 
 #: translation.js:1732
 msgid ""
@@ -7957,7 +7957,7 @@ msgstr ""
 
 #: translation.js:1733 translation.js:1826
 msgid "03-Sys-SR-rst"
-msgstr ""
+msgstr "03-Sys-SR-rst"
 
 #: translation.js:1734
 msgid ""
@@ -7967,7 +7967,7 @@ msgstr ""
 
 #: translation.js:1735
 msgid "04-Sys-SR-rst"
-msgstr ""
+msgstr "04-Sys-SR-rst"
 
 #: translation.js:1736
 msgid ""
@@ -7977,7 +7977,7 @@ msgstr ""
 
 #: translation.js:1737
 msgid "05-Sys-SR-rst"
-msgstr ""
+msgstr "05-Sys-SR-rst"
 
 #: translation.js:1738
 msgid ""
@@ -7987,7 +7987,7 @@ msgstr ""
 
 #: translation.js:1739
 msgid "06-Sys-SR-rst"
-msgstr ""
+msgstr "06-Sys-SR-rst"
 
 #: translation.js:1740
 msgid ""
@@ -7997,7 +7997,7 @@ msgstr ""
 
 #: translation.js:1741
 msgid "07-Sys-SR-rst"
-msgstr ""
+msgstr "07-Sys-SR-rst"
 
 #: translation.js:1742
 msgid ""
@@ -8007,7 +8007,7 @@ msgstr ""
 
 #: translation.js:1743
 msgid "08-Sys-SR-rst"
-msgstr ""
+msgstr "08-Sys-SR-rst"
 
 #: translation.js:1744
 msgid ""
@@ -8017,7 +8017,7 @@ msgstr ""
 
 #: translation.js:1745
 msgid "09-Sys-SR-rst"
-msgstr ""
+msgstr "09-Sys-SR-rst"
 
 #: translation.js:1746
 msgid ""
@@ -8027,7 +8027,7 @@ msgstr ""
 
 #: translation.js:1747
 msgid "10-Sys-SR-rst"
-msgstr ""
+msgstr "10-Sys-SR-rst"
 
 #: translation.js:1748
 msgid ""
@@ -8037,7 +8037,7 @@ msgstr ""
 
 #: translation.js:1749
 msgid "11-Sys-SR-rst"
-msgstr ""
+msgstr "11-Sys-SR-rst"
 
 #: translation.js:1750
 msgid ""
@@ -8047,7 +8047,7 @@ msgstr ""
 
 #: translation.js:1751
 msgid "12-Sys-SR-rst"
-msgstr ""
+msgstr "12-Sys-SR-rst"
 
 #: translation.js:1752
 msgid ""
@@ -8057,7 +8057,7 @@ msgstr ""
 
 #: translation.js:1753
 msgid "13-Sys-SR-rst"
-msgstr ""
+msgstr "13-Sys-SR-rst"
 
 #: translation.js:1754
 msgid ""
@@ -8067,7 +8067,7 @@ msgstr ""
 
 #: translation.js:1755
 msgid "14-Sys-SR-rst"
-msgstr ""
+msgstr "14-Sys-SR-rst"
 
 #: translation.js:1756
 msgid ""
@@ -8077,7 +8077,7 @@ msgstr ""
 
 #: translation.js:1757
 msgid "15-Sys-SR-rst"
-msgstr ""
+msgstr "15-Sys-SR-rst"
 
 #: translation.js:1758
 msgid ""
@@ -8087,7 +8087,7 @@ msgstr ""
 
 #: translation.js:1759
 msgid "16-Sys-SR-rst"
-msgstr ""
+msgstr "16-Sys-SR-rst"
 
 #: translation.js:1760
 msgid ""
@@ -8097,7 +8097,7 @@ msgstr ""
 
 #: translation.js:1761
 msgid "17-Sys-SR-rst"
-msgstr ""
+msgstr "17-Sys-SR-rst"
 
 #: translation.js:1762
 msgid ""
@@ -8107,7 +8107,7 @@ msgstr ""
 
 #: translation.js:1763
 msgid "18-Sys-SR-rst"
-msgstr ""
+msgstr "18-Sys-SR-rst"
 
 #: translation.js:1764
 msgid ""
@@ -8117,7 +8117,7 @@ msgstr ""
 
 #: translation.js:1765
 msgid "19-Sys-SR-rst"
-msgstr ""
+msgstr "19-Sys-SR-rst"
 
 #: translation.js:1766
 msgid ""
@@ -8127,7 +8127,7 @@ msgstr ""
 
 #: translation.js:1767
 msgid "20-Sys-SR-rst"
-msgstr ""
+msgstr "20-Sys-SR-rst"
 
 #: translation.js:1768
 msgid ""
@@ -8137,7 +8137,7 @@ msgstr ""
 
 #: translation.js:1769
 msgid "21-Sys-SR-rst"
-msgstr ""
+msgstr "21-Sys-SR-rst"
 
 #: translation.js:1770
 msgid ""
@@ -8147,7 +8147,7 @@ msgstr ""
 
 #: translation.js:1771
 msgid "22-Sys-SR-rst"
-msgstr ""
+msgstr "22-Sys-SR-rst"
 
 #: translation.js:1772
 msgid ""
@@ -8157,7 +8157,7 @@ msgstr ""
 
 #: translation.js:1773
 msgid "23-Sys-SR-rst"
-msgstr ""
+msgstr "23-Sys-SR-rst"
 
 #: translation.js:1774
 msgid ""
@@ -8167,7 +8167,7 @@ msgstr ""
 
 #: translation.js:1775
 msgid "24-Sys-SR-rst"
-msgstr ""
+msgstr "24-Sys-SR-rst"
 
 #: translation.js:1776
 msgid ""
@@ -8177,7 +8177,7 @@ msgstr ""
 
 #: translation.js:1777
 msgid "25-Sys-SR-rst"
-msgstr ""
+msgstr "25-Sys-SR-rst"
 
 #: translation.js:1778
 msgid ""
@@ -8187,7 +8187,7 @@ msgstr ""
 
 #: translation.js:1779
 msgid "26-Sys-SR-rst"
-msgstr ""
+msgstr "26-Sys-SR-rst"
 
 #: translation.js:1780
 msgid ""
@@ -8197,7 +8197,7 @@ msgstr ""
 
 #: translation.js:1781
 msgid "27-Sys-SR-rst"
-msgstr ""
+msgstr "27-Sys-SR-rst"
 
 #: translation.js:1782
 msgid ""
@@ -8207,7 +8207,7 @@ msgstr ""
 
 #: translation.js:1783
 msgid "28-Sys-SR-rst"
-msgstr ""
+msgstr "28-Sys-SR-rst"
 
 #: translation.js:1784
 msgid ""
@@ -8217,7 +8217,7 @@ msgstr ""
 
 #: translation.js:1785
 msgid "29-Sys-SR-rst"
-msgstr ""
+msgstr "29-Sys-SR-rst"
 
 #: translation.js:1786
 msgid ""
@@ -8227,7 +8227,7 @@ msgstr ""
 
 #: translation.js:1787
 msgid "30-Sys-SR-rst"
-msgstr ""
+msgstr "30-Sys-SR-rst"
 
 #: translation.js:1788
 msgid ""
@@ -8237,7 +8237,7 @@ msgstr ""
 
 #: translation.js:1789
 msgid "31-Sys-SR-rst"
-msgstr ""
+msgstr "31-Sys-SR-rst"
 
 #: translation.js:1790
 msgid ""
@@ -8247,7 +8247,7 @@ msgstr ""
 
 #: translation.js:1791
 msgid "32-Sys-SR-rst"
-msgstr ""
+msgstr "32-Sys-SR-rst"
 
 #: translation.js:1792
 msgid ""
