@@ -61,7 +61,7 @@ with open("es_ES.po", "r") as f:
 
     po = bits_id(po, "SLR")
     po = bits_SLR_description(po)
-    #po = bits_id(po, "SLR-ld")
+    po = bits_id(po, "SLR-ld")
 
 
 
