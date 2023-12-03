@@ -9205,41 +9205,47 @@ msgid ""
 "A progress bar of 4 leds is incremented automatically. When it reach the maximum it is decremented.  \n"
 "This cycle is repeated forever"
 msgstr ""
+"## Ejemplo 12: Registro SLR-rst: Barra de progreso ascendente/descendente de 4 bits\n"
+"\n"
+"Una barra de progreso de 4 leds se incrementa automáticamente. Cuando alcanza el máximo se decrementa.  \n"
+"Este ciclo se repite indefinidamente"
 
 #: translation.js:2125
 msgid "Transition 1: MAX value reached"
-msgstr ""
+msgstr "Transición 1: Valor máximo alcanzado"
 
 #: translation.js:2126
 msgid "Transition 2: Min value reached"
-msgstr ""
+msgstr "Transición 2: Valor mínimo alcanzado"
 
 #: translation.js:2127
 msgid "Next state"
-msgstr ""
+msgstr "Siguiente estado"
 
 #: translation.js:2128
 msgid ""
 "Transitions can only ocurr when  \n"
 "the update signal is active"
 msgstr ""
+"Las transiciones sólo pueden ocurrir  \n"
+"cuando la señal update está activa"
 
 #: translation.js:2129
 msgid "Circuit refresh period"
-msgstr ""
+msgstr "Periodo de refresco del circuito"
 
 #: translation.js:2130
 msgid "## Circuit controller"
-msgstr ""
+msgstr "## Controlador del circuito"
 
 #: translation.js:2131
 msgid "Priority on set"
-msgstr ""
+msgstr "Prioridad en el set"
 
 #: translation.js:2132
 msgid "Channel B"
-msgstr ""
+msgstr "Canal B"
 
 #: translation.js:2133
 msgid "Channel A"
-msgstr ""
+msgstr "Canal A"
