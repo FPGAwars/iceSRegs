@@ -9073,14 +9073,18 @@ msgid ""
 "Example of the serial transmision of the data `0xA` and its reception  \n"
 "The recived data is shown on the LEDs. This cycle is repeated indefinitelly\n"
 msgstr ""
+"## EJemplo 10: Registro SR-ld-rst: Transmisor-receptor serie\n"
+"\n"
+"Ejemplo de la transmisión serie del dato `0xA` y su recepción  \n"
+"El dato recibido se muestra en los LEDs. Este ciclo se repite indefinidamente\n"
 
 #: translation.js:2097
 msgid "State: Shift"
-msgstr ""
+msgstr "Estado: Desplazar"
 
 #: translation.js:2101
 msgid "A standard 2-to-1 encoder with nz (not-zero) output"
-msgstr ""
+msgstr "Codificador 2-1 estándar con salida nz (no cero)"
 
 #: translation.js:2102
 msgid ""
@@ -9088,14 +9092,17 @@ msgid ""
 "\n"
 "The unary counter is increased or decreased by means of the SW1 and SW2 buttons respectivelly"
 msgstr ""
+"## Ejemplo 11: Registro SLR: Contador unario ascendente/descendente manual de 4 bits\n"
+"\n"
+"El contador unario se incremente o decrementa mediante los botones SW1 y SW2 respectivamente"
 
 #: translation.js:2103
 msgid "Shift Left Right register"
-msgstr ""
+msgstr "Registro de desplazamiento a la izquierda"
 
 #: translation.js:2104
 msgid "2-1 encoder"
-msgstr ""
+msgstr "Codificador 2-1"
 
 #: translation.js:2105
 msgid ""
@@ -9103,12 +9110,17 @@ msgid ""
 "* 1: Shift left (dec)\n"
 "* 0: Shift right (inc)"
 msgstr ""
+"Desplazar a la izquierda o derecha:  \n"
+"* 1: Desplazamiento a la izquierda (dec)\n"
+"* 0: Desplazamiento a la derecha (inc)"
 
 #: translation.js:2106
 msgid ""
 "Update the counter  \n"
 "on every button pushed"
 msgstr ""
+"Actualizar el contador  \n"
+"con cada pulsación del botón"
 
 #: translation.js:2107
 msgid ""
@@ -9121,62 +9133,70 @@ msgid ""
 "| 1  | 0  |  1  | 1  |\n"
 "| 1  | 1  |  1  | 1  |"
 msgstr ""
+"## Tabla de verdad\n"
+"\n"
+"| i1 | i0 | out | nz |\n"
+"|----|----|-----|----|\n"
+"| 0  | 0  |  0  | 0  |\n"
+"| 0  | 1  |  0  | 1  |\n"
+"| 1  | 0  |  1  | 1  |\n"
+"| 1  | 1  |  1  | 1  |"
 
 #: translation.js:2110
 msgid "Simplified-Heart-tic-ms-sys-32bits: Nominal periodic signal in mili seconds"
-msgstr ""
+msgstr "Simplified-Heart-tic-ms-sys-32bits:  Señal periódica nominal en milisegundos"
 
 #: translation.js:2111
 msgid "start: Start signal: It goes from 1 to 0 when the system clock starts. 1 cycle pulse witch"
-msgstr ""
+msgstr "start: Señal de start. Transita de 1 a 0 cuando arranca el reloj del sistema. Anchura de 1 ciclo"
 
 #: translation.js:2112
 msgid "System - D Flip-flop. Capture data every system clock cycle"
-msgstr ""
+msgstr "Biestable D del sistema. Captura datos en cada ciclo del reloj del sistema"
 
 #: translation.js:2113
 msgid "RS-FF-set. RS Flip-flop with priority set"
-msgstr ""
+msgstr "RS-FF-set: Biestable RS con prioridad en el set"
 
 #: translation.js:2114
 msgid "2-to-1 Multplexer (1-bit channels)"
-msgstr ""
+msgstr "Multiplexor de 2 a 1 (Canales de 1 bit)"
 
 #: translation.js:2115
 msgid "Reg-rst-32: 32 bits Register with load and reset inputs"
-msgstr ""
+msgstr "Reg-rst-32: Registro de 32 bits con entradas de load y reset"
 
 #: translation.js:2116
 msgid "Sys-reg-rst-32: 32 bits system register with reset"
-msgstr ""
+msgstr "Sys-reg-rst-32: Registro del sistema de 32-bits con reset"
 
 #: translation.js:2117
 msgid "2-to-1 Multplexer (32-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (canales de 32-bits)"
 
 #: translation.js:2118
 msgid "2-to-1 Multplexer (8-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (canales de 8 bits)"
 
 #: translation.js:2119
 msgid "2-to-1 Multplexer (4-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 4-bits)"
 
 #: translation.js:2120
 msgid "Bus32-Join-quarter: Join the four buses into an 32-bits Bus"
-msgstr ""
+msgstr "Bus32-Join-quarter: Agrupar cuatro buses del mismo tamaño en un bus de 32-bits"
 
 #: translation.js:2121
 msgid "Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires"
-msgstr ""
+msgstr "Bus32-Split-quarter: Separar el bus de 32-bits en 4 buses de 8 cables"
 
 #: translation.js:2122
 msgid "Sys-reg-32: 32 bits system register"
-msgstr ""
+msgstr "Sys-Reg-32: Registro del sistema de 32-bits"
 
 #: translation.js:2123
 msgid "Unit-ms-32bits: ms to cycles converter"
-msgstr ""
+msgstr "Unit-ms-32bits: Conversor de ms a ciclos"
 
 #: translation.js:2124
 msgid ""
