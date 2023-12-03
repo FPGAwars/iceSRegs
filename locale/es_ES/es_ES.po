@@ -8713,78 +8713,83 @@ msgid ""
 "\n"
 "The unary counter is increased by one when the button is pressed"
 msgstr ""
+"## Ejemplo 7: Registro SR: Contador unario manual de 4 bits\n"
+"\n"
+"El contador unario se incrementa en 1 cuando se aprieta el pulsador"
 
 #: translation.js:2024
 msgid "Shift Right register"
-msgstr ""
+msgstr "Registro de desplazamiento a la derecha"
 
 #: translation.js:2025
 msgid "4-bits Unary counter"
-msgstr ""
+msgstr "Contador unario de 4-bits"
 
 #: translation.js:2028 translation.js:2071
 msgid "08-SR-rst-module5-unary"
-msgstr ""
+msgstr "08-SR-rst-module5-unary"
 
 #: translation.js:2029
 msgid "Simplified-Heart-tic-hz-sys-32bits: Nominal periodic signal in hz"
-msgstr ""
+msgstr "Simplified-Heart-tic-hz-sys-32bits: Señal periódica nominal en Hz"
 
 #: translation.js:2030
 msgid "Unit-hz-32bits: hz to cycles converter"
-msgstr ""
+msgstr "Unit-hz-32bits: Conversor de Hz a ciclos"
 
 #: translation.js:2031
 msgid "Heart-sys-zero-32bits: Generate a periodic signal of period T cycles. It starts at cycle 0. It never stops"
-msgstr ""
+msgstr "Heart-sys-zero-32bits: Generar una señal periódica de T ciclos. Comienza en el ciclo 0. Nunca para"
 
 #: translation.js:2032
 msgid "Sys-Delay-xN-32bits: The input tic is delayed N cycles"
-msgstr ""
+msgstr "Sys-Delay-xN-32bits: El tic de entrada se retrasa N ciclos"
 
 #: translation.js:2033
 msgid "Counter-M-x32: 32-bits M module counter with reset"
-msgstr ""
+msgstr "Counter-M-x32: Contador módulo M de 32-bits con reset"
 
 #: translation.js:2034
 msgid "Inc1-32bit: Increment a 32-bits number by one"
-msgstr ""
+msgstr "Inc1-32bit: Incrementar un número de 32-bits en uno"
 
 #: translation.js:2035
 msgid "AdderK-32bit: Adder of 32-bit operand and 32-bit constant"
-msgstr ""
+msgstr "AdderK-32bit: Sumador de un operando de y una constante de 32 bits "
 
 #: translation.js:2036
 msgid "Generic: 32-bits generic constant"
-msgstr ""
+msgstr "Genérico: Constante genérica de 32 bits"
 
 #: translation.js:2037
 msgid "Adder-32bits: Adder of two operands of 32 bits"
-msgstr ""
+msgstr "Adder-32bits: Sumador de dos operandos de 32 bits"
 
 #: translation.js:2038
 msgid "Bus24-Join-8-16: Join the two buses into an 24-bits Bus"
-msgstr ""
+msgstr "Bus24-Join-8-16: Agrupar los dos buses en uno de 24-bits"
 
 #: translation.js:2039
 msgid "Bus32-Split-8-24: Split the 28-bits bus into two buses of 8 and 24 wires"
-msgstr ""
+msgstr "Bus32-Split-8-24: Separar un bus de 28 bits en dos buses de 8 y 24 bits"
 
 #: translation.js:2040
 msgid "Bus24-Split-16-8: Split the 24-bits bus into two buses of 16 and 8 wires"
-msgstr ""
+msgstr "Bus24-Split-16-8: Separar un bus de 24 bits en dos buses de 16 y 8 bits"
 
 #: translation.js:2041
 msgid "Bus32-Join-8-24: Join the two buses into an 32-bits Bus"
-msgstr ""
+msgstr "Bus32-Join-8-24: Agrupar dos buses de 8 y 24 bits en uno de 32-bits"
 
 #: translation.js:2042
 msgid "Geu-32-Bits_v: 32-bit Unsigned Greather than or equal comparator. Verilog implementation"
-msgstr ""
+msgstr "Geu-32-Bits_v: Comparador mayor o igual que, de 32-bits. Implementación en verilog"
 
 #: translation.js:2043
 msgid "start: Start signal: It goes from 1 to 0 when the system clock starts. 1 cycle pulse witch. Block implementation"
 msgstr ""
+"start: Señal de start. Transita de 1 a 0 cuando arranca el reloj del sistema. Anchura de 1 ciclo. Implementación mediante "
+"bloques"
 
 #: translation.js:2044
 msgid ""
@@ -8793,6 +8798,10 @@ msgid ""
 "The unary counter is increased every second  \n"
 "When it reaches `1111` it restarts from 0"
 msgstr ""
+"## Ejemplo 8: Registro SR-rst: Contador unario Módulo 5  \n"
+"\n"
+"El contador unario se incrementa cada segundo  \n"
+"Cuando alcanza `1111` re-arranca con 0"
 
 #: translation.js:2045
 msgid ""
@@ -8800,68 +8809,77 @@ msgid ""
 "maximum value, it is reset, starting again  \n"
 "from 0. It is reset in the next second"
 msgstr ""
+"Cuando el contador unario alcanza su  \n"
+"valor máximo, se resetea y empieza de nuevo  \n"
+"en 0. Se resetea en el siguiente segundo"
 
 #: translation.js:2046
 msgid "Emits 1 tic every second"
-msgstr ""
+msgstr "Emitir un tic cada segundo"
 
 #: translation.js:2047
 msgid "Input parameter: Milieconds  "
-msgstr ""
+msgstr "Parámetro de entrada: milisegundos"
 
 #: translation.js:2048
 msgid ""
 "Input parameter:  \n"
 "System Frequency"
 msgstr ""
+"Parámetro de entrada:  \n"
+"Frecuencia del sistema"
 
 #: translation.js:2049
 msgid "Delay"
-msgstr ""
+msgstr "Retraso"
 
 #: translation.js:2050
 msgid "Start a new period"
-msgstr ""
+msgstr "Comenzar un periodo nuevo"
 
 #: translation.js:2051
 msgid "Start at cycle 0!"
-msgstr ""
+msgstr "Comenzar en el ciclo 0!"
 
 #: translation.js:2052
 msgid "Repeat!"
-msgstr ""
+msgstr "Repetir!"
 
 #: translation.js:2053
 msgid ""
 "Current period ended  \n"
 "Start a new one"
 msgstr ""
+"El periodo actual finaliza  \n"
+"Comenzar uno nuevo"
 
 #: translation.js:2054
 msgid "Periodo (in system clock cycles)"
-msgstr ""
+msgstr "Periodo (en ciclos de relog del sistema)"
 
 #: translation.js:2055
 msgid ""
 "Current cycle in the period  \n"
 "(0-T-1)"
 msgstr ""
+"Ciclo actual en el periodo  \n"
+"(0-T-1)"
 
 #: translation.js:2056
 msgid "Cycles to delay"
-msgstr ""
+msgstr "Ciclos a retrasar"
 
 #: translation.js:2057
 msgid "Delay finished!"
-msgstr ""
+msgstr "Retraso finalizado!"
 
 #: translation.js:2058
 msgid "Machine state: ON/OFF"
-msgstr ""
+msgstr "Estado de la máquina: ON/OFF"
 
 #: translation.js:2059
 msgid "RS Flip-Flop"
-msgstr ""
+msgstr "Flip-flop rs"
 
 #: translation.js:2060
 msgid ""
@@ -8869,6 +8887,9 @@ msgid ""
 "* ON: working (1)\n"
 "* OFF: Not working (0)"
 msgstr ""
+"Estado del circuito:  \n"
+"* ON: Funcionando (1)\n"
+"* OFF:  No funcionando (0)"
 
 #: translation.js:2061
 msgid ""
@@ -8876,16 +8897,21 @@ msgid ""
 "the number of cycles  \n"
 "to delay"
 msgstr ""
+"El contador ha alcanzado  \n"
+"el número de ciclos  \n"
+"a retrasar"
 
 #: translation.js:2062
 msgid ""
 "Maximum count  \n"
 "reached"
 msgstr ""
+"Cuenta máxima  \n"
+"alcanzada"
 
 #: translation.js:2063
 msgid "32-bits register"
-msgstr ""
+msgstr "Registro de 32-bits"
 
 #: translation.js:2064
 msgid ""
