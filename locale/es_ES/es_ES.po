@@ -8919,43 +8919,48 @@ msgid ""
 "and the cnt tic is received,  \n"
 "the register is reset to 0"
 msgstr ""
+"Si se alcanza la cuenta máxima  \n"
+"y se recibe el tic cnt,  \n"
+"el registro se resetea a 0"
 
 #: translation.js:2065
 msgid "External reset"
-msgstr ""
+msgstr "Reset externo"
 
 #: translation.js:2066
 msgid "Initial value: 1"
-msgstr ""
+msgstr "Valor inicial: 1"
 
 #: translation.js:2067
 msgid "Initial value: 0"
-msgstr ""
+msgstr "Valor inicial: 0"
 
 #: translation.js:2068
 msgid "Falling edge"
-msgstr ""
+msgstr "Flanco de bajada"
 
 #: translation.js:2069
 msgid "08-SR-rst-manual-unary-counter-module-4"
-msgstr ""
+msgstr "08-SR-rst-manual-unary-counter-module-4"
 
 #: translation.js:2070
 msgid "08-SR-rst-manual-unary-counter-module-5"
-msgstr ""
+msgstr "08-SR-rst-manual-unary-counter-module-5"
 
 #: translation.js:2073 translation.js:2093
 msgid "09-SR-ld-serial-tx"
-msgstr ""
+msgstr "09-SR-ld-serial-tx"
 
 #: translation.js:2074
 msgid "OR-BUS4-verilog: OR gate with 4-bits bus input. Verilog implementation"
-msgstr ""
+msgstr "OR-BUS4-verilog: Puerta OR de 4bits. Implementación en Verilog"
 
 #: translation.js:2075
 msgid ""
 "TFF-verilog. System TFF with toggle input: It toogles on every system cycle if the input is active. Verilog implementation"
 msgstr ""
+"TFF-verilog. Biestable T del sistema con entrada de cambio: Cambia en cada ciclo del sistema si la entrada está activa. "
+"Implementación en Verilog"
 
 #: translation.js:2076
 msgid ""
@@ -8964,84 +8969,102 @@ msgid ""
 "Example of the serial transmision of the data `0xA` and its reception  \n"
 "The recived data is shown on the LEDs.\n"
 msgstr ""
+"## Ejemplo 9: Registro SR-ld: Transmisor-receptor serie\n"
+"\n"
+"Ejemplo de transmisión serie del dato '0xA' y su recepción  \n"
+"El dato recibido se muestra en los LEDs.\n"
 
 #: translation.js:2077
 msgid "Initial state:  Load"
-msgstr ""
+msgstr "Estado inicial: Carga"
 
 #: translation.js:2078
 msgid "Next stages: Shift"
-msgstr ""
+msgstr "Siguiente etapa: desplazar"
 
 #: translation.js:2079
 msgid "## Transmitter"
-msgstr ""
+msgstr "## Transmisor"
 
 #: translation.js:2080
 msgid "## Timming generator"
-msgstr ""
+msgstr "## Generador de temporización"
 
 #: translation.js:2081
 msgid "Data to transmit"
-msgstr ""
+msgstr "Dato a transmitir"
 
 #: translation.js:2082
 msgid "Serial LINE"
-msgstr ""
+msgstr "Linea serie"
 
 #: translation.js:2083
 msgid "## Receiver"
-msgstr ""
+msgstr "## Receptor"
 
 #: translation.js:2084
 msgid ""
 "Parallel to serial  \n"
 "conversion"
 msgstr ""
+"Conversión paralelo  \n"
+"a serie"
 
 #: translation.js:2085
 msgid ""
 "Serial to parallel  \n"
 "conversion"
 msgstr ""
+"Conversion serie a  \n"
+"paralelo"
 
 #: translation.js:2086
 msgid ""
 "Received  \n"
 "DATA"
 msgstr ""
+"Datos  \n"
+"recibidos"
 
 #: translation.js:2087
 msgid ""
 "Show the received  \n"
 "data on the LEDs"
 msgstr ""
+"Mostrar el dato  \n"
+"recibido en los LEDs"
 
 #: translation.js:2088
 msgid ""
 "Show the data beign  \n"
 "transmited on the LEDs"
 msgstr ""
+"Mostrar el dato  \n"
+"que se transmite en los LEDs"
 
 #: translation.js:2089
 msgid "## Controller"
-msgstr ""
+msgstr "## Controlador"
 
 #: translation.js:2090
 msgid ""
 "Last state: capture  \n"
 "the received data"
 msgstr ""
+"Último estado: capturar  \n"
+"el dato recibido"
 
 #: translation.js:2091
 msgid ""
 "Load the transmitter with the  \n"
 "data to transmit"
 msgstr ""
+"Cargar el transmisor con el  \n"
+"dato a transmitir"
 
 #: translation.js:2092
 msgid "Shift the transmitter/receiver"
-msgstr ""
+msgstr "Desplazar el transmisor/receptor"
 
 #: translation.js:2096
 msgid ""
