@@ -8333,60 +8333,68 @@ msgid ""
 "previous 0, or if the current value is 0 and the  \n"
 "previous 1\n"
 msgstr ""
+"La salida es 1 si el valor actual es 1 y el anterior  \n"
+"0, o si el valor actual es 0 y el previo 1\n"
 
 #: translation.js:1957
 msgid "In any other case the output is 0"
-msgstr ""
+msgstr "En cualquier caso, la salida es 0"
 
 #: translation.js:1958
 msgid ""
 "Select which sample is shown  \n"
 "on the LEDs"
 msgstr ""
+"Seleccionar qué muestra se  \n"
+"ve en los LEDs"
 
 #: translation.js:1959
 msgid "Sample 0"
-msgstr ""
+msgstr "Muestra 0"
 
 #: translation.js:1960
 msgid "Sample 1"
-msgstr ""
+msgstr "Muestra 1"
 
 #: translation.js:1961
 msgid "Enable the capture "
-msgstr ""
+msgstr "Habilitar la captura "
 
 #: translation.js:1962
 msgid "This signal is 1 initially"
-msgstr ""
+msgstr "Esta señal es 1 inicialmente"
 
 #: translation.js:1963
 msgid "RS-flip-flop"
-msgstr ""
+msgstr "Flip-flop RS"
 
 #: translation.js:1964
 msgid ""
 "The Flip-flips is reset  \n"
 "at the end of cycle 3"
 msgstr ""
+"El biestable se inicializa  \n"
+"al final del ciclo 3"
 
 #: translation.js:1965
 msgid "4-cycles with pulse"
-msgstr ""
+msgstr "Pulso de 4 ciclos de ancho"
 
 #: translation.js:1966
 msgid "Sample 2"
-msgstr ""
+msgstr "Muestra 2"
 
 #: translation.js:1967
 msgid "Sample 3"
-msgstr ""
+msgstr "Muestra 3"
 
 #: translation.js:1968
 msgid ""
 "Sample number currently  \n"
 "displayed"
 msgstr ""
+"Número de muestra actualmente  \n"
+"mostrado"
 
 #: translation.js:1972
 msgid ""
@@ -8394,6 +8402,9 @@ msgid ""
 "\n"
 "The data from the shif register is captured by a data OSCILOSCOPE "
 msgstr ""
+"## Ejemplo 2: Registro Sys-SR: Contador unario de 8 bits\n"
+"\n"
+"El dato del registro de desplazamiento se captura en el LEDoscopio de datos"
 
 #: translation.js:1973
 msgid ""
@@ -8401,6 +8412,9 @@ msgid ""
 "|----------|----------|----------|----------|----------|----------|----------|----------|----------|\n"
 "| Register | 10000000 | 11000000 | 11100000 | 11110000 | 11111000 | 11111100 | 11111110 | 11111111 |\n"
 msgstr ""
+"| Ciclo    | 0        | 1        | 2        | 3        | 4        | 5        | 6        | 7        |\n"
+"|----------|----------|----------|----------|----------|----------|----------|----------|----------|\n"
+"| Registro | 10000000 | 11000000 | 11100000 | 11110000 | 11111000 | 11111100 | 11111110 | 11111111 |\n"
 
 #: translation.js:1974
 msgid ""
@@ -8409,10 +8423,14 @@ msgid ""
 "It stores eight samples taken at the first eight cycles  \n"
 "(cycles 0-7)"
 msgstr ""
+"## Medir con el LEDOSCOPIO de datos\n"
+"\n"
+"Se almacenan 8 muestras tomadas en los primeros  \n"
+"8 ciclos (ciclos 0-8)"
 
 #: translation.js:1977 translation.js:1983
 msgid "03-Sys-SR-rst-2bits-module-3-unary-counter"
-msgstr ""
+msgstr "03-Sys-SR-rst-2bits-module-3-unary-counter"
 
 #: translation.js:1978
 msgid ""
@@ -8420,10 +8438,13 @@ msgid ""
 "\n"
 "The data from the shif register is captured by a data OSCILOSCOPE "
 msgstr ""
+"## Ejemplo 3: Registro Sys-SR-reset: contador unario modulo-3 de 2 bits\n"
+"\n"
+"El dato del registro de desplazamiento se captura en el LEDOSCOPIO de datos "
 
 #: translation.js:1979
 msgid "Sys-Shit-Right-reset"
-msgstr ""
+msgstr "Sys-Shit-Right-reset"
 
 #: translation.js:1980
 msgid ""
@@ -8432,6 +8453,10 @@ msgid ""
 "| Register | 00 | 10 | 11 | 00 | 10| 11| 00| 10|\n"
 "| reset    |  0 |  0 |  1 |  0 |  0|  1|  0|  0|\n"
 msgstr ""
+"| Ciclo    | 0  | 1  | 2  | 3  | 4 | 5 | 6 | 7 |\n"
+"|----------|----|----|----|----|---|---|---|---|\n"
+"| Registro | 00 | 10 | 11 | 00 | 10| 11| 00| 10|\n"
+"| reset    |  0 |  0 |  1 |  0 |  0|  1|  0|  0|\n"
 
 #: translation.js:1981
 msgid ""
@@ -8440,16 +8465,22 @@ msgid ""
 "It stores four samples taken at the first eight cycles  \n"
 "(cycles 0-7)"
 msgstr ""
+"## Medir con el LEDOSCOPIO de datos\n"
+"\n"
+"Se almacenan 8 muestras tomadas en los primeros  \n"
+"8 ciclos (ciclos 0-7)"
 
 #: translation.js:1982
 msgid ""
 "The registers least significant bit is used as  \n"
 "the reset signal"
 msgstr ""
+"El bit de menor peso del registro se usa  \n"
+"como señal de reset"
 
 #: translation.js:1986
 msgid "03-Uint08: 3 bits unsigned integer extension to 8 bits. Verilog implementation"
-msgstr ""
+msgstr "03-Uint08: Extensión de un entero sin signo de 3 a 8 bits. Implementación en Verilog"
 
 #: translation.js:1987
 msgid ""
@@ -8461,10 +8492,17 @@ msgid ""
 "\n"
 "The data from the shif register is captured by a data OSCILOSCOPE "
 msgstr ""
+"## Ejemplo 4: Registro Sys-SR con carga: Conversion paralelo a serie\n"
+"\n"
+"Ejemplo de conversion paralelo a serie de dos números de 3 bits. El primero se carga en el   \n"
+"registro en el ciclo 0. Después se desplaza a la derecha (salida serie). La señal de load se activa  \n"
+"de nuevo en el ciclo 3, por lo que el segundo valor se carga en el registro y se desplaza\n"
+"\n"
+"El dato del registro de desplazamiento se captura por el LEDOSCOPIO de datos "
 
 #: translation.js:1988
 msgid "Sys-Shit-Right-load"
-msgstr ""
+msgstr "Sys-Shit-Right-load"
 
 #: translation.js:1989
 msgid ""
@@ -8473,6 +8511,10 @@ msgid ""
 "| Register | 000 | 101 | 010| 001|111|011|001|000|\n"
 "| load     |  1  |  0  |  0 |  1 |  0|  0|  0|  0|\n"
 msgstr ""
+"| Ciclo    | 0   | 1   | 2  | 3  | 4 | 5 | 6 | 7 |\n"
+"|----------|-----|-----|----|----|---|---|---|---|\n"
+"| Registro | 000 | 101 | 010| 001|111|011|001|000|\n"
+"| load     |  1  |  0  |  0 |  1 |  0|  0|  0|  0|\n"
 
 #: translation.js:1990
 msgid ""
@@ -8481,10 +8523,13 @@ msgid ""
 "significant bits are filled  \n"
 "with 0)"
 msgstr ""
+"Convertir el valor de 3 a  \n"
+"8 bits (Los bits más significativos  \n"
+"se rellenan con 0)"
 
 #: translation.js:1991
 msgid "Values to be converted to serial"
-msgstr ""
+msgstr "Valores a convertirse a serie"
 
 #: translation.js:1992
 msgid ""
@@ -8492,18 +8537,21 @@ msgid ""
 "\n"
 "It actives the load signal on cycles 0 and 3"
 msgstr ""
+"## Controlador\n"
+"\n"
+"Activa la señal de load en los ciclos 0 y 3"
 
 #: translation.js:1995 translation.js:2007
 msgid "05-Sys-SR-ld-serial-paralell"
-msgstr ""
+msgstr "05-Sys-SR-ld-serial-paralell"
 
 #: translation.js:1996
 msgid "3bits constant value: 0"
-msgstr ""
+msgstr "Valor constante de 3-bits: 0"
 
 #: translation.js:1997
 msgid "Bus7-Split-all: Split the 7-bits bus into its wires"
-msgstr ""
+msgstr "Bus7-Split-all: Separar el bus de 7 bits en sus cables"
 
 #: translation.js:1998
 msgid ""
@@ -8523,6 +8571,22 @@ msgid ""
 "\n"
 "After 7 cycles the values 1 and 2 are stored on regs 1 and 2 respectivelly"
 msgstr ""
+"## Ejemplo 5: Registro Sys-SR con carga: Conversión serie a paralelo\n"
+"\n"
+"\n"
+"Ejemplo de conversión serie a paralelo de dos números de 3 bits (valor1 y valor2).\n"
+"Los valores iniciales se almacenan en dos registros de  desplazamiento del sistema de 3 bits, conectados en serie  \n"
+"En cada ciclo de reloj se envían sus bits en serie (primero el valor1 y luego el valor2)  \n"
+"El registro RX es un registro de desplazamiento del sistema (con la entrada de load no habilitada). Recibe los bits en "
+"serie  \n"
+"y los saca en paralelo  \n"
+"Hay dos registros del sistema (reg1 y reg2) que almacenan el dato recibido (valor1 y valor2) respectivamente, para  \n"
+"mostrar los datos en los LEDs  \n"
+"Reg1 se caraga en el ciclo 4, y el registro Reg2 en el ciclo 76\n"
+"\n"
+"El dato del registro RX se captura en un LEDOSCOPIO de datos\n"
+"\n"
+"Tras 7 cyclos los valores 1 y 2 se almacenan en los registros 1 y 2 respectivamente"
 
 #: translation.js:1999
 msgid ""
@@ -8534,6 +8598,13 @@ msgid ""
 "| reg1     |  000    |  000    |  000   |  000   |  **101**  | 101   | 101   | 101   |\n"
 "| reg2     |  000    |  000    |  000   |  000   | 000   | 000   | 000   | **111**   |\n"
 msgstr ""
+"| Ciclo    | 0       | 1       | 2      | 3      | 4     | 5     | 6     | 7     |\n"
+"|----------|---------|---------|--------|--------|-------|-------|-------|-------|\n"
+"| tx-reg   | 111 101 | 011 110 | 001 111| 000 111|000 011|000 001|000 000|000 000|\n"
+"| rx-reg   | 000     | 100     | 010    | 101    | 110   | 111   | 111   | 011   |\n"
+"| load     |  0      |  0      |  0     |  1     |  0    |  0    |  1    |  0    |\n"
+"| reg1     |  000    |  000    |  000   |  000   |  **101**  | 101   | 101   | 101   |\n"
+"| reg2     |  000    |  000    |  000   |  000   | 000   | 000   | 000   | **111**   |\n"
 
 #: translation.js:2000
 msgid ""
@@ -8541,46 +8612,49 @@ msgid ""
 "\n"
 "It actives the load signal on cycles 3 and 6"
 msgstr ""
+"## Controlador\n"
+"\n"
+"Activa la señal de load en los ciclos 3 y 6"
 
 #: translation.js:2001
 msgid "Serial transmission"
-msgstr ""
+msgstr "Transmisión serie"
 
 #: translation.js:2002
 msgid "TX reg: Serial transmitter"
-msgstr ""
+msgstr "TX reg: Transmisor serie"
 
 #: translation.js:2003
 msgid "RX reg: Serial receiver"
-msgstr ""
+msgstr "RX reg: Receptor serie"
 
 #: translation.js:2004
 msgid "Paralell data"
-msgstr ""
+msgstr "Dato paralelo"
 
 #: translation.js:2005
 msgid "Reg1: It stores the Value 1"
-msgstr ""
+msgstr "Reg1: Almacena el valor 1"
 
 #: translation.js:2006
 msgid "Reg2: It stores the Value 2"
-msgstr ""
+msgstr "Reg2: Almacena el valor 2"
 
 #: translation.js:2010
 msgid "4bits constant value: 0"
-msgstr ""
+msgstr "Valor constante de 4-bits: 0"
 
 #: translation.js:2011
 msgid "Generic: 4-bits generic constant (0-15)"
-msgstr ""
+msgstr "Genérico: Constante genérica de 4 bits (0-15)"
 
 #: translation.js:2012
 msgid "Bus5-Split-all: Split the 5-bits bus into its wires"
-msgstr ""
+msgstr "Bus5-Split-all: Separar el bus de 5 bits en sus cables"
 
 #: translation.js:2013
 msgid "04-Uint08: 4 bits unsigned integer extension to 8 bits. Verilog implementation"
-msgstr ""
+msgstr "04-Uint08: Extensión de un entero sin signo de 4 a 8 bits. Implementación en Verilog"
 
 #: translation.js:2014
 msgid ""
@@ -8592,6 +8666,13 @@ msgid ""
 "\n"
 "After 4 cycles the result is displayed on the LEDs"
 msgstr ""
+"## Ejemplo 6: Registro Sys-SR con carga: Suma serie\n"
+"\n"
+"Los valores 5 y 7 de 3 bits se suman en serie. El resultado (12) se muestra en los LEDs  \n"
+"\n"
+"El dato del registro RX se captura en el LEDOSCOPIO de datos\n"
+"\n"
+"Tras 4 ciclos el resultado se muestra en los LEDs"
 
 #: translation.js:2015
 msgid ""
@@ -8600,6 +8681,9 @@ msgid ""
 "significant bits are filled  \n"
 "with 0)"
 msgstr ""
+"Convertir el valor de 4 a  \n"
+"8 bits (Los bits más significativos  \n"
+"se rellenan con 0)"
 
 #: translation.js:2016
 msgid ""
@@ -8607,18 +8691,21 @@ msgid ""
 "\n"
 "It actives the load signal on cycle 4"
 msgstr ""
+"## Controlador\n"
+"\n"
+"Activa la señal de load en el ciclo 4"
 
 #: translation.js:2017
 msgid "Result in paralell"
-msgstr ""
+msgstr "Resultado en paralelo"
 
 #: translation.js:2018
 msgid "Previous carry bit"
-msgstr ""
+msgstr "Bit de acarreo previo"
 
 #: translation.js:2019
 msgid "Serial adder"
-msgstr ""
+msgstr "Sumador serie"
 
 #: translation.js:2023
 msgid ""
