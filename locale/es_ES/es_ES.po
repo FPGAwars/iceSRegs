@@ -3892,15 +3892,15 @@ msgstr "02-Sys-SL-ld: Registro de desplazamiento a la izquierda de 2 bits, del s
 
 #: translation.js:938
 msgid "Load external data"
-msgstr ""
+msgstr "Cargar datos externos"
 
 #: translation.js:939
 msgid "External data"
-msgstr ""
+msgstr "Datos externos"
 
 #: translation.js:940
 msgid "Serial input"
-msgstr ""
+msgstr "Entrada serie"
 
 #: translation.js:941
 msgid "03-Sys-SL-ld"
@@ -5060,147 +5060,157 @@ msgstr ""
 
 #: translation.js:1184
 msgid "02-Sys-SL-rst-imp1"
-msgstr ""
+msgstr "02-Sys-SL-rst-imp1"
 
 #: translation.js:1185
 msgid "02-Sys-SL-rst-imp1: 2-bits System Shift register to the left, with reset.  Block implementation 1"
 msgstr ""
+"02-Sys-SL-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 2 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1186
 msgid "02-Sys-SL-rst-imp2"
-msgstr ""
+msgstr "02-Sys-SL-rst-imp2"
 
 #: translation.js:1187
 msgid "02-Sys-SL-rst-imp2: 2-bits System Shift register to the left, with reset.  Block implementation 2"
 msgstr ""
+"02-Sys-SL-rst-imp2: Registro de desplazamiento a izquierda y derecha del sistema, de 2 bits, con reset. Implementación "
+"con bloques 2"
 
 #: translation.js:1188
 msgid "04-Sys-SL-rst-imp1"
-msgstr ""
+msgstr "04-Sys-SL-rst-imp1"
 
 #: translation.js:1189
 msgid "Sys-SL-rst-04-imp1: 4-bits System Shift register to the left, with reset.  Block implementation 1"
 msgstr ""
+"Sys-SL-rst-04-imp1: Registro de desplazamiento a izquierda del sistema, de 4 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1190
 msgid "04-Sys-SL-rst-imp2"
-msgstr ""
+msgstr "04-Sys-SL-rst-imp2"
 
 #: translation.js:1191
 msgid "Sys-SL-rst-04-imp2: 4-bits System Shift register to the left, with reset.  Block implementation 2"
 msgstr ""
+"Sys-SL-rst-04-imp2: Registro de desplazamiento a izquierda del sistema, de 4 bits, con reset. Implementación con bloques 2"
 
 #: translation.js:1192
 msgid "08-Sys-SL-rst-imp1"
-msgstr ""
+msgstr "08-Sys-SL-rst-imp1"
 
 #: translation.js:1193
 msgid "08-Sys-SL-rst-imp1: 8-bits System Shift register to the left, with reset.  Block implementation 1"
 msgstr ""
+"08-Sys-SL-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 8 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1194
 msgid "16-Sys-SL-rst-imp1"
-msgstr ""
+msgstr "16-Sys-SL-rst-imp1"
 
 #: translation.js:1195
 msgid "16-Sys-SL-rst-imp1: 16-bits System Shift register to the left, with reset.  Block implementation 1"
 msgstr ""
+"16-Sys-SL-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 16 bits, con reset. Implementación con bloques "
+"1"
 
 #: translation.js:1196
 msgid "32-Sys-SL-rst-imp1"
-msgstr ""
+msgstr "32-Sys-SL-rst-imp1"
 
 #: translation.js:1197
 msgid "32-Sys-SL-rst-imp1: 32-bits System Shift register to the left, with reset.  Block implementation 1"
 msgstr ""
+"32-Sys-SL-rst-imp1: Registro de desplazamiento a izquierda del sistema, de 32 bits, con reset. Implementación con bloques "
+"1"
 
 #: translation.js:1198
 msgid "02-Sys-SL-imp1"
-msgstr ""
+msgstr "02-Sys-SL-imp1"
 
 #: translation.js:1199
 msgid "02-Sys-SL-imp1: 2-bits System Shift register to the left.  Block implementation 1"
-msgstr ""
+msgstr "02-Sys-SL-imp1: Registro de desplazamiento a izquierda del sistema, de 2 bits. Implementación con bloques 1"
 
 #: translation.js:1200
 msgid "02-Sys-SL-imp2"
-msgstr ""
+msgstr "02-Sys-SL-imp2"
 
 #: translation.js:1201
 msgid "02-Sys-SL-imp2: 2-bits System Shift register to the left.  Block implementation 2"
-msgstr ""
+msgstr "02-Sys-SL-imp2: Registro de desplazamiento a izquierda del sistema, de 2 bits. Implementación con bloques 2"
 
 #: translation.js:1202
 msgid "04-Sys-SL-imp1"
-msgstr ""
+msgstr "04-Sys-SL-imp1"
 
 #: translation.js:1203
 msgid "Sys-SL-04-imp1: 4-bits System Shift register to the left.  Block implementation 1"
-msgstr ""
+msgstr "Sys-SL-rst-04-imp1: Registro de desplazamiento a izquierda del sistema, de 4 bits. Implementación con bloques 1"
 
 #: translation.js:1204
 msgid "04-Sys-SL-imp2"
-msgstr ""
+msgstr "04-Sys-SL-imp2"
 
 #: translation.js:1205
 msgid "04-Sys-SL-imp2: 4-bits System Shift register to the left.  Block implementation 2"
-msgstr ""
+msgstr "04-Sys-SL-imp2: Registro de desplazamiento a izquierda del sistema, de 4 bits. Implementación con bloques 2"
 
 #: translation.js:1206
 msgid "08-Sys-SL-imp1"
-msgstr ""
+msgstr "08-Sys-SL-imp1"
 
 #: translation.js:1207
 msgid "08-Sys-SL-imp1: 8-bits System Shift register to the left.  Block implementation 1"
-msgstr ""
+msgstr "08-Sys-SL-imp1: Registro de desplazamiento a izquierda del sistema, de 8 bits. Implementación con bloques 1"
 
 #: translation.js:1208
 msgid "16-Sys-SL-imp1"
-msgstr ""
+msgstr "16-Sys-SL-imp1"
 
 #: translation.js:1209
 msgid "16-Sys-SL-imp1: 16-bits System Shift register to the left.  Block implementation 1"
-msgstr ""
+msgstr "16-Sys-SL-imp1: Registro de desplazamiento a izquierda del sistema, de 16 bits. Implementación con bloques 1"
 
 #: translation.js:1210
 msgid "32-Sys-SL-imp1"
-msgstr ""
+msgstr "32-Sys-SL-imp1"
 
 #: translation.js:1211
 msgid "32-Sys-SL-imp1: 32-bits System Shift register to the left.  Block implementation 1"
-msgstr ""
+msgstr "32-Sys-SL-imp1: Registro de desplazamiento a izquierda del sistema, de 32 bits. Implementación con bloques 1"
 
 #: translation.js:1212
 msgid "SR"
-msgstr ""
+msgstr "SR"
 
 #: translation.js:1213
 msgid "SR-ld"
-msgstr ""
+msgstr "SR-ld"
 
 #: translation.js:1214
 msgid "SR-ld-rst"
-msgstr ""
+msgstr "SR-ld-rst"
 
 #: translation.js:1215
 msgid "SR-rst"
-msgstr ""
+msgstr "SR-rst"
 
 #: translation.js:1216
 msgid "Sys-SR"
-msgstr ""
+msgstr "Sys-SR"
 
 #: translation.js:1217
 msgid "Sys-SR-ld"
-msgstr ""
+msgstr "Sys-SR-ld"
 
 #: translation.js:1218
 msgid "Sys-SR-ld-rst"
-msgstr ""
+msgstr "Sys-SR-ld-rst"
 
 #: translation.js:1219
 msgid "Sys-SR-rst"
-msgstr ""
+msgstr "Sys-SR-rst"
 
 #: translation.js:1221
 msgid "02-SR"
@@ -6059,67 +6069,67 @@ msgstr "02-SR-ld-imp1"
 
 #: translation.js:1433
 msgid "02-SR-ld-imp1: Shift register to the right, with load.  Block implementation 1"
-msgstr ""
+msgstr "02-SR-ld-imp1:  Registro de desplazamiento a la derecha, con load. Implementación con bloques 1"
 
 #: translation.js:1434
 msgid "02-SR-ld-imp2"
-msgstr ""
+msgstr "02-SR-ld-imp2"
 
 #: translation.js:1435
 msgid "SR-ld-02-imp2: Shift register to the right, with load.  Block implementation 2"
-msgstr ""
+msgstr "SR-ld-02-imp2:  Registro de desplazamiento a la derecha, de 2 bits, con load. Implementación con bloques 2"
 
 #: translation.js:1436
 msgid "04-SR-ld-imp1"
-msgstr ""
+msgstr "04-SR-ld-imp1"
 
 #: translation.js:1437
 msgid "04-SR-ld-imp1: Shift register to the right, with load.  Block implementation 1"
-msgstr ""
+msgstr "04-SR-ld-imp1:  Registro de desplazamiento a la derecha, con load. Implementación con bloques 1"
 
 #: translation.js:1438
 msgid "04-SR-ld-imp2"
-msgstr ""
+msgstr "04-SR-ld-imp2"
 
 #: translation.js:1439
 msgid "SR-ld-04-imp2: Shift register to the right, with load.  Block implementation 2"
-msgstr ""
+msgstr "SR-ld-04-imp2:  Registro de desplazamiento a la derecha, de 4 bits, con load. Implementación con bloques 2"
 
 #: translation.js:1440
 msgid "08-SR-ld-imp1"
-msgstr ""
+msgstr "08-SR-ld-imp1"
 
 #: translation.js:1441
 msgid "08-SR-ld-imp1: Shift register to the right, with load.  Block implementation 1"
-msgstr ""
+msgstr "08-SR-ld-imp1:  Registro de desplazamiento a la derecha, con load. Implementación con bloques 1"
 
 #: translation.js:1442
 msgid "08-Reg: 8 bits Register. Verilog implementation"
-msgstr ""
+msgstr "08-Reg: Registro de 8-bits. Implementación en Verilog"
 
 #: translation.js:1443
 msgid "16-SR-ld-imp1"
-msgstr ""
+msgstr "16-SR-ld-imp1"
 
 #: translation.js:1444
 msgid "16-SR-ld-imp1: Shift register to the right, with load.  Block implementation 1"
-msgstr ""
+msgstr "16-SR-ld-imp1:  Registro de desplazamiento a la derecha, con load. Implementación con bloques 1"
 
 #: translation.js:1445
 msgid "16-Reg: 16 bits Register. Verilog implementation"
-msgstr ""
+msgstr "16-Reg: Registro de 16-bits. Implementación en Verilog"
 
 #: translation.js:1446
 msgid "32-SR-ld-imp1"
-msgstr ""
+msgstr "32-SR-ld-imp1"
 
 #: translation.js:1447
 msgid "32-SR-ld-imp1: Shift register to the right, with load.  Block implementation 1"
-msgstr ""
+msgstr "32-SR-ld-imp1:  Registro de desplazamiento a la derecha, con load. Implementación con bloques 1"
 
 #: translation.js:1448
 msgid "32-Reg: 32 bits Register. Verilog implementation"
-msgstr ""
+msgstr "32-Reg: Registro de 32-bits. Implementación en Verilog"
 
 #: translation.js:1450
 msgid "02-SR-rst"
@@ -6371,107 +6381,107 @@ msgstr "32-SR-rst: Registro de desplazamiento a la derecha con reset. Implementa
 
 #: translation.js:1512
 msgid "02-SR-rst-imp1"
-msgstr ""
+msgstr "02-SR-rst-imp1"
 
 #: translation.js:1513
 msgid "02-SR-rst-imp1: 2-bits Shift register to the right, with the reset.  Block implementation 1"
-msgstr ""
+msgstr "02-SR-rst-imp1: Registro de desplazamiento a la derecha, de 2 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1514
 msgid "02-SR-rst-imp2"
-msgstr ""
+msgstr "02-SR-rst-imp2"
 
 #: translation.js:1515
 msgid "02-SR-rst-imp2: 2-bits Shift register to the right, with reset.  Block implementation 2"
-msgstr ""
+msgstr "02-SR-rst-imp2: Registro de desplazamiento a la derecha, de 2 bits, con reset. Implementación con bloques 2"
 
 #: translation.js:1516
 msgid "04-SR-rst-imp1"
-msgstr ""
+msgstr "04-SR-rst-imp1"
 
 #: translation.js:1517
 msgid "04-SR-rst-imp1: 2-bits Shift register to the right, with reset.  Block implementation 1"
-msgstr ""
+msgstr "04-SR-rst-imp1: Registro de desplazamiento a la derecha, de 4 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1518
 msgid "04-SR-rst-imp2"
-msgstr ""
+msgstr "04-SR-rst-imp2"
 
 #: translation.js:1519
 msgid "04-SR-rst-imp2: 4-bits Shift register to the right, with reset.  Block implementation 2"
-msgstr ""
+msgstr "04-SR-rst-imp2: Registro de desplazamiento a la derecha, de 4 bits, con reset. Implementación con bloques 2"
 
 #: translation.js:1520
 msgid "08-SR-rst-imp1"
-msgstr ""
+msgstr "08-SR-rst-imp1"
 
 #: translation.js:1521
 msgid "08-SR-rst-imp1: 8-bits Shift register to the right, with reset.  Block implementation 1"
-msgstr ""
+msgstr "08-SR-rst-imp1: Registro de desplazamiento a la derecha, de 8 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1522
 msgid "08-Reg-rst: 8 bits Register with reset. Verilog implementation"
-msgstr ""
+msgstr "08-Reg-rst: Registro del sistema de 8-bits con reset. Implementación en Verilog"
 
 #: translation.js:1523
 msgid "16-SR-rst-imp1"
-msgstr ""
+msgstr "16-SR-rst-imp1"
 
 #: translation.js:1524
 msgid "16-SR-rst-imp1: Shift register to the right, with reset.  Block implementation 1"
-msgstr ""
+msgstr "16-SR-rst-imp1:  Registro de desplazamiento a la derecha, con reset. Implementación con bloques 1"
 
 #: translation.js:1525
 msgid "16-Reg-rst: 16 bits Register with reset. Verilog implementation"
-msgstr ""
+msgstr "16-Reg-rst: Registro del sistema de 16-bits con reset. Implementación en Verilog"
 
 #: translation.js:1526
 msgid "32-SR-rst-imp1"
-msgstr ""
+msgstr "32-SR-rst-imp1"
 
 #: translation.js:1527
 msgid "32-SR-rst-imp1: Shift register to the right, with reset.  Block implementation 1"
-msgstr ""
+msgstr "32-SR-rst-imp1: Registro de desplazamiento a la derecha, de 32 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1528
 msgid "32-Reg-rst: 32 bits Register with reset. Verilog implementation"
-msgstr ""
+msgstr "32-Reg-rst: Registro de 32-bits con reset. Implementación en Verilog"
 
 #: translation.js:1529
 msgid "02-SR02-imp1"
-msgstr ""
+msgstr "02-SR02-imp1"
 
 #: translation.js:1530
 msgid "02-SR-imp1: 2-bits Shift register to the right.  Block implementation 1"
-msgstr ""
+msgstr "02-SR-imp1: Registro de desplazamiento a la derecha, de 2 bits, con reset. Implementación con bloques 1"
 
 #: translation.js:1531
 msgid "02-SR02-imp2"
-msgstr ""
+msgstr "02-SR02-imp2"
 
 #: translation.js:1532
 msgid "02-SR-imp2: 2-bits Shift register to the right.  Block implementation 2"
-msgstr ""
+msgstr "02-SR-imp2: Registro de desplazamiento a la derecha, de 2 bits. Implementación con bloques 2"
 
 #: translation.js:1533
 msgid "04-SR-imp1"
-msgstr ""
+msgstr "04-SR-imp1"
 
 #: translation.js:1534
 msgid "04-SR-imp1: 4-bits Shift register to the right.  Block implementation 1"
-msgstr ""
+msgstr "04-SR-imp1: Registro de desplazamiento a la derecha, de 4 bits. Implementación con bloques 1"
 
 #: translation.js:1535
 msgid "04-SR-imp2"
-msgstr ""
+msgstr "04-SR-imp2"
 
 #: translation.js:1536
 msgid "04-SR-imp2: 4-bits Shift register to the right.  Block implementation 2"
-msgstr ""
+msgstr "04-SR-imp2: Registro de desplazamiento a la derecha, de 4 bits. Implementación con bloques 2"
 
 #: translation.js:1537
 msgid "08-SR-imp1"
-msgstr ""
+msgstr "08-SR-imp1"
 
 #: translation.js:1538
 msgid "08-SR-imp1: 8-bits Shift register to the right.  Block implementation 1"
