@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   inkscape:version="1.3.1 (1:1.3.1+202311172155+91b66b0783)"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    sodipodi:docname="Sys-SLR-ld-01.svg"
    inkscape:export-filename="Sys-SR-ld-01.png"
    inkscape:export-xdpi="96"
@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.6895202"
      inkscape:cx="429.28402"
-     inkscape:cy="351.69383"
+     inkscape:cy="353.14411"
      inkscape:window-width="1864"
      inkscape:window-height="1016"
      inkscape:window-x="56"
@@ -632,7 +632,7 @@
          id="tspan18"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke:none;stroke-width:8.08442"
          x="17.556881"
-         y="215.33783">Shift left(0)/right(1)</tspan></text><path
+         y="215.33783">Shift left(1)/right(0)</tspan></text><path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
        d="m 53.409534,213.70271 17.260852,-6.64215"
        id="path19"
