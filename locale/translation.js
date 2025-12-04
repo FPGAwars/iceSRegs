@@ -1607,6 +1607,8 @@ gettext('32-Sys-SR: 32 bits system shift right register. Verilog implementation'
 gettext('Blocks');
 gettext('02-Sys-SR-basic');
 gettext('02-Sys-SR-basic-block: Basic 2-bits System Shift register to the right. Block implementation 1');
+gettext('03-Sys-SR-basic');
+gettext('03-Sys-SR-basic-block: Basic 3-bits System Shift register to the right. Block implementation 1');
 gettext('Blocks');
 gettext('02-Sys-SR-ld');
 gettext('02-Sys-SR-ld: 2 bits system shift right register with load input. Verilog implementation');
