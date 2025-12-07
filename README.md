@@ -814,6 +814,7 @@ For installing and using this colection in Icestudio follow these steps:
     * **Blocks**
       * 02-Sys-SR-basic
       * 03-Sys-SR-basic
+      * 04-Sys-SR-basic
   * **Sys-SR-ld**
     * 02-Sys-SR-ld
     * 03-Sys-SR-ld
